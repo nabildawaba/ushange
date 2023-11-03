@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rates>
+<item>
+<from>PRUSD</from>
+<to>PREUR</to>
+<in>1</in>
+<out>0.94515</out>
+<amount>6509.63</amount>
+<minamount>10 USD</minamount>
+<maxamount>25000 USD</maxamount>
+</item>
+<item>
+<from>PRUSD</from>
+<to>USDTTRC20</to>
+<in>1</in>
+<out>0.97525</out>
+<amount>1742874.97</amount>
+<minamount>10 USD</minamount>
+<maxamount>25000 USD</maxamount>
+</item>
+<item>
+<from>PRUSD</from>
+<to>LTC</to>
+<in>1</in>
+<out>0.0149489</out>
+<amount>13.74222</amount>
+<minamount>10 USD</minamount>
+<maxamount>25000 USD</maxamount>
+</item>
+<item>
+<from>PRUSD</from>
+<to>BTC</to>
+<in>1</in>
+<out>0.0000348</out>
+<amount>0.03348</amount>
+<minamount>200.00000000 USD</minamount>
+<maxamount>25000.00000000 USD</maxamount>
+</item>
+<item>
+<from>PRUSD</from>
+<to>ADVCEUR</to>
+<in>1</in>
+<out>0.9311145</out>
+<amount>3658.38</amount>
+<minamount>10 USD</minamount>
+<maxamount>25000 USD</maxamount>
+</item>
+<item>
+<from>PRUSD</from>
+<to>ADVCUSD</to>
+<in>1</in>
+<out>0.9703</out>
+<amount>573.11</amount>
+<minamount>10 USD</minamount>
+<maxamount>25000 USD</maxamount>
+</item>
+<item>
+<from>PRUSD</from>
+<to>PMEUR</to>
+<in>1</in>
+<out>0.9563783</out>
+<amount>11933.85</amount>
+<minamount>10 USD</minamount>
+<maxamount>25000 USD</maxamount>
+</item>
+<item>
+<from>PRUSD</from>
+<to>PMVUSD</to>
+<in>1</in>
+<out>1</out>
+<amount>45828.20</amount>
+<minamount>10 USD</minamount>
+<maxamount>25000 USD</maxamount>
+</item>
+<item>
+<from>PRUSD</from>
+<to>PMUSD</to>
+<in>1</in>
+<out>1</out>
+<amount>94804.66</amount>
+<minamount>10 USD</minamount>
+<maxamount>25000 USD</maxamount>
+</item>
+<item>
+<from>PRUSD</from>
+<to>ETH</to>
+<in>1</in>
+<out>0.0005886</out>
+<amount>0.53902</amount>
+<minamount>10 USD</minamount>
+<maxamount>25000 USD</maxamount>
+</item>
+<item>
+<from>PRUSD</from>
+<to>USDTERC20</to>
+<in>1</in>
+<out>0.901</out>
+<amount>68.78</amount>
+<minamount>10 USD</minamount>
+<maxamount>25000 USD</maxamount>
+<param>manual</param></item>
+<item>
+<from>USDTTRC20</from>
+<to>PREUR</to>
+<in>1</in>
+<out>0.9631078</out>
+<amount>6509.63</amount>
+<minamount>10 USD</minamount>
+<maxamount>100001 USD</maxamount>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>PRUSD</to>
+<in>1</in>
+<out>1.017</out>
+<amount>84.02</amount>
+<minamount>10 USD</minamount>
+<maxamount>100001 USD</maxamount>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>LTC</to>
+<in>1</in>
+<out>0.0147978</out>
+<amount>13.74222</amount>
+<minamount>200.00000000 USD</minamount>
+<maxamount>25000.00000000 USD</maxamount>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>BTC</to>
+<in>1</in>
+<out>0.0000369</out>
+<amount>0.03348</amount>
+<minamount>500.00000000 USD</minamount>
+<maxamount>25000.00000000 USD</maxamount>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>ADVCEUR</to>
+<in>1</in>
+<out>0.9309727</out>
+<amount>3658.38</amount>
+<minamount>10 USD</minamount>
+<maxamount>100001 USD</maxamount>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>ADVCUSD</to>
+<in>1</in>
+<out>1.005</out>
+<amount>573.11</amount>
+<minamount>10 USD</minamount>
+<maxamount>100001 USD</maxamount>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>PMEUR</to>
+<in>1</in>
+<out>0.964053</out>
+<amount>11933.85</amount>
+<minamount>10 USD</minamount>
+<maxamount>100001 USD</maxamount>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>PMVUSD</to>
+<in>1</in>
+<out>1.03</out>
+<amount>45828.20</amount>
+<minamount>10 USD</minamount>
+<maxamount>100001 USD</maxamount>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>PMUSD</to>
+<in>1</in>
+<out>1.03</out>
+<amount>94804.66</amount>
+<minamount>10 USD</minamount>
+<maxamount>100001 USD</maxamount>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>ETH</to>
+<in>1</in>
+<out>0.0005949</out>
+<amount>0.53902</amount>
+<minamount>500.00000000 USD</minamount>
+<maxamount>25000.00000000 USD</maxamount>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>USDTERC20</to>
+<in>1</in>
+<out>0.98</out>
+<amount>68.78</amount>
+<minamount>500.00000000 USD</minamount>
+<maxamount>10000.00000000 USD</maxamount>
+<param>manual</param></item>
+<item>
+<from>LTC</from>
+<to>PREUR</to>
+<in>1</in>
+<out>60.0996622</out>
+<amount>6509.63</amount>
+<minamount>0.01 LTC</minamount>
+<maxamount>25 LTC</maxamount>
+</item>
+<item>
+<from>LTC</from>
+<to>PRUSD</to>
+<in>1</in>
+<out>65.8770945</out>
+<amount>84.02</amount>
+<minamount>0.01 LTC</minamount>
+<maxamount>25 LTC</maxamount>
+</item>
+<item>
+<from>LTC</from>
+<to>USDTTRC20</to>
+<in>1</in>
+<out>63.587433</out>
+<amount>1742874.97</amount>
+<minamount>0.01 LTC</minamount>
+<maxamount>25 LTC</maxamount>
+</item>
+<item>
+<from>LTC</from>
+<to>BTC</to>
+<in>1</in>
+<out>0.0021913</out>
+<amount>0.03348</amount>
+<minamount>1.00000000 LTC</minamount>
+<maxamount>100.00000000 LTC</maxamount>
+</item>
+<item>
+<from>LTC</from>
+<to>ADVCEUR</to>
+<in>1</in>
+<out>61.3362757</out>
+<amount>3658.38</amount>
+<minamount>0.01 LTC</minamount>
+<maxamount>25 LTC</maxamount>
+</item>
+<item>
+<from>LTC</from>
+<to>ADVCUSD</to>
+<in>1</in>
+<out>65.4191622</out>
+<amount>573.11</amount>
+<minamount>0.01 LTC</minamount>
+<maxamount>25 LTC</maxamount>
+</item>
+<item>
+<from>LTC</from>
+<to>PMEUR</to>
+<in>1</in>
+<out>61.9545825</out>
+<amount>11933.85</amount>
+<minamount>0.01 LTC</minamount>
+<maxamount>25 LTC</maxamount>
+</item>
+<item>
+<from>LTC</from>
+<to>PMVUSD</to>
+<in>1</in>
+<out>66.6621213</out>
+<amount>45828.20</amount>
+<minamount>0.01 LTC</minamount>
+<maxamount>25 LTC</maxamount>
+</item>
+<item>
+<from>LTC</from>
+<to>PMUSD</to>
+<in>1</in>
+<out>66.6621213</out>
+<amount>94804.66</amount>
+<minamount>0.01 LTC</minamount>
+<maxamount>25 LTC</maxamount>
+</item>
+<item>
+<from>LTC</from>
+<to>ETH</to>
+<in>1</in>
+<out>0.0376322</out>
+<amount>0.53902</amount>
+<minamount>1.00000000 LTC</minamount>
+<maxamount>100.00000000 LTC</maxamount>
+</item>
+<item>
+<from>LTC</from>
+<to>USDTERC20</to>
+<in>1</in>
+<out>62.933244</out>
+<amount>68.78</amount>
+<minamount>1.00000000 LTC</minamount>
+<maxamount>100.00000000 LTC</maxamount>
+<param>manual</param></item>
+<item>
+<from>BTC</from>
+<to>PREUR</to>
+<in>1</in>
+<out>25705.0383553</out>
+<amount>6509.63</amount>
+<minamount>0.001 BTC</minamount>
+<maxamount>1 BTC</maxamount>
+</item>
+<item>
+<from>BTC</from>
+<to>PRUSD</to>
+<in>1</in>
+<out>26928.04</out>
+<amount>84.02</amount>
+<minamount>0.001 BTC</minamount>
+<maxamount>1 BTC</maxamount>
+</item>
+<item>
+<from>BTC</from>
+<to>USDTTRC20</to>
+<in>1</in>
+<out>26793.6690804</out>
+<amount>1742874.97</amount>
+<minamount>0.001 BTC</minamount>
+<maxamount>1 BTC</maxamount>
+</item>
+<item>
+<from>BTC</from>
+<to>LTC</to>
+<in>1</in>
+<out>328.7553876</out>
+<amount>13.74222</amount>
+<minamount>0.001 BTC</minamount>
+<maxamount>1 BTC</maxamount>
+</item>
+<item>
+<from>BTC</from>
+<to>ADVCEUR</to>
+<in>1</in>
+<out>25197.0356566</out>
+<amount>3658.38</amount>
+<minamount>0.001 BTC</minamount>
+<maxamount>1 BTC</maxamount>
+</item>
+<item>
+<from>BTC</from>
+<to>ADVCUSD</to>
+<in>1</in>
+<out>26874.2916321</out>
+<amount>573.11</amount>
+<minamount>0.001 BTC</minamount>
+<maxamount>1 BTC</maxamount>
+</item>
+<item>
+<from>BTC</from>
+<to>PMEUR</to>
+<in>1</in>
+<out>25959.0397046</out>
+<amount>11933.85</amount>
+<minamount>0.001 BTC</minamount>
+<maxamount>1 BTC</maxamount>
+</item>
+<item>
+<from>BTC</from>
+<to>PMVUSD</to>
+<in>1</in>
+<out>27384.9011266</out>
+<amount>45828.20</amount>
+<minamount>0.001 BTC</minamount>
+<maxamount>1 BTC</maxamount>
+</item>
+<item>
+<from>BTC</from>
+<to>PMUSD</to>
+<in>1</in>
+<out>27384.9011266</out>
+<amount>94804.66</amount>
+<minamount>0.001 BTC</minamount>
+<maxamount>1 BTC</maxamount>
+</item>
+<item>
+<from>BTC</from>
+<to>ETH</to>
+<in>1</in>
+<out>15.4593128</out>
+<amount>0.53902</amount>
+<minamount>0.00500000 BTC</minamount>
+<maxamount>1.00000000 BTC</maxamount>
+</item>
+<item>
+<from>BTC</from>
+<to>USDTERC20</to>
+<in>1</in>
+<out>26121.8144824</out>
+<amount>68.78</amount>
+<minamount>0.00500000 BTC</minamount>
+<maxamount>1.00000000 BTC</maxamount>
+<param>manual</param></item>
+<item>
+<from>ADVCEUR</from>
+<to>PREUR</to>
+<in>1</in>
+<out>1</out>
+<amount>6509.63</amount>
+<minamount>10 EUR</minamount>
+<maxamount>25000 EUR</maxamount>
+</item>
+<item>
+<from>ADVCEUR</from>
+<to>PRUSD</to>
+<in>1</in>
+<out>1.0474527</out>
+<amount>84.02</amount>
+<minamount>10 EUR</minamount>
+<maxamount>25000 EUR</maxamount>
+</item>
+<item>
+<from>ADVCEUR</from>
+<to>USDTTRC20</to>
+<in>1</in>
+<out>1.0432206</out>
+<amount>1742874.97</amount>
+<minamount>10 EUR</minamount>
+<maxamount>25000 EUR</maxamount>
+</item>
+<item>
+<from>ADVCEUR</from>
+<to>LTC</to>
+<in>1</in>
+<out>0.0159124</out>
+<amount>13.74222</amount>
+<minamount>100.00000000 EUR</minamount>
+<maxamount>25000.00000000 EUR</maxamount>
+</item>
+<item>
+<from>ADVCEUR</from>
+<to>BTC</to>
+<in>1</in>
+<out>0.0000387</out>
+<amount>0.03348</amount>
+<minamount>500.00000000 EUR</minamount>
+<maxamount>25000.00000000 EUR</maxamount>
+</item>
+<item>
+<from>ADVCEUR</from>
+<to>ADVCUSD</to>
+<in>1</in>
+<out>1.0368724</out>
+<amount>573.11</amount>
+<minamount>10 EUR</minamount>
+<maxamount>25000 EUR</maxamount>
+</item>
+<item>
+<from>ADVCEUR</from>
+<to>PMEUR</to>
+<in>1</in>
+<out>1.03</out>
+<amount>11933.85</amount>
+<minamount>10 EUR</minamount>
+<maxamount>25000 EUR</maxamount>
+</item>
+<item>
+<from>ADVCEUR</from>
+<to>PMVUSD</to>
+<in>1</in>
+<out>1.0580331</out>
+<amount>45828.20</amount>
+<minamount>10 EUR</minamount>
+<maxamount>25000 EUR</maxamount>
+</item>
+<item>
+<from>ADVCEUR</from>
+<to>PMUSD</to>
+<in>1</in>
+<out>1.0580331</out>
+<amount>94804.66</amount>
+<minamount>10 EUR</minamount>
+<maxamount>25000 EUR</maxamount>
+</item>
+<item>
+<from>ADVCEUR</from>
+<to>ETH</to>
+<in>1</in>
+<out>0.0006238</out>
+<amount>0.53902</amount>
+<minamount>100.00000000 EUR</minamount>
+<maxamount>25000.00000000 EUR</maxamount>
+</item>
+<item>
+<from>ADVCEUR</from>
+<to>USDTERC20</to>
+<in>1</in>
+<out>1.0432206</out>
+<amount>68.78</amount>
+<minamount>500.00000000 EUR</minamount>
+<maxamount>25000.00000000 EUR</maxamount>
+<param>manual</param></item>
+<item>
+<from>ADVCUSD</from>
+<to>PREUR</to>
+<in>1</in>
+<out>0.9356985</out>
+<amount>6509.63</amount>
+<minamount>10 USD</minamount>
+<maxamount>25000 USD</maxamount>
+</item>
+<item>
+<from>ADVCUSD</from>
+<to>PRUSD</to>
+<in>1</in>
+<out>0.99</out>
+<amount>84.02</amount>
+<minamount>10 USD</minamount>
+<maxamount>25000 USD</maxamount>
+</item>
+<item>
+<from>ADVCUSD</from>
+<to>USDTTRC20</to>
+<in>1</in>
+<out>0.975</out>
+<amount>1742874.97</amount>
+<minamount>10 USD</minamount>
+<maxamount>25000 USD</maxamount>
+</item>
+<item>
+<from>ADVCUSD</from>
+<to>LTC</to>
+<in>1</in>
+<out>0.0151006</out>
+<amount>13.74222</amount>
+<minamount>100.00000000 USD</minamount>
+<maxamount>25000.00000000 USD</maxamount>
+</item>
+<item>
+<from>ADVCUSD</from>
+<to>BTC</to>
+<in>1</in>
+<out>0.0000367</out>
+<amount>0.03348</amount>
+<minamount>500.00000000 USD</minamount>
+<maxamount>25000.00000000 USD</maxamount>
+</item>
+<item>
+<from>ADVCUSD</from>
+<to>ADVCEUR</to>
+<in>1</in>
+<out>0.9167955</out>
+<amount>3658.38</amount>
+<minamount>10 USD</minamount>
+<maxamount>25000 USD</maxamount>
+</item>
+<item>
+<from>ADVCUSD</from>
+<to>PMEUR</to>
+<in>1</in>
+<out>0.94515</out>
+<amount>11933.85</amount>
+<minamount>10 USD</minamount>
+<maxamount>25000 USD</maxamount>
+</item>
+<item>
+<from>ADVCUSD</from>
+<to>PMVUSD</to>
+<in>1</in>
+<out>1</out>
+<amount>45828.20</amount>
+<minamount>10 USD</minamount>
+<maxamount>25000 USD</maxamount>
+</item>
+<item>
+<from>ADVCUSD</from>
+<to>PMUSD</to>
+<in>1</in>
+<out>1.017</out>
+<amount>94804.66</amount>
+<minamount>10 USD</minamount>
+<maxamount>25000 USD</maxamount>
+</item>
+<item>
+<from>ADVCUSD</from>
+<to>ETH</to>
+<in>1</in>
+<out>0.0005919</out>
+<amount>0.53902</amount>
+<minamount>500.00000000 USD</minamount>
+<maxamount>25000.00000000 USD</maxamount>
+</item>
+<item>
+<from>ADVCUSD</from>
+<to>USDTERC20</to>
+<in>1</in>
+<out>0.96</out>
+<amount>68.78</amount>
+<minamount>500.00000000 USD</minamount>
+<maxamount>25000.00000000 USD</maxamount>
+<param>manual</param></item>
+<item>
+<from>PMVUSD</from>
+<to>PREUR</to>
+<in>1</in>
+<out>0.9167955</out>
+<amount>6509.63</amount>
+<minamount>5 USD</minamount>
+<maxamount>50000 USD</maxamount>
+</item>
+<item>
+<from>PMVUSD</from>
+<to>PRUSD</to>
+<in>1</in>
+<out>0.975</out>
+<amount>84.02</amount>
+<minamount>5 USD</minamount>
+<maxamount>50000 USD</maxamount>
+</item>
+<item>
+<from>PMVUSD</from>
+<to>USDTTRC20</to>
+<in>1</in>
+<out>0.95</out>
+<amount>1742874.97</amount>
+<minamount>100.00000000 USD</minamount>
+<maxamount>50000.00000000 USD</maxamount>
+</item>
+<item>
+<from>PMVUSD</from>
+<to>LTC</to>
+<in>1</in>
+<out>0.0144927</out>
+<amount>13.74222</amount>
+<minamount>100.00000000 USD</minamount>
+<maxamount>25000.00000000 USD</maxamount>
+</item>
+<item>
+<from>PMVUSD</from>
+<to>BTC</to>
+<in>1</in>
+<out>0.0000356</out>
+<amount>0.03348</amount>
+<minamount>500.00000000 USD</minamount>
+<maxamount>25000.00000000 USD</maxamount>
+</item>
+<item>
+<from>PMVUSD</from>
+<to>ADVCEUR</to>
+<in>1</in>
+<out>0.8978925</out>
+<amount>3658.38</amount>
+<minamount>5 USD</minamount>
+<maxamount>50000 USD</maxamount>
+</item>
+<item>
+<from>PMVUSD</from>
+<to>ADVCUSD</to>
+<in>1</in>
+<out>0.95</out>
+<amount>573.11</amount>
+<minamount>5 USD</minamount>
+<maxamount>50000 USD</maxamount>
+</item>
+<item>
+<from>PMVUSD</from>
+<to>PMEUR</to>
+<in>1</in>
+<out>0.94515</out>
+<amount>11933.85</amount>
+<minamount>5 USD</minamount>
+<maxamount>50000 USD</maxamount>
+</item>
+<item>
+<from>PMVUSD</from>
+<to>PMUSD</to>
+<in>1</in>
+<out>0.96</out>
+<amount>94804.66</amount>
+<minamount>5 USD</minamount>
+<maxamount>50000 USD</maxamount>
+</item>
+<item>
+<from>PMVUSD</from>
+<to>ETH</to>
+<in>1</in>
+<out>0.000574</out>
+<amount>0.53902</amount>
+<minamount>100.00000000 USD</minamount>
+<maxamount>25000.00000000 USD</maxamount>
+</item>
+<item>
+<from>PMVUSD</from>
+<to>USDTERC20</to>
+<in>1</in>
+<out>0.94</out>
+<amount>68.78</amount>
+<minamount>500.00000000 USD</minamount>
+<maxamount>25000.00000000 USD</maxamount>
+<param>manual</param></item>
+<item>
+<from>PMUSD</from>
+<to>PREUR</to>
+<in>1</in>
+<out>0.9215212</out>
+<amount>6509.63</amount>
+<minamount>5 USD</minamount>
+<maxamount>1000001 USD</maxamount>
+</item>
+<item>
+<from>PMUSD</from>
+<to>PRUSD</to>
+<in>1</in>
+<out>0.975</out>
+<amount>84.02</amount>
+<minamount>5 USD</minamount>
+<maxamount>1000001 USD</maxamount>
+</item>
+<item>
+<from>PMUSD</from>
+<to>USDTTRC20</to>
+<in>1</in>
+<out>0.95</out>
+<amount>1742874.97</amount>
+<minamount>100.00000000 USD</minamount>
+<maxamount>50000.00000000 USD</maxamount>
+</item>
+<item>
+<from>PMUSD</from>
+<to>LTC</to>
+<in>1</in>
+<out>0.0144927</out>
+<amount>13.74222</amount>
+<minamount>100.00000000 USD</minamount>
+<maxamount>25000.00000000 USD</maxamount>
+</item>
+<item>
+<from>PMUSD</from>
+<to>BTC</to>
+<in>1</in>
+<out>0.0000356</out>
+<amount>0.03348</amount>
+<minamount>500.00000000 USD</minamount>
+<maxamount>25000.00000000 USD</maxamount>
+</item>
+<item>
+<from>PMUSD</from>
+<to>ADVCEUR</to>
+<in>1</in>
+<out>0.8978925</out>
+<amount>3658.38</amount>
+<minamount>5 USD</minamount>
+<maxamount>1000001 USD</maxamount>
+</item>
+<item>
+<from>PMUSD</from>
+<to>ADVCUSD</to>
+<in>1</in>
+<out>0.95</out>
+<amount>573.11</amount>
+<minamount>5 USD</minamount>
+<maxamount>1000001 USD</maxamount>
+</item>
+<item>
+<from>PMUSD</from>
+<to>PMEUR</to>
+<in>1</in>
+<out>0.94515</out>
+<amount>11933.85</amount>
+<minamount>5 USD</minamount>
+<maxamount>1000001 USD</maxamount>
+</item>
+<item>
+<from>PMUSD</from>
+<to>PMVUSD</to>
+<in>1</in>
+<out>0.96</out>
+<amount>45828.20</amount>
+<minamount>5 USD</minamount>
+<maxamount>1000001 USD</maxamount>
+</item>
+<item>
+<from>PMUSD</from>
+<to>ETH</to>
+<in>1</in>
+<out>0.000574</out>
+<amount>0.53902</amount>
+<minamount>100.00000000 USD</minamount>
+<maxamount>25000.00000000 USD</maxamount>
+</item>
+<item>
+<from>PMUSD</from>
+<to>USDTERC20</to>
+<in>1</in>
+<out>0.93</out>
+<amount>68.78</amount>
+<minamount>500.00000000 USD</minamount>
+<maxamount>25000.00000000 USD</maxamount>
+<param>manual</param></item>
+<item>
+<from>ETH</from>
+<to>PREUR</to>
+<in>1</in>
+<out>1556.941077</out>
+<amount>6509.63</amount>
+<minamount>0.01 ETH</minamount>
+<maxamount>10 ETH</maxamount>
+</item>
+<item>
+<from>ETH</from>
+<to>PRUSD</to>
+<in>1</in>
+<out>1655.6401466</out>
+<amount>84.02</amount>
+<minamount>0.01 ETH</minamount>
+<maxamount>10 ETH</maxamount>
+</item>
+<item>
+<from>ETH</from>
+<to>USDTTRC20</to>
+<in>1</in>
+<out>1655.6401466</out>
+<amount>1742874.97</amount>
+<minamount>0.01 ETH</minamount>
+<maxamount>10 ETH</maxamount>
+</item>
+<item>
+<from>ETH</from>
+<to>LTC</to>
+<in>1</in>
+<out>24.4938304</out>
+<amount>13.74222</amount>
+<minamount>0.01 ETH</minamount>
+<maxamount>10 ETH</maxamount>
+</item>
+<item>
+<from>ETH</from>
+<to>BTC</to>
+<in>1</in>
+<out>0.0596244</out>
+<amount>0.03348</amount>
+<minamount>0.10000000 ETH</minamount>
+<maxamount>5.00000000 ETH</maxamount>
+</item>
+<item>
+<from>ETH</from>
+<to>ADVCEUR</to>
+<in>1</in>
+<out>1564.8282845</out>
+<amount>3658.38</amount>
+<minamount>0.01 ETH</minamount>
+<maxamount>10 ETH</maxamount>
+</item>
+<item>
+<from>ETH</from>
+<to>ADVCUSD</to>
+<in>1</in>
+<out>1668.9920293</out>
+<amount>573.11</amount>
+<minamount>0.01 ETH</minamount>
+<maxamount>10 ETH</maxamount>
+</item>
+<item>
+<from>ETH</from>
+<to>PMEUR</to>
+<in>1</in>
+<out>1580.6026995</out>
+<amount>11933.85</amount>
+<minamount>0.01 ETH</minamount>
+<maxamount>10 ETH</maxamount>
+</item>
+<item>
+<from>ETH</from>
+<to>PMVUSD</to>
+<in>1</in>
+<out>1700.7027507</out>
+<amount>45828.20</amount>
+<minamount>0.01 ETH</minamount>
+<maxamount>10 ETH</maxamount>
+</item>
+<item>
+<from>ETH</from>
+<to>PMUSD</to>
+<in>1</in>
+<out>1700.7027507</out>
+<amount>94804.66</amount>
+<minamount>0.01 ETH</minamount>
+<maxamount>10 ETH</maxamount>
+</item>
+<item>
+<from>ETH</from>
+<to>USDTERC20</to>
+<in>1</in>
+<out>1605.5705864</out>
+<amount>68.78</amount>
+<minamount>0.10000000 ETH</minamount>
+<maxamount>5.00000000 ETH</maxamount>
+<param>manual</param></item>
+<item>
+<from>USDTERC20</from>
+<to>PREUR</to>
+<in>1</in>
+<out>0.9546015</out>
+<amount>6509.63</amount>
+<minamount>10 USD</minamount>
+<maxamount>50000 USD</maxamount>
+<param>manual</param></item>
+<item>
+<from>USDTERC20</from>
+<to>PRUSD</to>
+<in>1</in>
+<out>1.01</out>
+<amount>84.02</amount>
+<minamount>10 USD</minamount>
+<maxamount>50000 USD</maxamount>
+<param>manual</param></item>
+<item>
+<from>USDTERC20</from>
+<to>USDTTRC20</to>
+<in>1</in>
+<out>0.99</out>
+<amount>1742874.97</amount>
+<minamount>10 USD</minamount>
+<maxamount>50000 USD</maxamount>
+<param>manual</param></item>
+<item>
+<from>USDTERC20</from>
+<to>LTC</to>
+<in>1</in>
+<out>0.014643</out>
+<amount>13.74222</amount>
+<minamount>100.00000000 USD</minamount>
+<maxamount>25000.00000000 USD</maxamount>
+<param>manual</param></item>
+<item>
+<from>USDTERC20</from>
+<to>BTC</to>
+<in>1</in>
+<out>0.0000367</out>
+<amount>0.03348</amount>
+<minamount>500.00000000 USD</minamount>
+<maxamount>25000.00000000 USD</maxamount>
+<param>manual</param></item>
+<item>
+<from>USDTERC20</from>
+<to>ADVCEUR</to>
+<in>1</in>
+<out>0.9356985</out>
+<amount>3658.38</amount>
+<minamount>10 USD</minamount>
+<maxamount>50000 USD</maxamount>
+<param>manual</param></item>
+<item>
+<from>USDTERC20</from>
+<to>ADVCUSD</to>
+<in>1</in>
+<out>0.99</out>
+<amount>573.11</amount>
+<minamount>10 USD</minamount>
+<maxamount>50000 USD</maxamount>
+<param>manual</param></item>
+<item>
+<from>USDTERC20</from>
+<to>PMEUR</to>
+<in>1</in>
+<out>0.9612175</out>
+<amount>11933.85</amount>
+<minamount>10 USD</minamount>
+<maxamount>50000 USD</maxamount>
+<param>manual</param></item>
+<item>
+<from>USDTERC20</from>
+<to>PMVUSD</to>
+<in>1</in>
+<out>1.017</out>
+<amount>45828.20</amount>
+<minamount>10 USD</minamount>
+<maxamount>50000 USD</maxamount>
+<param>manual</param></item>
+<item>
+<from>USDTERC20</from>
+<to>PMUSD</to>
+<in>1</in>
+<out>1.017</out>
+<amount>94804.66</amount>
+<minamount>10 USD</minamount>
+<maxamount>50000 USD</maxamount>
+<param>manual</param></item>
+<item>
+<from>USDTERC20</from>
+<to>ETH</to>
+<in>1</in>
+<out>0.000574</out>
+<amount>0.53902</amount>
+<minamount>100.00000000 USD</minamount>
+<maxamount>25000.00000000 USD</maxamount>
+<param>manual</param></item>
+</rates>

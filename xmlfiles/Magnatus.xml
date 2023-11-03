@@ -1,0 +1,4897 @@
+<rates>
+<item>
+<from>PMUSD</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>0.98120000</out>
+<amount>16767.06</amount>
+<minfee>2.5 USD</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>132.98 USD</minamount>
+<maxamount>10000 USD</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PMUSD</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>0.90000000</out>
+<amount>11187.13</amount>
+<minfee>0 USD</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>100 USD</minamount>
+<maxamount>10000 USD</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PMUSD</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>0.96600000</out>
+<amount>37263.38</amount>
+<minfee>2.5 USD</minfee>
+<minamount>73.53 USD</minamount>
+<maxamount>10000 USD</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PMUSD</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.87300000</out>
+<amount>14493.13</amount>
+<minfee>2.5 USD</minfee>
+<minamount>83.33 USD</minamount>
+<maxamount>10000 USD</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PMEUR</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>0.93425000</out>
+<amount>16767.06</amount>
+<minfee>2.5 EUR</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>37.62 EUR</minamount>
+<maxamount>10000 EUR</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PMEUR</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>0.92500000</out>
+<amount>11187.13</amount>
+<minfee>2.5 EUR</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>37.25 EUR</minamount>
+<maxamount>10000 EUR</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PMEUR</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>0.97970000</out>
+<amount>37263.38</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>83.33 EUR</minamount>
+<maxamount>10000 EUR</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PMEUR</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.93180000</out>
+<amount>14493.13</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>36.66 EUR</minamount>
+<maxamount>10000 EUR</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>PMUSD</to>
+<in>1</in>
+<out>0.90100000</out>
+<amount>456813.88</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25.25 USD</minamount>
+<maxamount>5495 USD</maxamount>
+<param>manual, verifying</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>PMUSD</to>
+<in>1</in>
+<out>0.91001000</out>
+<amount>456813.88</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25.25 EUR</minamount>
+<maxamount>5440.5940594059 EUR</maxamount>
+<param>manual, verifying</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>PMUSD</to>
+<in>1</in>
+<out>0.89100000</out>
+<amount>456813.88</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>5545 USD</maxamount>
+<param>manual, verifying</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>PMUSD</to>
+<in>1</in>
+<out>0.89991000</out>
+<amount>456813.88</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>5490.099009901 EUR</maxamount>
+<param>manual, verifying</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>PMEUR</to>
+<in>1</in>
+<out>0.81090000</out>
+<amount>25982.72</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25.25 USD</minamount>
+<maxamount>4884.4444444444 USD</maxamount>
+<param>manual, verifying</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>PMEUR</to>
+<in>1</in>
+<out>0.90100000</out>
+<amount>25982.72</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25.25 EUR</minamount>
+<maxamount>4396 EUR</maxamount>
+<param>manual, verifying</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>PMEUR</to>
+<in>1</in>
+<out>0.80190000</out>
+<amount>25982.72</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>4928.8888888889 USD</maxamount>
+<param>manual, verifying</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>PMEUR</to>
+<in>1</in>
+<out>0.89100000</out>
+<amount>25982.72</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>4436 EUR</maxamount>
+<param>manual, verifying</param>
+</item>
+
+<item>
+<from>ADVCUSD</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>1.00320000</out>
+<amount>16767.06</amount>
+<minfee>0 USD</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>100 USD</minamount>
+<maxamount>10000 USD</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ADVCUSD</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>0.83250000</out>
+<amount>11187.13</amount>
+<minfee>2.5 USD</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>38.61 USD</minamount>
+<maxamount>10000 USD</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ADVCUSD</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>0.97000000</out>
+<amount>37263.38</amount>
+<minfee>2.5 USD</minfee>
+<minamount>83.33 USD</minamount>
+<maxamount>10000 USD</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ADVCUSD</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.87300000</out>
+<amount>14493.13</amount>
+<minfee>2.5 USD</minfee>
+<minamount>83.33 USD</minamount>
+<maxamount>10000 USD</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ADVCEUR</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>0.94243100</out>
+<amount>16767.06</amount>
+<minfee>2.5 EUR</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>37.62 EUR</minamount>
+<maxamount>9000 EUR</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ADVCEUR</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>0.89600000</out>
+<amount>11187.13</amount>
+<minfee>2.5 EUR</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>37.25 EUR</minamount>
+<maxamount>9000 EUR</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ADVCEUR</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>0.97970000</out>
+<amount>37263.38</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>83.33 EUR</minamount>
+<maxamount>9000 EUR</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ADVCEUR</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.94240000</out>
+<amount>14493.13</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>43.4 EUR</minamount>
+<maxamount>9000 EUR</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ADVCRUB</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>0.00892012</out>
+<amount>16767.06</amount>
+<minfee>500 RUB</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>206340.21 RUB</minamount>
+<maxamount>300000 RUB</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ADVCRUB</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>0.00807748</out>
+<amount>11187.13</amount>
+<minfee>500 RUB</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>217690.63 RUB</minamount>
+<maxamount>300000 RUB</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ADVCRUB</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>0.00926350</out>
+<amount>37263.38</amount>
+<minfee>500 RUB</minfee>
+<minamount>11111.11 RUB</minamount>
+<maxamount>300000 RUB</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ADVCRUB</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.00851261</out>
+<amount>14493.13</amount>
+<minfee>500 RUB</minfee>
+<minamount>6877.58 RUB</minamount>
+<maxamount>300000 RUB</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>ADVCUSD</to>
+<in>1</in>
+<out>0.88100000</out>
+<amount>72473.4</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>5595 USD</maxamount>
+<param>manual, verifying</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>ADVCUSD</to>
+<in>1</in>
+<out>0.88981000</out>
+<amount>72473.4</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>5539.603960396 EUR</maxamount>
+<param>manual, verifying</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>ADVCUSD</to>
+<in>1</in>
+<out>0.89100000</out>
+<amount>72473.4</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>5545 USD</maxamount>
+<param>manual, verifying</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>ADVCUSD</to>
+<in>1</in>
+<out>0.89991000</out>
+<amount>72473.4</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>5490.099009901 EUR</maxamount>
+<param>manual, verifying</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>ADVCEUR</to>
+<in>1</in>
+<out>0.82611000</out>
+<amount>31918.07</amount>
+<minfee>2.5 USD</minfee>
+<minamount>30.45 USD</minamount>
+<maxamount>4809.3333333333 USD</maxamount>
+<param>manual, verifying</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>ADVCEUR</to>
+<in>1</in>
+<out>0.88100000</out>
+<amount>31918.07</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>4476 EUR</maxamount>
+<param>manual, verifying</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>ADVCEUR</to>
+<in>1</in>
+<out>0.80190000</out>
+<amount>31918.07</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>4928.8888888889 USD</maxamount>
+<param>manual, verifying</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>ADVCEUR</to>
+<in>1</in>
+<out>0.89100000</out>
+<amount>31918.07</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>4436 EUR</maxamount>
+<param>manual, verifying</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>ADVCRUB</to>
+<in>1</in>
+<out>82.02110000</out>
+<amount>118282.7</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>1421.6792835661 USD</maxamount>
+<param>manual, verifying</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>ADVCRUB</to>
+<in>1</in>
+<out>86.78731000</out>
+<amount>118282.7</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>1343.6030991777 EUR</maxamount>
+<param>manual, verifying</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>ADVCRUB</to>
+<in>1</in>
+<out>82.95210000</out>
+<amount>118282.7</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>1408.9743748657 USD</maxamount>
+<param>manual, verifying</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>ADVCRUB</to>
+<in>1</in>
+<out>87.77241000</out>
+<amount>118282.7</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>1331.5959222414 EUR</maxamount>
+<param>manual, verifying</param>
+</item>
+
+<item>
+<from>BTC</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>27192.23000000</out>
+<amount>16767.06</amount>
+<minfee>0 BTC</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>0.003714 BTC</minamount>
+<maxamount>0.61655051071574 BTC</maxamount>
+<param>manual, floating</param>
+</item>
+
+<item>
+<from>BTC</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>24985.42740000</out>
+<amount>11187.13</amount>
+<minfee>0.0001 BTC</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>0.00552486 BTC</minamount>
+<maxamount>0.44759950691661 BTC</maxamount>
+<param>manual, floating</param>
+</item>
+
+<item>
+<from>BTC</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>26115.31000000</out>
+<amount>37263.38</amount>
+<minfee>0.0001 BTC</minfee>
+<minamount>0.00333333 BTC</minamount>
+<maxamount>1.4255945251272 BTC</maxamount>
+<param>manual, floating</param>
+</item>
+
+<item>
+<from>BTC</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>24682.62000000</out>
+<amount>14493.13</amount>
+<minfee>0.0001 BTC</minfee>
+<minamount>0.00333333 BTC</minamount>
+<maxamount>0.58665110036941 BTC</maxamount>
+<param>manual, floating</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>BTC</to>
+<in>1</in>
+<out>0.00003235</out>
+<amount>25.66</amount>
+<minfee>2.5 USD</minfee>
+<minamount>96.9 USD</minamount>
+<maxamount>15000 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>BTC</to>
+<in>1</in>
+<out>0.00003423</out>
+<amount>25.66</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>96.9 EUR</minamount>
+<maxamount>12000 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>BTC</to>
+<in>1</in>
+<out>0.00003272</out>
+<amount>25.66</amount>
+<minfee>2.5 USD</minfee>
+<minamount>105.04 USD</minamount>
+<maxamount>10000 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>BTC</to>
+<in>1</in>
+<out>0.00003462</out>
+<amount>25.66</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>105.04 EUR</minamount>
+<maxamount>10000 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>BCH</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>228.60754000</out>
+<amount>16767.06</amount>
+<minfee>0.015 BCH</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>0.57692308 BCH</minamount>
+<maxamount>20 BCH</maxamount>
+<param>manual, floating</param>
+</item>
+
+<item>
+<from>BCH</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>214.29744000</out>
+<amount>11187.13</amount>
+<minfee>0.015 BCH</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>0.44117647 BCH</minamount>
+<maxamount>20 BCH</maxamount>
+<param>manual, floating</param>
+</item>
+
+<item>
+<from>ETH</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>1688.87150000</out>
+<amount>16767.06</amount>
+<minfee>0 ETH</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>0.059803 ETH</minamount>
+<maxamount>9.9269738958825 ETH</maxamount>
+<param>manual, floating</param>
+</item>
+
+<item>
+<from>ETH</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>1542.81576600</out>
+<amount>11187.13</amount>
+<minfee>0.0015 ETH</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>0.06302521 ETH</minamount>
+<maxamount>7.2470047354201 ETH</maxamount>
+<param>manual, floating</param>
+</item>
+
+<item>
+<from>XLM</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>0.10714000</out>
+<amount>16767.06</amount>
+<minfee>25 XLM</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>1163.63 XLM</minamount>
+<maxamount>100000 XLM</maxamount>
+<param>manual, floating</param>
+</item>
+
+<item>
+<from>XLM</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>0.10516000</out>
+<amount>11187.13</amount>
+<minfee>25 XLM</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>1159.09 XLM</minamount>
+<maxamount>100000 XLM</maxamount>
+<param>manual, floating</param>
+</item>
+
+<item>
+<from>BCH</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>213.58610000</out>
+<amount>37263.38</amount>
+<minfee>0.015 BCH</minfee>
+<minamount>0.16666667 BCH</minamount>
+<maxamount>20 BCH</maxamount>
+<param>manual, floating</param>
+</item>
+
+<item>
+<from>BCH</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>209.79408800</out>
+<amount>14493.13</amount>
+<minfee>0.015 BCH</minfee>
+<minamount>0.27624309 BCH</minamount>
+<maxamount>20 BCH</maxamount>
+<param>manual, floating</param>
+</item>
+
+<item>
+<from>ETH</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>1621.98550000</out>
+<amount>37263.38</amount>
+<minfee>0.0015 ETH</minfee>
+<minamount>0.05 ETH</minamount>
+<maxamount>20 ETH</maxamount>
+<param>manual, floating</param>
+</item>
+
+<item>
+<from>ETH</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>1533.01710000</out>
+<amount>14493.13</amount>
+<minfee>0.0015 ETH</minfee>
+<minamount>0.05 ETH</minamount>
+<maxamount>9.4454824952703 ETH</maxamount>
+<param>manual, floating</param>
+</item>
+
+<item>
+<from>XLM</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>0.10010000</out>
+<amount>37263.38</amount>
+<minfee>25 XLM</minfee>
+<minamount>277.78 XLM</minamount>
+<maxamount>100000 XLM</maxamount>
+<param>manual, floating</param>
+</item>
+
+<item>
+<from>XLM</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.10010000</out>
+<amount>14493.13</amount>
+<minfee>25 XLM</minfee>
+<minamount>277.78 XLM</minamount>
+<maxamount>100000 XLM</maxamount>
+<param>manual, floating</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>BCH</to>
+<in>1</in>
+<out>0.00371097</out>
+<amount>85.54824144</amount>
+<minfee>2.5 USD</minfee>
+<minamount>96.9 USD</minamount>
+<maxamount>529.97479216445 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>BCH</to>
+<in>1</in>
+<out>0.00392625</out>
+<amount>85.54824144</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>96.9 EUR</minamount>
+<maxamount>500.91509067717 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>ETH</to>
+<in>1</in>
+<out>0.00052686</out>
+<amount>46.05</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>3742.2871762286 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>ETH</to>
+<in>1</in>
+<out>0.00055744</out>
+<amount>46.05</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>3536.9978190094 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>XLM</to>
+<in>1</in>
+<out>7.74319000</out>
+<amount>59664.35</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>1904.9493813273 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>XLM</to>
+<in>1</in>
+<out>8.19611000</out>
+<amount>59664.35</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>1799.6811902232 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>BCH</to>
+<in>1</in>
+<out>0.00375357</out>
+<amount>85.54824144</amount>
+<minfee>2.5 USD</minfee>
+<minamount>105.04 USD</minamount>
+<maxamount>525.28059559966 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>BCH</to>
+<in>1</in>
+<out>0.00397133</out>
+<amount>85.54824144</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>105.04 EUR</minamount>
+<maxamount>496.47828739393 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>ETH</to>
+<in>1</in>
+<out>0.00052686</out>
+<amount>46.05</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>3742.2871762286 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>ETH</to>
+<in>1</in>
+<out>0.00055744</out>
+<amount>46.05</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>3536.9978190094 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>XLM</to>
+<in>1</in>
+<out>7.83209000</out>
+<amount>59664.35</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>1888.0764904387 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>XLM</to>
+<in>1</in>
+<out>8.29021000</out>
+<amount>59664.35</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>1783.7407013815 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>USDTERC20</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>1.01000000</out>
+<amount>16767.06</amount>
+<minfee>0 USDT</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>100 USDT</minamount>
+<maxamount>10000 USDT</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>USDTERC20</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>0.90900000</out>
+<amount>11187.13</amount>
+<minfee>0 USDT</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>100 USDT</minamount>
+<maxamount>10000 USDT</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>USDTERC20</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>0.97000000</out>
+<amount>37263.38</amount>
+<minfee>2.5 USDT</minfee>
+<minamount>83.33 USDT</minamount>
+<maxamount>10000 USDT</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>USDTERC20</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.87300000</out>
+<amount>14493.13</amount>
+<minfee>2.5 USDT</minfee>
+<minamount>83.33 USDT</minamount>
+<maxamount>10000 USDT</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>USDTTRC20</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>1.01000000</out>
+<amount>16767.06</amount>
+<minfee>0 USDT</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>100 USDT</minamount>
+<maxamount>10000 USDT</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>USDTTRC20</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>0.90900000</out>
+<amount>11187.13</amount>
+<minfee>0 USDT</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>100 USDT</minamount>
+<maxamount>10000 USDT</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>USDTTRC20</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>0.97000000</out>
+<amount>37263.38</amount>
+<minfee>2.5 USDT</minfee>
+<minamount>83.33 USDT</minamount>
+<maxamount>10000 USDT</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>USDTTRC20</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.87300000</out>
+<amount>14493.13</amount>
+<minfee>2.5 USDT</minfee>
+<minamount>83.33 USDT</minamount>
+<maxamount>10000 USDT</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>USDTERC20</to>
+<in>1</in>
+<out>0.87100000</out>
+<amount>101447.88</amount>
+<minfee>2.5 USD</minfee>
+<minamount>58.14 USD</minamount>
+<maxamount>15000 USD</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>USDTERC20</to>
+<in>1</in>
+<out>0.87971000</out>
+<amount>101447.88</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>58.14 EUR</minamount>
+<maxamount>12000 EUR</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>USDTERC20</to>
+<in>1</in>
+<out>0.88100000</out>
+<amount>101447.88</amount>
+<minfee>2.5 USD</minfee>
+<minamount>63.03 USD</minamount>
+<maxamount>10000 USD</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>USDTERC20</to>
+<in>1</in>
+<out>0.88981000</out>
+<amount>101447.88</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>63.03 EUR</minamount>
+<maxamount>10000 EUR</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>USDTTRC20</to>
+<in>1</in>
+<out>0.87100000</out>
+<amount>851292.7</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>15000 USD</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>USDTTRC20</to>
+<in>1</in>
+<out>0.87971000</out>
+<amount>851292.7</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>12000 EUR</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>USDTTRC20</to>
+<in>1</in>
+<out>0.88100000</out>
+<amount>851292.7</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>10000 USD</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>USDTTRC20</to>
+<in>1</in>
+<out>0.88981000</out>
+<amount>851292.7</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>10000 EUR</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ETC</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>15.58400000</out>
+<amount>16767.06</amount>
+<minfee>0.25 ETC</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>9.62 ETC</minamount>
+<maxamount>25 ETC</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ETC</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>14.57265600</out>
+<amount>11187.13</amount>
+<minfee>0.25 ETC</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>6.91 ETC</minamount>
+<maxamount>25 ETC</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ETC</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>14.56000000</out>
+<amount>37263.38</amount>
+<minfee>0.25 ETC</minfee>
+<minamount>2.78 ETC</minamount>
+<maxamount>25 ETC</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ETC</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>13.75920000</out>
+<amount>14493.13</amount>
+<minfee>0.25 ETC</minfee>
+<minamount>2.78 ETC</minamount>
+<maxamount>25 ETC</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>ETC</to>
+<in>1</in>
+<out>0.05318750</out>
+<amount>299.95</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>5514.2808 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>ETC</to>
+<in>1</in>
+<out>0.05628307</out>
+<amount>299.95</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>5210.9950516779 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>ETC</to>
+<in>1</in>
+<out>0.05443750</out>
+<amount>299.95</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>5418.2968 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>ETC</to>
+<in>1</in>
+<out>0.05760582</out>
+<amount>299.95</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>5120.2901769751 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>LTC</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>63.83596000</out>
+<amount>16767.06</amount>
+<minfee>0.02 LTC</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>0.76923077 LTC</minamount>
+<maxamount>9 LTC</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>LTC</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>60.33930000</out>
+<amount>11187.13</amount>
+<minfee>0.02 LTC</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>0.76923077 LTC</minamount>
+<maxamount>9 LTC</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>LTC</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>63.57380000</out>
+<amount>37263.38</amount>
+<minfee>0.02 LTC</minfee>
+<minamount>0.66666667 LTC</minamount>
+<maxamount>9 LTC</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>LTC</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>60.09150000</out>
+<amount>14493.13</amount>
+<minfee>0.02 LTC</minfee>
+<minamount>0.66666667 LTC</minamount>
+<maxamount>9 LTC</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>LTC</to>
+<in>1</in>
+<out>0.01298444</out>
+<amount>57.53</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>4332.3224882126 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>LTC</to>
+<in>1</in>
+<out>0.01373688</out>
+<amount>57.53</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>4095.0170517375 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>LTC</to>
+<in>1</in>
+<out>0.01328960</out>
+<amount>57.53</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>4256.9121751019 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>LTC</to>
+<in>1</in>
+<out>0.01405973</out>
+<amount>57.53</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>4023.7373815593 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>TRX</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>0.08632659</out>
+<amount>16767.06</amount>
+<minfee>45 TRX</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>2463.97 TRX</minamount>
+<maxamount>150000 TRX</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>TRX</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>0.08159101</out>
+<amount>11187.13</amount>
+<minfee>45 TRX</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>2574.89 TRX</minamount>
+<maxamount>137019.60605952 TRX</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>TRX</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>0.08597207</out>
+<amount>37263.38</amount>
+<minfee>45 TRX</minfee>
+<minamount>1500 TRX</minamount>
+<maxamount>150000 TRX</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>TRX</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.08125593</out>
+<amount>14493.13</amount>
+<minfee>45 TRX</minfee>
+<minamount>1500 TRX</minamount>
+<maxamount>150000 TRX</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>TRX</to>
+<in>1</in>
+<out>9.59928000</out>
+<amount>185641.16</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>15000 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>TRX</to>
+<in>1</in>
+<out>10.16094000</out>
+<amount>185641.16</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>12000 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>TRX</to>
+<in>1</in>
+<out>9.82488000</out>
+<amount>185641.16</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>10000 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>TRX</to>
+<in>1</in>
+<out>10.39974000</out>
+<amount>185641.16</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>10000 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>XRP</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>0.50648000</out>
+<amount>16767.06</amount>
+<minfee>13 XRP</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>500 XRP</minamount>
+<maxamount>1250 XRP</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>XRP</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>0.47147800</out>
+<amount>11187.13</amount>
+<minfee>13 XRP</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>343.92 XRP</minamount>
+<maxamount>1250 XRP</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>XRP</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>0.47320000</out>
+<amount>37263.38</amount>
+<minfee>13 XRP</minfee>
+<minamount>144.44 XRP</minamount>
+<maxamount>1250 XRP</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>XRP</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.45864000</out>
+<amount>14493.13</amount>
+<minfee>13 XRP</minfee>
+<minamount>203.13 XRP</minamount>
+<maxamount>1250 XRP</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>XRP</to>
+<in>1</in>
+<out>1.65094000</out>
+<amount>8371.27</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>4958.035685567 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>XRP</to>
+<in>1</in>
+<out>1.74455000</out>
+<amount>8371.27</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>4691.9947463415 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>XRP</to>
+<in>1</in>
+<out>1.68974000</out>
+<amount>8371.27</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>4871.7339329897 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>XRP</to>
+<in>1</in>
+<out>1.78555000</out>
+<amount>8371.27</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>4610.3238195122 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>XMR</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>141.52220000</out>
+<amount>16767.06</amount>
+<minfee>0.05 XMR</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>1.92307692 XMR</minamount>
+<maxamount>50 XMR</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>XMR</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>133.75942000</out>
+<amount>11187.13</amount>
+<minfee>0.05 XMR</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>1.92307692 XMR</minamount>
+<maxamount>50 XMR</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>XMR</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>140.94100000</out>
+<amount>37263.38</amount>
+<minfee>0.05 XMR</minfee>
+<minamount>1.66666667 XMR</minamount>
+<maxamount>50 XMR</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>XMR</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>133.21010000</out>
+<amount>14493.13</amount>
+<minfee>0.05 XMR</minfee>
+<minamount>1.66666667 XMR</minamount>
+<maxamount>50 XMR</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>XMR</to>
+<in>1</in>
+<out>0.00585685</out>
+<amount>64.3</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>8347.4879800532 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>XMR</to>
+<in>1</in>
+<out>0.00619675</out>
+<amount>64.3</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>7889.6086506915 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>XMR</to>
+<in>1</in>
+<out>0.00586510</out>
+<amount>64.3</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>8338.7699769409 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>XMR</to>
+<in>1</in>
+<out>0.00619166</out>
+<amount>64.3</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>7894.4152007833 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>DOGE</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>0.06020976</out>
+<amount>16767.06</amount>
+<minfee>70 DOGE</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>5164.79 DOGE</minamount>
+<maxamount>7000 DOGE</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>DOGE</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>0.05690692</out>
+<amount>11187.13</amount>
+<minfee>70 DOGE</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>5415.37 DOGE</minamount>
+<maxamount>7000 DOGE</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>DOGE</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>0.05625347</out>
+<amount>37263.38</amount>
+<minfee>70 DOGE</minfee>
+<minamount>777.78 DOGE</minamount>
+<maxamount>7000 DOGE</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>DOGE</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.05316766</out>
+<amount>14493.13</amount>
+<minfee>70 DOGE</minfee>
+<minamount>777.78 DOGE</minamount>
+<maxamount>7000 DOGE</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>DOGE</to>
+<in>1</in>
+<out>13.76918000</out>
+<amount>53156.46</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>3774.8314301607 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>DOGE</to>
+<in>1</in>
+<out>14.56912000</out>
+<amount>53156.46</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>3567.568489486 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>DOGE</to>
+<in>1</in>
+<out>13.78374200</out>
+<amount>53156.46</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>3771.8746431397 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>DOGE</to>
+<in>1</in>
+<out>14.54686400</out>
+<amount>53156.46</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>3571.6049029206 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>MATIC</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>0.51622000</out>
+<amount>16767.06</amount>
+<minfee>7 MATIC</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>269.23 MATIC</minamount>
+<maxamount>735.2941176471 MATIC</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>MATIC</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>0.48700000</out>
+<amount>11187.13</amount>
+<minfee>7 MATIC</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>269.23 MATIC</minamount>
+<maxamount>735.2941176471 MATIC</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>MATIC</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>0.48230000</out>
+<amount>37263.38</amount>
+<minfee>7 MATIC</minfee>
+<minamount>77.78 MATIC</minamount>
+<maxamount>735.2941176471 MATIC</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>MATIC</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.45500000</out>
+<amount>14493.13</amount>
+<minfee>7 MATIC</minfee>
+<minamount>77.78 MATIC</minamount>
+<maxamount>735.2941176471 MATIC</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>MATIC</to>
+<in>1</in>
+<out>1.61690000</out>
+<amount>9560.98</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>5781.8768526316 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>MATIC</to>
+<in>1</in>
+<out>1.71051000</out>
+<amount>9560.98</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>5465.4557313433 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>MATIC</to>
+<in>1</in>
+<out>1.63571000</out>
+<amount>9560.98</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>5732.0591147368 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>MATIC</to>
+<in>1</in>
+<out>1.71814800</out>
+<amount>9560.98</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>5447.3802467662 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>DASH</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>26.65838000</out>
+<amount>16767.06</amount>
+<minfee>0.1 DASH</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>3.84615385 DASH</minamount>
+<maxamount>10 DASH</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>DASH</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>25.10424800</out>
+<amount>11187.13</amount>
+<minfee>0.1 DASH</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>3.37837838 DASH</minamount>
+<maxamount>10 DASH</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>DASH</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>24.90670000</out>
+<amount>37263.38</amount>
+<minfee>0.1 DASH</minfee>
+<minamount>1.11111111 DASH</minamount>
+<maxamount>10 DASH</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>DASH</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>23.54170000</out>
+<amount>14493.13</amount>
+<minfee>0.1 DASH</minfee>
+<minamount>1.11111111 DASH</minamount>
+<maxamount>10 DASH</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>DASH</to>
+<in>1</in>
+<out>0.03109243</out>
+<amount>88.07</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>2769.6370874485 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>DASH</to>
+<in>1</in>
+<out>0.03289524</out>
+<amount>88.07</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>2617.8483350455 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>DASH</to>
+<in>1</in>
+<out>0.03140299</out>
+<amount>88.07</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>2749.1480402394 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>DASH</to>
+<in>1</in>
+<out>0.03313490</out>
+<amount>88.07</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>2603.7224345431 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>ZEC</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>25.95710000</out>
+<amount>16767.06</amount>
+<minfee>0.06 ZEC</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>2.30769231 ZEC</minamount>
+<maxamount>7 ZEC</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ZEC</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>24.50483200</out>
+<amount>11187.13</amount>
+<minfee>0.06 ZEC</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>2.20588235 ZEC</minamount>
+<maxamount>7 ZEC</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ZEC</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>24.25150000</out>
+<amount>37263.38</amount>
+<minfee>0.06 ZEC</minfee>
+<minamount>0.66666667 ZEC</minamount>
+<maxamount>7 ZEC</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ZEC</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>22.92290000</out>
+<amount>14493.13</amount>
+<minfee>0.06 ZEC</minfee>
+<minamount>0.66666667 ZEC</minamount>
+<maxamount>7 ZEC</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>ZEC</to>
+<in>1</in>
+<out>0.03193246</out>
+<amount>61.16</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>1872.7712936843 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>ZEC</to>
+<in>1</in>
+<out>0.03378324</out>
+<amount>61.16</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>1770.172972186 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>ZEC</to>
+<in>1</in>
+<out>0.03214634</out>
+<amount>61.16</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>1863.4807833501 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>ZEC</to>
+<in>1</in>
+<out>0.03392616</out>
+<amount>61.16</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>1764.6267383305 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>USDTBEP20</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>0.97400000</out>
+<amount>16767.06</amount>
+<minfee>5 USDT</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>192.31 USDT</minamount>
+<maxamount>1000 USDT</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>USDTBEP20</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>0.87660000</out>
+<amount>11187.13</amount>
+<minfee>5 USDT</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>192.31 USDT</minamount>
+<maxamount>1000 USDT</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>USDTBEP20</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>0.97000000</out>
+<amount>37263.38</amount>
+<minfee>5 USDT</minfee>
+<minamount>166.67 USDT</minamount>
+<maxamount>1000 USDT</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>USDTBEP20</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.87300000</out>
+<amount>14493.13</amount>
+<minfee>5 USDT</minfee>
+<minamount>166.67 USDT</minamount>
+<maxamount>1000 USDT</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>USDTBEP20</to>
+<in>1</in>
+<out>0.83100000</out>
+<amount>8505.04</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>9942.39176 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>USDTBEP20</to>
+<in>1</in>
+<out>0.83931000</out>
+<amount>8505.04</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>9843.9522376238 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>USDTBEP20</to>
+<in>1</in>
+<out>0.85830000</out>
+<amount>8505.04</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>9710.204168 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>USDTBEP20</to>
+<in>1</in>
+<out>0.88981000</out>
+<amount>8505.04</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>9422.9106534653 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>USDTOMNI</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>0.97400000</out>
+<amount>16767.06</amount>
+<minfee>5 USDT</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>192.31 USDT</minamount>
+<maxamount>1000 USDT</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>USDTOMNI</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>0.85140000</out>
+<amount>11187.13</amount>
+<minfee>5 USDT</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>92.59 USDT</minamount>
+<maxamount>1000 USDT</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>USDTOMNI</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>0.91000000</out>
+<amount>37263.38</amount>
+<minfee>5 USDT</minfee>
+<minamount>55.56 USDT</minamount>
+<maxamount>1000 USDT</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>USDTOMNI</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.81900000</out>
+<amount>14493.13</amount>
+<minfee>5 USDT</minfee>
+<minamount>55.56 USDT</minamount>
+<maxamount>1000 USDT</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>USDTOMNI</to>
+<in>1</in>
+<out>0.83100000</out>
+<amount>10000</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>11690 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>USDTOMNI</to>
+<in>1</in>
+<out>0.83931000</out>
+<amount>10000</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>11574.257425743 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>USDTOMNI</to>
+<in>1</in>
+<out>0.78100000</out>
+<amount>10000</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>10000 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>USDTOMNI</to>
+<in>1</in>
+<out>0.78881000</out>
+<amount>10000</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>10000 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>USDCERC20</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>0.97400000</out>
+<amount>16767.06</amount>
+<minfee>10 USDC</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>384.62 USDC</minamount>
+<maxamount>1000 USDC</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>USDCERC20</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>0.87660000</out>
+<amount>11187.13</amount>
+<minfee>10 USDC</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>384.62 USDC</minamount>
+<maxamount>1000 USDC</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>USDCERC20</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>0.97000000</out>
+<amount>37263.38</amount>
+<minfee>10 USDC</minfee>
+<minamount>333.33 USDC</minamount>
+<maxamount>1000 USDC</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>USDCERC20</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.87300000</out>
+<amount>14493.13</amount>
+<minfee>10 USDC</minfee>
+<minamount>333.33 USDC</minamount>
+<maxamount>1000 USDC</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>USDCERC20</to>
+<in>1</in>
+<out>0.83100000</out>
+<amount>8751.72</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>10230.76068 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>USDCERC20</to>
+<in>1</in>
+<out>0.83931000</out>
+<amount>8751.72</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>10129.466019802 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>USDCERC20</to>
+<in>1</in>
+<out>0.85590000</out>
+<amount>8751.72</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>10000 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>USDCERC20</to>
+<in>1</in>
+<out>0.87971000</out>
+<amount>8751.72</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>9782.8632475248 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>TUSDERC20</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>0.97400000</out>
+<amount>16767.06</amount>
+<minfee>2.5 TUSD</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>96.15 TUSD</minamount>
+<maxamount>1000 TUSD</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>TUSDERC20</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>0.87660000</out>
+<amount>11187.13</amount>
+<minfee>2.5 TUSD</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>96.15 TUSD</minamount>
+<maxamount>1000 TUSD</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>TUSDERC20</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>0.91000000</out>
+<amount>37263.38</amount>
+<minfee>2.5 TUSD</minfee>
+<minamount>27.78 TUSD</minamount>
+<maxamount>1000 TUSD</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>TUSDERC20</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.86373000</out>
+<amount>14493.13</amount>
+<minfee>2.5 TUSD</minfee>
+<minamount>62.03 TUSD</minamount>
+<maxamount>1000 TUSD</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>TUSDERC20</to>
+<in>1</in>
+<out>0.85100000</out>
+<amount>10502.08</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>11490 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>TUSDERC20</to>
+<in>1</in>
+<out>0.85951000</out>
+<amount>10502.08</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>11376.237623762 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>TUSDERC20</to>
+<in>1</in>
+<out>0.80870000</out>
+<amount>10502.08</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>10000 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>TUSDERC20</to>
+<in>1</in>
+<out>0.85738900</out>
+<amount>10502.08</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>10000 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>USDP</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>0.94600000</out>
+<amount>16767.06</amount>
+<minfee>2.5 USDP</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>46.3 USDP</minamount>
+<maxamount>1000 USDP</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>USDP</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>0.85140000</out>
+<amount>11187.13</amount>
+<minfee>2.5 USDP</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>46.3 USDP</minamount>
+<maxamount>1000 USDP</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>USDP</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>0.91000000</out>
+<amount>37263.38</amount>
+<minfee>2.5 USDP</minfee>
+<minamount>27.78 USDP</minamount>
+<maxamount>1000 USDP</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>USDP</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.86373000</out>
+<amount>14493.13</amount>
+<minfee>2.5 USDP</minfee>
+<minamount>62.03 USDP</minamount>
+<maxamount>1000 USDP</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>USDP</to>
+<in>1</in>
+<out>0.83100000</out>
+<amount>10000</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>11690 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>USDP</to>
+<in>1</in>
+<out>0.83931000</out>
+<amount>10000</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>11574.257425743 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>USDP</to>
+<in>1</in>
+<out>0.85060000</out>
+<amount>10000</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>10000 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>USDP</to>
+<in>1</in>
+<out>0.87971000</out>
+<amount>10000</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>10000 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>DAI</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>0.97400000</out>
+<amount>16767.06</amount>
+<minfee>2.5 DAI</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>96.15 DAI</minamount>
+<maxamount>1000 DAI</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>DAI</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>0.87660000</out>
+<amount>11187.13</amount>
+<minfee>2.5 DAI</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>96.15 DAI</minamount>
+<maxamount>1000 DAI</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>DAI</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>0.97000000</out>
+<amount>37263.38</amount>
+<minfee>2.5 DAI</minfee>
+<minamount>83.33 DAI</minamount>
+<maxamount>1000 DAI</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>DAI</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.87300000</out>
+<amount>14493.13</amount>
+<minfee>2.5 DAI</minfee>
+<minamount>83.33 DAI</minamount>
+<maxamount>1000 DAI</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>DAI</to>
+<in>1</in>
+<out>0.85100000</out>
+<amount>10945.5</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>11490 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>DAI</to>
+<in>1</in>
+<out>0.85951000</out>
+<amount>10945.5</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>11376.237623762 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>DAI</to>
+<in>1</in>
+<out>0.85500000</out>
+<amount>10945.5</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>10000 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>DAI</to>
+<in>1</in>
+<out>0.87971000</out>
+<amount>10945.5</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>10000 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>BUSD</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>0.97400000</out>
+<amount>16767.06</amount>
+<minfee>2.5 BUSD</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>96.15 BUSD</minamount>
+<maxamount>1000 BUSD</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>BUSD</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>0.85140000</out>
+<amount>11187.13</amount>
+<minfee>2.5 BUSD</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>46.3 BUSD</minamount>
+<maxamount>1000 BUSD</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>BUSD</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>0.91000000</out>
+<amount>37263.38</amount>
+<minfee>2.5 BUSD</minfee>
+<minamount>27.78 BUSD</minamount>
+<maxamount>1000 BUSD</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>BUSD</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.86373000</out>
+<amount>14493.13</amount>
+<minfee>2.5 BUSD</minfee>
+<minamount>62.03 BUSD</minamount>
+<maxamount>1000 BUSD</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>BUSD</to>
+<in>1</in>
+<out>0.85100000</out>
+<amount>9840.95</amount>
+<minfee>2.5 USD</minfee>
+<minamount>50.34 USD</minamount>
+<maxamount>11307.25155 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>BUSD</to>
+<in>1</in>
+<out>0.85951000</out>
+<amount>9840.95</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>50.34 EUR</minamount>
+<maxamount>11195.298564356 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>BUSD</to>
+<in>1</in>
+<out>0.85060000</out>
+<amount>9840.95</amount>
+<minfee>2.5 USD</minfee>
+<minamount>50.2 USD</minamount>
+<maxamount>10000 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>BUSD</to>
+<in>1</in>
+<out>0.87971000</out>
+<amount>9840.95</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>58.14 EUR</minamount>
+<maxamount>10000 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>ADA</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>0.24350000</out>
+<amount>16767.06</amount>
+<minfee>2.5 ADA</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>96.15 ADA</minamount>
+<maxamount>1000 ADA</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ADA</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>0.23056800</out>
+<amount>11187.13</amount>
+<minfee>2.5 ADA</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>76.05 ADA</minamount>
+<maxamount>1000 ADA</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ADA</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>0.22750000</out>
+<amount>37263.38</amount>
+<minfee>2.5 ADA</minfee>
+<minamount>27.78 ADA</minamount>
+<maxamount>1000 ADA</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ADA</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.21840000</out>
+<amount>14493.13</amount>
+<minfee>2.5 ADA</minfee>
+<minamount>27.78 ADA</minamount>
+<maxamount>1000 ADA</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>ADA</to>
+<in>1</in>
+<out>3.39549000</out>
+<amount>7304.79</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>2103.5598270677 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>ADA</to>
+<in>1</in>
+<out>3.59122000</out>
+<amount>7304.79</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>1988.9108317536 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>ADA</to>
+<in>1</in>
+<out>3.39828300</out>
+<amount>7304.79</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>2102.2782849624 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>ADA</to>
+<in>1</in>
+<out>3.58868800</out>
+<amount>7304.79</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>1989.9494274882 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>WAVES</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>1.35096000</out>
+<amount>16767.06</amount>
+<minfee>0.5 WAVES</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>8.17 WAVES</minamount>
+<maxamount>50 WAVES</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>WAVES</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>1.27302000</out>
+<amount>11187.13</amount>
+<minfee>0.5 WAVES</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>8.03 WAVES</minamount>
+<maxamount>50 WAVES</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>WAVES</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>1.41960000</out>
+<amount>37263.38</amount>
+<minfee>0.5 WAVES</minfee>
+<minamount>5.56 WAVES</minamount>
+<maxamount>50 WAVES</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>WAVES</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>1.33770000</out>
+<amount>14493.13</amount>
+<minfee>0.5 WAVES</minfee>
+<minamount>5.56 WAVES</minamount>
+<maxamount>50 WAVES</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>WAVES</to>
+<in>1</in>
+<out>0.54464000</out>
+<amount>500</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>897.65625 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>WAVES</to>
+<in>1</in>
+<out>0.57868000</out>
+<amount>500</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>844.85294117647 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>WAVES</to>
+<in>1</in>
+<out>0.55219200</out>
+<amount>500</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>888.4375 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>WAVES</to>
+<in>1</in>
+<out>0.57963200</out>
+<amount>500</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>843.82352941176 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>ZRX</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>0.18506000</out>
+<amount>16767.06</amount>
+<minfee>15 ZRX</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>576.92 ZRX</minamount>
+<maxamount>1000 ZRX</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ZRX</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>0.17028000</out>
+<amount>11187.13</amount>
+<minfee>15 ZRX</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>488.89 ZRX</minamount>
+<maxamount>1000 ZRX</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ZRX</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>0.17290000</out>
+<amount>37263.38</amount>
+<minfee>15 ZRX</minfee>
+<minamount>166.67 ZRX</minamount>
+<maxamount>1000 ZRX</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ZRX</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.16380000</out>
+<amount>14493.13</amount>
+<minfee>15 ZRX</minfee>
+<minamount>166.67 ZRX</minamount>
+<maxamount>1000 ZRX</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>ZRX</to>
+<in>1</in>
+<out>4.46775000</out>
+<amount>10000</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>2188.5714285714 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>ZRX</to>
+<in>1</in>
+<out>4.72305000</out>
+<amount>10000</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>2070.2702702703 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>ZRX</to>
+<in>1</in>
+<out>4.41210000</out>
+<amount>10000</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>2208.7619047619 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>ZRX</to>
+<in>1</in>
+<out>4.66810500</out>
+<amount>10000</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>2088.1081081081 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>BNBBEP2</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>203.14404000</out>
+<amount>16767.06</amount>
+<minfee>0.01 BNB</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>0.18518519 BNB</minamount>
+<maxamount>10 BNB</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>BNBBEP2</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>192.00016000</out>
+<amount>11187.13</amount>
+<minfee>0.01 BNB</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>0.18518519 BNB</minamount>
+<maxamount>10 BNB</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>BNBBEP2</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>206.23629600</out>
+<amount>37263.38</amount>
+<minfee>0.01 BNB</minfee>
+<minamount>0.25252525 BNB</minamount>
+<maxamount>10 BNB</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>BNBBEP2</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>190.78240000</out>
+<amount>14493.13</amount>
+<minfee>0.01 BNB</minfee>
+<minamount>0.16666667 BNB</minamount>
+<maxamount>10 BNB</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>BNBBEP2</to>
+<in>1</in>
+<out>0.00405606</out>
+<amount>22.32</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>5411.2983407025 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>BNBBEP2</to>
+<in>1</in>
+<out>0.00429149</out>
+<amount>22.32</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>5114.445066855 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>BNBBEP2</to>
+<in>1</in>
+<out>0.00382322</out>
+<amount>22.32</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>5650.9484000782 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>BNBBEP2</to>
+<in>1</in>
+<out>0.00403823</out>
+<amount>22.32</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>5347.2904844249 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>ICX</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>0.17532000</out>
+<amount>16767.06</amount>
+<minfee>14 ICX</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>538.46 ICX</minamount>
+<maxamount>1000 ICX</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ICX</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>0.16082000</out>
+<amount>11187.13</amount>
+<minfee>14 ICX</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>475.89 ICX</minamount>
+<maxamount>1000 ICX</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ICX</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>0.16380000</out>
+<amount>37263.38</amount>
+<minfee>14 ICX</minfee>
+<minamount>155.56 ICX</minamount>
+<maxamount>1000 ICX</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ICX</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.15470000</out>
+<amount>14493.13</amount>
+<minfee>14 ICX</minfee>
+<minamount>155.56 ICX</minamount>
+<maxamount>1000 ICX</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>ICX</to>
+<in>1</in>
+<out>4.83368000</out>
+<amount>9416</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>1904.7507042254 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>ICX</to>
+<in>1</in>
+<out>5.11451000</out>
+<amount>9416</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>1800.1637271215 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>ICX</to>
+<in>1</in>
+<out>4.43608000</out>
+<amount>9416</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>2020.7929577465 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>ICX</to>
+<in>1</in>
+<out>4.69381000</out>
+<amount>9416</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>1909.8342762063 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>BAT</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>0.17532000</out>
+<amount>16767.06</amount>
+<minfee>13 BAT</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>500 BAT</minamount>
+<maxamount>1000 BAT</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>BAT</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>0.16082000</out>
+<amount>11187.13</amount>
+<minfee>13 BAT</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>442.95 BAT</minamount>
+<maxamount>1000 BAT</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>BAT</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>0.16380000</out>
+<amount>37263.38</amount>
+<minfee>13 BAT</minfee>
+<minamount>144.44 BAT</minamount>
+<maxamount>1000 BAT</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>BAT</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.15470000</out>
+<amount>14493.13</amount>
+<minfee>13 BAT</minfee>
+<minamount>144.44 BAT</minamount>
+<maxamount>1000 BAT</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>BAT</to>
+<in>1</in>
+<out>4.82517000</out>
+<amount>10000</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>2026.455026455 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>BAT</to>
+<in>1</in>
+<out>5.10600000</out>
+<amount>10000</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>1915 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>BAT</to>
+<in>1</in>
+<out>4.84841700</out>
+<amount>10000</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>2019.2239858907 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>BAT</to>
+<in>1</in>
+<out>5.22600000</out>
+<amount>10000</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>1881.6666666667 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>QTUM</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>2.16228000</out>
+<amount>16767.06</amount>
+<minfee>1.5 QTUM</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>57.69 QTUM</minamount>
+<maxamount>150 QTUM</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>QTUM</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>1.98660000</out>
+<amount>11187.13</amount>
+<minfee>1.5 QTUM</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>27.78 QTUM</minamount>
+<maxamount>150 QTUM</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>QTUM</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>2.02020000</out>
+<amount>37263.38</amount>
+<minfee>1.5 QTUM</minfee>
+<minamount>16.67 QTUM</minamount>
+<maxamount>150 QTUM</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>QTUM</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>1.91100000</out>
+<amount>14493.13</amount>
+<minfee>1.5 QTUM</minfee>
+<minamount>16.67 QTUM</minamount>
+<maxamount>150 QTUM</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>QTUM</to>
+<in>1</in>
+<out>0.38295000</out>
+<amount>1500</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>3830 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>QTUM</to>
+<in>1</in>
+<out>0.40848000</out>
+<amount>1500</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>3590.625 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>QTUM</to>
+<in>1</in>
+<out>0.38376000</out>
+<amount>1500</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>3824 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>QTUM</to>
+<in>1</in>
+<out>0.40800000</out>
+<amount>1500</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>3593.75 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>LINK</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>7.86992000</out>
+<amount>16767.06</amount>
+<minfee>0.7 LINK</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>26.92 LINK</minamount>
+<maxamount>70 LINK</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>LINK</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>7.22744000</out>
+<amount>11187.13</amount>
+<minfee>0.7 LINK</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>12.96 LINK</minamount>
+<maxamount>70 LINK</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>LINK</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>7.35280000</out>
+<amount>37263.38</amount>
+<minfee>0.7 LINK</minfee>
+<minamount>7.78 LINK</minamount>
+<maxamount>70 LINK</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>LINK</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>6.95240000</out>
+<amount>14493.13</amount>
+<minfee>0.7 LINK</minfee>
+<minamount>7.78 LINK</minamount>
+<maxamount>70 LINK</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>LINK</to>
+<in>1</in>
+<out>0.10212000</out>
+<amount>750</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>7181.25 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>LINK</to>
+<in>1</in>
+<out>0.11063000</out>
+<amount>750</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>6628.8461538462 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>LINK</to>
+<in>1</in>
+<out>0.10452000</out>
+<amount>750</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>7056.25 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>LINK</to>
+<in>1</in>
+<out>0.11323000</out>
+<amount>750</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>6513.4615384615 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>ATOM</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>7.00306000</out>
+<amount>16767.06</amount>
+<minfee>0.42 ATOM</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>16.15 ATOM</minamount>
+<maxamount>40 ATOM</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ATOM</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>6.42334000</out>
+<amount>11187.13</amount>
+<minfee>0.42 ATOM</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>7.78 ATOM</minamount>
+<maxamount>40 ATOM</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ATOM</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>6.54290000</out>
+<amount>37263.38</amount>
+<minfee>0.42 ATOM</minfee>
+<minamount>4.67 ATOM</minamount>
+<maxamount>40 ATOM</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ATOM</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>6.17890000</out>
+<amount>14493.13</amount>
+<minfee>0.42 ATOM</minfee>
+<minamount>4.67 ATOM</minamount>
+<maxamount>40 ATOM</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>ATOM</to>
+<in>1</in>
+<out>0.11914000</out>
+<amount>488.94</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>4012.8004285714 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>ATOM</to>
+<in>1</in>
+<out>0.12765000</out>
+<amount>488.94</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>3745.2804 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>ATOM</to>
+<in>1</in>
+<out>0.11919600</out>
+<amount>488.94</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>4011.4034571429 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>ATOM</to>
+<in>1</in>
+<out>0.12549000</out>
+<amount>488.94</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>3792.21864 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>XTZ</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>0.66232000</out>
+<amount>16767.06</amount>
+<minfee>3.15 XTZ</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>121.15 XTZ</minamount>
+<maxamount>315 XTZ</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>XTZ</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>0.60544000</out>
+<amount>11187.13</amount>
+<minfee>3.15 XTZ</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>58.33 XTZ</minamount>
+<maxamount>315 XTZ</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>XTZ</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>0.61880000</out>
+<amount>37263.38</amount>
+<minfee>3.15 XTZ</minfee>
+<minamount>35 XTZ</minamount>
+<maxamount>315 XTZ</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>XTZ</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.58240000</out>
+<amount>14493.13</amount>
+<minfee>3.15 XTZ</minfee>
+<minamount>35 XTZ</minamount>
+<maxamount>315 XTZ</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>XTZ</to>
+<in>1</in>
+<out>1.25097000</out>
+<amount>3510</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>2735.7142857143 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>XTZ</to>
+<in>1</in>
+<out>1.31905000</out>
+<amount>3510</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>2594.5161290323 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>XTZ</to>
+<in>1</in>
+<out>1.25361600</out>
+<amount>3510</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>2731.4285714286 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>XTZ</to>
+<in>1</in>
+<out>1.32556000</out>
+<amount>3510</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>2585.0322580645 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>DOT</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>3.97392000</out>
+<amount>16767.06</amount>
+<minfee>0.55 DOT</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>21.15 DOT</minamount>
+<maxamount>55 DOT</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>DOT</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>3.75964000</out>
+<amount>11187.13</amount>
+<minfee>0.55 DOT</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>21.15 DOT</minamount>
+<maxamount>55 DOT</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>DOT</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>3.71280000</out>
+<amount>37263.38</amount>
+<minfee>0.55 DOT</minfee>
+<minamount>6.11 DOT</minamount>
+<maxamount>55 DOT</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>DOT</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>3.51260000</out>
+<amount>14493.13</amount>
+<minfee>0.55 DOT</minfee>
+<minamount>6.11 DOT</minamount>
+<maxamount>55 DOT</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>DOT</to>
+<in>1</in>
+<out>0.21275000</out>
+<amount>303.65</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>1395.5754 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>DOT</to>
+<in>1</in>
+<out>0.22126000</out>
+<amount>303.65</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>1341.8994230769 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>DOT</to>
+<in>1</in>
+<out>0.21065000</out>
+<amount>303.65</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>1405.77804 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>DOT</to>
+<in>1</in>
+<out>0.22222200</out>
+<amount>303.65</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>1337.57825 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>UNI</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>4.32456000</out>
+<amount>16767.06</amount>
+<minfee>1 UNI</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>38.46 UNI</minamount>
+<maxamount>100 UNI</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>UNI</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>3.97320000</out>
+<amount>11187.13</amount>
+<minfee>1 UNI</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>18.52 UNI</minamount>
+<maxamount>100 UNI</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>UNI</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>4.04040000</out>
+<amount>37263.38</amount>
+<minfee>1 UNI</minfee>
+<minamount>11.11 UNI</minamount>
+<maxamount>100 UNI</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>UNI</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>3.82200000</out>
+<amount>14493.13</amount>
+<minfee>1 UNI</minfee>
+<minamount>11.11 UNI</minamount>
+<maxamount>100 UNI</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>UNI</to>
+<in>1</in>
+<out>0.19573000</out>
+<amount>1000</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>4995.652173913 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>UNI</to>
+<in>1</in>
+<out>0.20424000</out>
+<amount>1000</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>4787.5 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>UNI</to>
+<in>1</in>
+<out>0.17963000</out>
+<amount>1000</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>5300 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>UNI</to>
+<in>1</in>
+<out>0.18744000</out>
+<amount>1000</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>5079.1666666667 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>RVN</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>0.01478635</out>
+<amount>16767.06</amount>
+<minfee>200 RVN</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>53577.42 RVN</minamount>
+<maxamount>20000 RVN</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>RVN</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>0.01357356</out>
+<amount>11187.13</amount>
+<minfee>200 RVN</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>56535.82 RVN</minamount>
+<maxamount>20000 RVN</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>RVN</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>0.01381476</out>
+<amount>37263.38</amount>
+<minfee>200 RVN</minfee>
+<minamount>2222.22 RVN</minamount>
+<maxamount>20000 RVN</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>RVN</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.01305702</out>
+<amount>14493.13</amount>
+<minfee>200 RVN</minfee>
+<minamount>2222.22 RVN</minamount>
+<maxamount>20000 RVN</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>RVN</to>
+<in>1</in>
+<out>56.05537000</out>
+<amount>196284.07</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>3423.8712073782 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>RVN</to>
+<in>1</in>
+<out>59.30619000</out>
+<amount>196284.07</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>3236.1945247525 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>RVN</to>
+<in>1</in>
+<out>51.44447000</out>
+<amount>196284.07</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>3632.4621425535 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>RVN</to>
+<in>1</in>
+<out>54.42789000</out>
+<amount>196284.07</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>3433.3517194719 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SOL</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>19.70402000</out>
+<amount>16767.06</amount>
+<minfee>0.1 SOL</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>3.84615385 SOL</minamount>
+<maxamount>10 SOL</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>SOL</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>18.62288000</out>
+<amount>11187.13</amount>
+<minfee>0.1 SOL</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>3.84615385 SOL</minamount>
+<maxamount>10 SOL</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>SOL</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>19.31965000</out>
+<amount>37263.38</amount>
+<minfee>0.1 SOL</minfee>
+<minamount>2.22222222 SOL</minamount>
+<maxamount>10 SOL</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>SOL</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>18.54640000</out>
+<amount>14493.13</amount>
+<minfee>0.1 SOL</minfee>
+<minamount>3.33333333 SOL</minamount>
+<maxamount>10 SOL</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>SOL</to>
+<in>1</in>
+<out>0.04206624</out>
+<amount>76.66</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>1781.9056416207 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>SOL</to>
+<in>1</in>
+<out>0.04450837</out>
+<amount>76.66</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>1684.134187207 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>SOL</to>
+<in>1</in>
+<out>0.04210579</out>
+<amount>76.66</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>1780.664976248 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>SOL</to>
+<in>1</in>
+<out>0.04442992</out>
+<amount>76.66</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>1686.3327958064 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>VET</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>0.01653677</out>
+<amount>16767.06</amount>
+<minfee>170 VET</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>40926.78 VET</minamount>
+<maxamount>17000 VET</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>VET</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>0.01562972</out>
+<amount>11187.13</amount>
+<minfee>170 VET</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>43172.08 VET</minamount>
+<maxamount>17000 VET</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>VET</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>0.01545016</out>
+<amount>37263.38</amount>
+<minfee>170 VET</minfee>
+<minamount>1888.89 VET</minamount>
+<maxamount>17000 VET</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>VET</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.01460272</out>
+<amount>14493.13</amount>
+<minfee>170 VET</minfee>
+<minamount>1888.89 VET</minamount>
+<maxamount>17000 VET</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>VET</to>
+<in>1</in>
+<out>50.12390000</out>
+<amount>175000</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>3413.8370118846 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>VET</to>
+<in>1</in>
+<out>53.03432000</out>
+<amount>175000</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>3226.4922978177 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>VET</to>
+<in>1</in>
+<out>50.58921000</out>
+<amount>175000</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>3390.3650254669 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>VET</to>
+<in>1</in>
+<out>53.40200800</out>
+<amount>175000</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>3209.9245827985 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SHIBERC20</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>0.00000714</out>
+<amount>16767.06</amount>
+<minfee>400000 SHIB</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>212828420190.99 SHIB</minamount>
+<maxamount>40000000 SHIB</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>SHIBERC20</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>0.00000656</out>
+<amount>11187.13</amount>
+<minfee>400000 SHIB</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>225112585858.59 SHIB</minamount>
+<maxamount>40000000 SHIB</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>SHIBERC20</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>0.00000667</out>
+<amount>37263.38</amount>
+<minfee>400000 SHIB</minfee>
+<minamount>4444444.44 SHIB</minamount>
+<maxamount>40000000 SHIB</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>SHIBERC20</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.00000631</out>
+<amount>14493.13</amount>
+<minfee>400000 SHIB</minfee>
+<minamount>4444444.44 SHIB</minamount>
+<maxamount>40000000 SHIB</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>SHIBERC20</to>
+<in>1</in>
+<out>116098.22815000</out>
+<amount>494140027.73</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>4161.7312570017 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>SHIBERC20</to>
+<in>1</in>
+<out>122799.41914000</out>
+<amount>494140027.73</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>3934.6246778539 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>SHIBERC20</to>
+<in>1</in>
+<out>114283.76700500</out>
+<amount>494140027.73</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>4209.9044734665 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>SHIBERC20</to>
+<in>1</in>
+<out>120880.22727800</out>
+<amount>494140027.73</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>3980.169071427 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SHIBBEP20</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>0.00000693</out>
+<amount>16767.06</amount>
+<minfee>400000 SHIB</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>212828420190.99 SHIB</minamount>
+<maxamount>40000000 SHIB</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>SHIBBEP20</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>0.00000656</out>
+<amount>11187.13</amount>
+<minfee>400000 SHIB</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>225112585858.59 SHIB</minamount>
+<maxamount>40000000 SHIB</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>SHIBBEP20</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>0.00000667</out>
+<amount>37263.38</amount>
+<minfee>400000 SHIB</minfee>
+<minamount>4444444.44 SHIB</minamount>
+<maxamount>40000000 SHIB</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>SHIBBEP20</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.00000631</out>
+<amount>14493.13</amount>
+<minfee>400000 SHIB</minfee>
+<minamount>4444444.44 SHIB</minamount>
+<maxamount>40000000 SHIB</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>SHIBBEP20</to>
+<in>1</in>
+<out>116098.22815000</out>
+<amount>500000000</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>4211.0849389393 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>SHIBBEP20</to>
+<in>1</in>
+<out>122799.41914000</out>
+<amount>500000000</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>3981.2851186423 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>SHIBBEP20</to>
+<in>1</in>
+<out>115784.44915500</out>
+<amount>500000000</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>4219.514438817 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>SHIBBEP20</to>
+<in>1</in>
+<out>122380.94873400</out>
+<amount>500000000</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>3991.3336189417 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>ALGO</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>0.09740000</out>
+<amount>16767.06</amount>
+<minfee>15 ALGO</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>765.00 ALGO</minamount>
+<maxamount>1000 ALGO</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ALGO</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>0.09376114</out>
+<amount>11187.13</amount>
+<minfee>15 ALGO</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>783.67 ALGO</minamount>
+<maxamount>1000 ALGO</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ALGO</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>0.09100000</out>
+<amount>37263.38</amount>
+<minfee>15 ALGO</minfee>
+<minamount>166.67 ALGO</minamount>
+<maxamount>1000 ALGO</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>ALGO</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.08760024</out>
+<amount>14493.13</amount>
+<minfee>15 ALGO</minfee>
+<minamount>166.67 ALGO</minamount>
+<maxamount>1000 ALGO</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>ALGO</to>
+<in>1</in>
+<out>8.35682000</out>
+<amount>15000</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>1755.0916496945 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>ALGO</to>
+<in>1</in>
+<out>8.84189000</out>
+<amount>15000</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>1658.8065447546 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>ALGO</to>
+<in>1</in>
+<out>8.44029000</out>
+<amount>15000</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>1742.1079429735 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>ALGO</to>
+<in>1</in>
+<out>8.80552500</out>
+<amount>15000</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>1663.8594802695 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>MKR</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>1401.55576000</out>
+<amount>16767.06</amount>
+<minfee>0.0055 MKR</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>0.10185185 MKR</minamount>
+<maxamount>0.5 MKR</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>MKR</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>1324.68380000</out>
+<amount>11187.13</amount>
+<minfee>0.0055 MKR</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>0.10185185 MKR</minamount>
+<maxamount>0.5 MKR</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>MKR</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>1348.21960000</out>
+<amount>37263.38</amount>
+<minfee>0.0055 MKR</minfee>
+<minamount>0.06111111 MKR</minamount>
+<maxamount>0.5 MKR</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>MKR</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>1274.27300000</out>
+<amount>14493.13</amount>
+<minfee>0.0055 MKR</minfee>
+<minamount>0.06111111 MKR</minamount>
+<maxamount>0.5 MKR</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>MKR</to>
+<in>1</in>
+<out>0.00057439</out>
+<amount>5.55</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>9447.8932084864 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>MKR</to>
+<in>1</in>
+<out>0.00060772</out>
+<amount>5.55</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>8929.676669514 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>MKR</to>
+<in>1</in>
+<out>0.00052714</out>
+<amount>5.55</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>10000 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>MKR</to>
+<in>1</in>
+<out>0.00055774</out>
+<amount>5.55</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>9473.6952655679 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>AVAX</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>8.93158000</out>
+<amount>16767.06</amount>
+<minfee>0.13 AVAX</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>5 AVAX</minamount>
+<maxamount>13 AVAX</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>AVAX</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>8.44458000</out>
+<amount>11187.13</amount>
+<minfee>0.13 AVAX</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>5 AVAX</minamount>
+<maxamount>13 AVAX</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>AVAX</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>8.34470000</out>
+<amount>37263.38</amount>
+<minfee>0.13 AVAX</minfee>
+<minamount>1.44 AVAX</minamount>
+<maxamount>13 AVAX</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>AVAX</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>7.88970000</out>
+<amount>14493.13</amount>
+<minfee>0.13 AVAX</minfee>
+<minamount>1.44 AVAX</minamount>
+<maxamount>13 AVAX</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>AVAX</to>
+<in>1</in>
+<out>0.09361000</out>
+<amount>147.5</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>1540.7045454545 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>AVAX</to>
+<in>1</in>
+<out>0.10212000</out>
+<amount>147.5</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>1412.3125 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>AVAX</to>
+<in>1</in>
+<out>0.09373100</out>
+<amount>147.5</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>1539.2295454545 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>AVAX</to>
+<in>1</in>
+<out>0.09768000</out>
+<amount>147.5</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>1457.7916666667 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>YFI</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>4937.43888000</out>
+<amount>16767.06</amount>
+<minfee>0.00055 YFI</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>0.01018519 YFI</minamount>
+<maxamount>0.055 YFI</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>YFI</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>4666.62746000</out>
+<amount>11187.13</amount>
+<minfee>0.00055 YFI</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>0.01018519 YFI</minamount>
+<maxamount>0.055 YFI</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>YFI</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>4749.54480000</out>
+<amount>37263.38</amount>
+<minfee>0.00055 YFI</minfee>
+<minamount>0.00611111 YFI</minamount>
+<maxamount>0.055 YFI</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>YFI</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>4489.03910000</out>
+<amount>14493.13</amount>
+<minfee>0.00055 YFI</minfee>
+<minamount>0.00611111 YFI</minamount>
+<maxamount>0.055 YFI</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>YFI</to>
+<in>1</in>
+<out>0.00016305</out>
+<amount>0.54</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>3238.3089770355 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>YFI</to>
+<in>1</in>
+<out>0.00017251</out>
+<amount>0.54</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>3060.6748224152 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>YFI</to>
+<in>1</in>
+<out>0.00015909</out>
+<amount>0.54</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>3296.6492693111 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>YFI</to>
+<in>1</in>
+<out>0.00016615</out>
+<amount>0.54</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>3144.317284925 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>MANA</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>0.30194000</out>
+<amount>16767.06</amount>
+<minfee>4.85 MANA</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>186.54 MANA</minamount>
+<maxamount>485 MANA</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>MANA</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>0.27434000</out>
+<amount>11187.13</amount>
+<minfee>4.85 MANA</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>122.34 MANA</minamount>
+<maxamount>485 MANA</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>MANA</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>0.28210000</out>
+<amount>37263.38</amount>
+<minfee>4.85 MANA</minfee>
+<minamount>53.89 MANA</minamount>
+<maxamount>485 MANA</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>MANA</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.26390000</out>
+<amount>14493.13</amount>
+<minfee>4.85 MANA</minfee>
+<minamount>53.89 MANA</minamount>
+<maxamount>485 MANA</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>MANA</to>
+<in>1</in>
+<out>2.77426000</out>
+<amount>5500</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>1938.4969325153 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>MANA</to>
+<in>1</in>
+<out>2.93595000</out>
+<amount>5500</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>1831.7391304348 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>MANA</to>
+<in>1</in>
+<out>2.73840000</out>
+<amount>5500</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>1957.0552147239 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>MANA</to>
+<in>1</in>
+<out>2.86867500</out>
+<amount>5500</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>1862.8260869565 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>NEAR</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>1.10062000</out>
+<amount>16767.06</amount>
+<minfee>0.65 NEAR</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>25 NEAR</minamount>
+<maxamount>65 NEAR</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>NEAR</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>1.01222000</out>
+<amount>11187.13</amount>
+<minfee>0.65 NEAR</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>12.04 NEAR</minamount>
+<maxamount>65 NEAR</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>NEAR</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>1.02830000</out>
+<amount>37263.38</amount>
+<minfee>0.65 NEAR</minfee>
+<minamount>7.22 NEAR</minamount>
+<maxamount>65 NEAR</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>NEAR</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>0.97370000</out>
+<amount>14493.13</amount>
+<minfee>0.65 NEAR</minfee>
+<minamount>7.22 NEAR</minamount>
+<maxamount>65 NEAR</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>NEAR</to>
+<in>1</in>
+<out>0.74888000</out>
+<amount>541.37</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>706.85696590909 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>NEAR</to>
+<in>1</in>
+<out>0.79143000</out>
+<amount>541.37</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>668.85390322581 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>NEAR</to>
+<in>1</in>
+<out>0.75424800</out>
+<amount>541.37</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>703.1042875 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>NEAR</to>
+<in>1</in>
+<out>0.78436200</out>
+<amount>541.37</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>673.27800215054 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>BNBBEP20</from>
+<to>PPUSD</to>
+<in>1</in>
+<out>203.14404000</out>
+<amount>16767.06</amount>
+<minfee>0.01 BNB</minfee><fromfee>3.9 %</fromfee><tofee>0.3 USD</tofee>
+<minamount>0.18518519 BNB</minamount>
+<maxamount>10 BNB</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>BNBBEP20</from>
+<to>PPEUR</to>
+<in>1</in>
+<out>192.00016000</out>
+<amount>11187.13</amount>
+<minfee>0.01 BNB</minfee><fromfee>3.9 %</fromfee><tofee>0.25 EUR</tofee>
+<minamount>0.18518519 BNB</minamount>
+<maxamount>10 BNB</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>BNBBEP20</from>
+<to>SKLUSD</to>
+<in>1</in>
+<out>195.41340000</out>
+<amount>37263.38</amount>
+<minfee>0.01 BNB</minfee>
+<minamount>0.11111111 BNB</minamount>
+<maxamount>10 BNB</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>BNBBEP20</from>
+<to>SKLEUR</to>
+<in>1</in>
+<out>184.69360000</out>
+<amount>14493.13</amount>
+<minfee>0.01 BNB</minfee>
+<minamount>0.11111111 BNB</minamount>
+<maxamount>10 BNB</maxamount>
+<param>manual</param>
+</item>
+
+<item>
+<from>PPUSD</from>
+<to>BNBBEP20</to>
+<in>1</in>
+<out>0.00396293</out>
+<amount>22.63</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>5583.6466750702 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>PPEUR</from>
+<to>BNBBEP20</to>
+<in>1</in>
+<out>0.00419295</out>
+<amount>22.63</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>5277.3387077133 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLUSD</from>
+<to>BNBBEP20</to>
+<in>1</in>
+<out>0.00399785</out>
+<amount>22.63</amount>
+<minfee>2.5 USD</minfee>
+<minamount>25 USD</minamount>
+<maxamount>5547.1998952068 USD</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+
+<item>
+<from>SKLEUR</from>
+<to>BNBBEP20</to>
+<in>1</in>
+<out>0.00422251</out>
+<amount>22.63</amount>
+<minfee>2.5 EUR</minfee>
+<minamount>25 EUR</minamount>
+<maxamount>5249.7808032344 EUR</maxamount>
+<param>manual, verifying, floating</param>
+</item>
+</rates>

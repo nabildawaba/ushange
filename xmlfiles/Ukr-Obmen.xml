@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<rates>
+			<item>
+					<from>USDC</from>
+						<to>ZEC</to>
+						<in>27.143028</in>
+						<out>1</out>
+						<amount>2416</amount>
+						<minamount>10000 USDC</minamount>
+						<maxamount>65577.555648 USDC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>TUSD</from>
+						<to>USDTTRC20</to>
+						<in>1.007</in>
+						<out>1</out>
+						<amount>425120</amount>
+						<minamount>3000 TUSD</minamount>
+						<maxamount>150000 TUSD</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>USDTTRC20</to>
+						<in>1</in>
+						<out>26851.45325</out>
+						<amount>1202135</amount>
+						<minamount>0.35 BTC</minamount>
+						<maxamount>10 BTC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>XMR</from>
+						<to>LTC</to>
+						<in>1</in>
+						<out>2.19586957</out>
+						<amount>8265</amount>
+						<minamount>80 XMR</minamount>
+						<maxamount>3763.88475569 XMR</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>XMR</from>
+						<to>DASH</to>
+						<in>1</in>
+						<out>5.27022757</out>
+						<amount>705</amount>
+						<minamount>30 XMR</minamount>
+						<maxamount>133.77031459 XMR</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDC</from>
+						<to>USDTTRC20</to>
+						<in>1.0082</in>
+						<out>1</out>
+						<amount>252125</amount>
+						<minamount>3000 USDC</minamount>
+						<maxamount>254192.425 USDC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>XMR</to>
+						<in>145.67036</in>
+						<out>1</out>
+						<amount>705</amount>
+						<minamount>10000 USDT</minamount>
+						<maxamount>102697.603802 USDT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>ETH</to>
+						<in>1679.3908</in>
+						<out>1</out>
+						<amount>135</amount>
+						<minamount>10000 USDT</minamount>
+						<maxamount>200000 USDT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>DASH</to>
+						<in>27.52968</in>
+						<out>1</out>
+						<amount>615</amount>
+						<minamount>10000 USDT</minamount>
+						<maxamount>16930.7532 USDT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>BTC</to>
+						<in>27039.979</in>
+						<out>1</out>
+						<amount>13</amount>
+						<minamount>10000 USDT</minamount>
+						<maxamount>200000 USDT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDC</from>
+						<to>BTC</to>
+						<in>27223.351181</in>
+						<out>1</out>
+						<amount>12</amount>
+						<minamount>10000 USDC</minamount>
+						<maxamount>250000 USDC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDC</from>
+						<to>ETH</to>
+						<in>1692.781025</in>
+						<out>1</out>
+						<amount>125</amount>
+						<minamount>5000 USDC</minamount>
+						<maxamount>211597.628077 USDC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>USDC</to>
+						<in>1.01</in>
+						<out>1</out>
+						<amount>252125</amount>
+						<minamount>5000 USDT</minamount>
+						<maxamount>250000 USDT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>USDC</to>
+						<in>1</in>
+						<out>26669.0358</out>
+						<amount>350195</amount>
+						<minamount>0.4 BTC</minamount>
+						<maxamount>10 BTC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>USDC</to>
+						<in>1</in>
+						<out>1657.298839</out>
+						<amount>365125</amount>
+						<minamount>5 ETH</minamount>
+						<maxamount>200 ETH</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDC</from>
+						<to>TUSD</to>
+						<in>1.025</in>
+						<out>1</out>
+						<amount>250125</amount>
+						<minamount>3000 USDC</minamount>
+						<maxamount>250000 USDC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDC</from>
+						<to>DASH</to>
+						<in>28.045677</in>
+						<out>1</out>
+						<amount>1882</amount>
+						<minamount>10000 USDC</minamount>
+						<maxamount>25000 USDC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>TUSD</from>
+						<to>BTC</to>
+						<in>27245.164764</in>
+						<out>1</out>
+						<amount>12.2</amount>
+						<minamount>10000 TUSD</minamount>
+						<maxamount>250000 TUSD</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>TUSD</from>
+						<to>ETH</to>
+						<in>1692.134415</in>
+						<out>1</out>
+						<amount>262</amount>
+						<minamount>10000 TUSD</minamount>
+						<maxamount>100000 TUSD</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDC</from>
+						<to>XMR</to>
+						<in>146.658227</in>
+						<out>1</out>
+						<amount>1561</amount>
+						<minamount>10000 USDC</minamount>
+						<maxamount>228933.492335 USDC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>USDC</to>
+						<in>1.01</in>
+						<out>1</out>
+						<amount>252125</amount>
+						<minamount>5000 USDT</minamount>
+						<maxamount>250000 USDT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDC</from>
+						<to>USDTERC20</to>
+						<in>1.014682</in>
+						<out>1</out>
+						<amount>250125</amount>
+						<minamount>3000 USDC</minamount>
+						<maxamount>250000 USDC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>TUSD</from>
+						<to>USDTERC20</to>
+						<in>1.018</in>
+						<out>1</out>
+						<amount>421620</amount>
+						<minamount>3000 TUSD</minamount>
+						<maxamount>150000 TUSD</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>USDTTRC20</to>
+						<in>1.001</in>
+						<out>1</out>
+						<amount>515613</amount>
+						<minamount>10000 USDT</minamount>
+						<maxamount>500000 USDT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>ZEC</to>
+						<in>26.68632</in>
+						<out>1</out>
+						<amount>2615</amount>
+						<minamount>10000 USDT</minamount>
+						<maxamount>69784.7268 USDT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>WBT</to>
+						<in>5.33231</in>
+						<out>1</out>
+						<amount>52032</amount>
+						<minamount>15000 USDT</minamount>
+						<maxamount>180000 USDT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>WBT</to>
+						<in>5.33231</in>
+						<out>1</out>
+						<amount>52032</amount>
+						<minamount>15000 USDT</minamount>
+						<maxamount>180000 USDT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>WBT</from>
+						<to>USDTERC20</to>
+						<in>1</in>
+						<out>5.02169</out>
+						<amount>520328</amount>
+						<minamount>1500 WBT</minamount>
+						<maxamount>100000 WBT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>XMR</to>
+						<in>1</in>
+						<out>11.48259149</out>
+						<amount>25015</amount>
+						<minamount>5 ETH</minamount>
+						<maxamount>2080 ETH</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>XMR</from>
+						<to>ETH</to>
+						<in>11.57482115</in>
+						<out>1</out>
+						<amount>2080</amount>
+						<minamount>100 XMR</minamount>
+						<maxamount>24075.62799201 XMR</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>USDTERC20</to>
+						<in>1</in>
+						<out>26824.521</out>
+						<amount>628125</amount>
+						<minamount>0.4 BTC</minamount>
+						<maxamount>10 BTC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>WBT</from>
+						<to>USDTTRC20</to>
+						<in>1</in>
+						<out>5.02169</out>
+						<amount>520328</amount>
+						<minamount>1500 WBT</minamount>
+						<maxamount>100000 WBT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>USDTTRC20</to>
+						<in>1</in>
+						<out>1666.0092</out>
+						<amount>385613</amount>
+						<minamount>5 ETH</minamount>
+						<maxamount>100 ETH</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>ZEC</to>
+						<in>26.65974</in>
+						<out>1</out>
+						<amount>2515</amount>
+						<minamount>10000 USDT</minamount>
+						<maxamount>67049.2461 USDT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>USDTERC20</to>
+						<in>1.0034</in>
+						<out>1</out>
+						<amount>515955</amount>
+						<minamount>20000 USDT</minamount>
+						<maxamount>500000 USDT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>USDTERC20</to>
+						<in>1</in>
+						<out>1666.0092</out>
+						<amount>385613</amount>
+						<minamount>5 ETH</minamount>
+						<maxamount>100 ETH</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>ETH</to>
+						<in>1679.3908</in>
+						<out>1</out>
+						<amount>135</amount>
+						<minamount>10000 USDT</minamount>
+						<maxamount>200000 USDT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>TRX</to>
+						<in>1</in>
+						<out>11.19276427</out>
+						<amount>5125622</amount>
+						<minamount>5000 USDT</minamount>
+						<maxamount>200000 USDT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>BTC</to>
+						<in>27039.979</in>
+						<out>1</out>
+						<amount>15</amount>
+						<minamount>10000 USDT</minamount>
+						<maxamount>200000 USDT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>XMR</to>
+						<in>145.67036</in>
+						<out>1</out>
+						<amount>615</amount>
+						<minamount>10000 USDT</minamount>
+						<maxamount>89587.271401 USDT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>XMR</from>
+						<to>USDTTRC20</to>
+						<in>1</in>
+						<out>144.50964</out>
+						<amount>285613</amount>
+						<minamount>100 XMR</minamount>
+						<maxamount>1000 XMR</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>XMR</from>
+						<to>USDTERC20</to>
+						<in>1</in>
+						<out>144.21946</out>
+						<amount>285613</amount>
+						<minamount>100 XMR</minamount>
+						<maxamount>1000 XMR</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>XMR</from>
+						<to>BTC</to>
+						<in>186.36693776</in>
+						<out>1</out>
+						<amount>135</amount>
+						<minamount>100 XMR</minamount>
+						<maxamount>25115 XMR</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>XMR</from>
+						<to>USDC</to>
+						<in>1</in>
+						<out>141.111289</out>
+						<amount>385112</amount>
+						<minamount>100 XMR</minamount>
+						<maxamount>1000 XMR</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>ZEC</from>
+						<to>BTC</to>
+						<in>1017.30545523</in>
+						<out>1</out>
+						<amount>25</amount>
+						<minamount>300 ZEC</minamount>
+						<maxamount>5000 ZEC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>ZEC</from>
+						<to>USDTERC20</to>
+						<in>1</in>
+						<out>26.47368</out>
+						<amount>285613</amount>
+						<minamount>100 ZEC</minamount>
+						<maxamount>1500 ZEC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>ZEC</from>
+						<to>USDTTRC20</to>
+						<in>1</in>
+						<out>26.47368</out>
+						<amount>285613</amount>
+						<minamount>100 ZEC</minamount>
+						<maxamount>2000 ZEC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>ZEC</from>
+						<to>USDC</to>
+						<in>1</in>
+						<out>26.016053</out>
+						<amount>362125</amount>
+						<minamount>80 ZEC</minamount>
+						<maxamount>1000 ZEC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>ZEC</from>
+						<to>LTC</to>
+						<in>2.49080135</in>
+						<out>1</out>
+						<amount>3516</amount>
+						<minamount>300 ZEC</minamount>
+						<maxamount>5000 ZEC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>ZEC</from>
+						<to>ETH</to>
+						<in>63.18249812</in>
+						<out>1</out>
+						<amount>535</amount>
+						<minamount>100 ZEC</minamount>
+						<maxamount>1500 ZEC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>XRP</from>
+						<to>LTC</to>
+						<in>128.66402886</in>
+						<out>1</out>
+						<amount>5102</amount>
+						<minamount>15000 XRP</minamount>
+						<maxamount>100000 XRP</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>XRP</from>
+						<to>TUSD</to>
+						<in>1.9756969</in>
+						<out>1</out>
+						<amount>315112</amount>
+						<minamount>15000 XRP</minamount>
+						<maxamount>100000 XRP</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>XRP</from>
+						<to>USDC</to>
+						<in>1.99158512</in>
+						<out>1</out>
+						<amount>352112</amount>
+						<minamount>15000 XRP</minamount>
+						<maxamount>100000 XRP</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>XRP</from>
+						<to>ZEC</to>
+						<in>52.17223321</in>
+						<out>1</out>
+						<amount>3102</amount>
+						<minamount>15000 XRP</minamount>
+						<maxamount>100000 XRP</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>XRP</from>
+						<to>DASH</to>
+						<in>53.82101711</in>
+						<out>1</out>
+						<amount>5102</amount>
+						<minamount>15000 XRP</minamount>
+						<maxamount>100000 XRP</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>XRP</from>
+						<to>XMR</to>
+						<in>283.09969355</in>
+						<out>1</out>
+						<amount>6652</amount>
+						<minamount>15000 XRP</minamount>
+						<maxamount>100000 XRP</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>XRP</from>
+						<to>USDTERC20</to>
+						<in>1.97835447</in>
+						<out>1</out>
+						<amount>512441</amount>
+						<minamount>15000 XRP</minamount>
+						<maxamount>100000 XRP</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>XRP</from>
+						<to>ETH</to>
+						<in>3276.7504558</in>
+						<out>1</out>
+						<amount>612</amount>
+						<minamount>15000 XRP</minamount>
+						<maxamount>100000 XRP</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>XRP</from>
+						<to>BTC</to>
+						<in>52587.55880816</in>
+						<out>1</out>
+						<amount>22.5</amount>
+						<minamount>17000 XRP</minamount>
+						<maxamount>500000 XRP</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>XRP</from>
+						<to>USDTTRC20</to>
+						<in>1.97835447</in>
+						<out>1</out>
+						<amount>512441</amount>
+						<minamount>15000 XRP</minamount>
+						<maxamount>100000 XRP</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>1.017</out>
+						<amount>100.8285</amount>
+						<tofee>0.5 %</tofee>
+						<minamount>20 USDT</minamount>
+						<maxamount>99.143068 USDT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>ETH</to>
+						<in>1</in>
+						<out>16.03813082</out>
+						<amount>2080</amount>
+						<minamount>0.4 BTC</minamount>
+						<maxamount>129.69092367 BTC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>USDC</to>
+						<in>1</in>
+						<out>64.159227</out>
+						<amount>385115</amount>
+						<minamount>130 LTC</minamount>
+						<maxamount>1000 LTC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>USDTERC20</to>
+						<in>1</in>
+						<out>65.1567</out>
+						<amount>385165</amount>
+						<minamount>130 LTC</minamount>
+						<maxamount>1000 LTC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>BTC</to>
+						<in>413.0702836</in>
+						<out>1</out>
+						<amount>12</amount>
+						<minamount>130 LTC</minamount>
+						<maxamount>1000 LTC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>ETH</to>
+						<in>25.64551487</in>
+						<out>1</out>
+						<amount>165</amount>
+						<minamount>130 LTC</minamount>
+						<maxamount>1000 LTC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>USDTTRC20</to>
+						<in>1</in>
+						<out>65.09115</out>
+						<amount>385125</amount>
+						<minamount>130 LTC</minamount>
+						<maxamount>1000 LTC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>BTC</to>
+						<in>16.16695114</in>
+						<out>1</out>
+						<amount>135</amount>
+						<minamount>5 ETH</minamount>
+						<maxamount>2080 ETH</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>USDTTRC20</to>
+						<in>1.099</in>
+						<out>1</out>
+						<amount>311</amount>
+						<minamount>20 USD</minamount>
+						<maxamount>341.789 USD</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>DASH</to>
+						<in>1</in>
+						<out>977.30082969</out>
+						<amount>1325</amount>
+						<minamount>0.4 BTC</minamount>
+						<maxamount>1.35577497 BTC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>XMR</to>
+						<in>1</in>
+						<out>184.88194224</out>
+						<amount>25115</amount>
+						<minamount>0.4 BTC</minamount>
+						<maxamount>135 BTC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>ZEC</to>
+						<in>1</in>
+						<out>1009.11854103</out>
+						<amount>3502</amount>
+						<minamount>0.4 BTC</minamount>
+						<maxamount>3.47035542 BTC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>WBT</to>
+						<in>1</in>
+						<out>5046.22030133</out>
+						<amount>52032</amount>
+						<minamount>0.4 BTC</minamount>
+						<maxamount>10 BTC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>WBT</from>
+						<to>BTC</to>
+						<in>5358.35763956</in>
+						<out>1</out>
+						<amount>35.2</amount>
+						<minamount>1500 WBT</minamount>
+						<maxamount>100000 WBT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>DASH</from>
+						<to>USDTTRC20</to>
+						<in>1</in>
+						<out>27.1458</out>
+						<amount>280135</amount>
+						<minamount>200 DASH</minamount>
+						<maxamount>5000 DASH</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>DASH</from>
+						<to>USDC</to>
+						<in>1</in>
+						<out>26.838231</out>
+						<amount>385112</amount>
+						<minamount>80 DASH</minamount>
+						<maxamount>1500 DASH</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>DASH</from>
+						<to>XMR</to>
+						<in>5.31255872</in>
+						<out>1</out>
+						<amount>500</amount>
+						<minamount>120 DASH</minamount>
+						<maxamount>2656.27936 DASH</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>DASH</from>
+						<to>USDTERC20</to>
+						<in>1</in>
+						<out>27.22806</out>
+						<amount>285152</amount>
+						<minamount>80 DASH</minamount>
+						<maxamount>1500 DASH</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>DASH</from>
+						<to>ETH</to>
+						<in>66.07369759</in>
+						<out>1</out>
+						<amount>535</amount>
+						<minamount>40 DASH</minamount>
+						<maxamount>1500 DASH</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>DASH</from>
+						<to>BTC</to>
+						<in>986.14073669</in>
+						<out>1</out>
+						<amount>26</amount>
+						<minamount>200 DASH</minamount>
+						<maxamount>5000 DASH</maxamount>
+						<param>manual</param>
+					</item>
+			</rates>
+	

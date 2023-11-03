@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<rates>
+			<item>
+					<from>ADVCUSD</from>
+						<to>ALPCNY</to>
+						<in>100</in>
+						<out>660</out>
+						<amount>2995327</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>1000 USD</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>ALPCNY</from>
+						<to>ADVCUSD</to>
+						<in>760</in>
+						<out>100</out>
+						<amount>5000</amount>
+						<minamount>100 CNY</minamount>
+						<maxamount>10000 CNY</maxamount>
+						<param>manual, verifying</param>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>PMUSD</to>
+						<in>100</in>
+						<out>102.5</out>
+						<amount>4570.92</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>2000 USD</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>PMUSD</to>
+						<in>100</in>
+						<out>101.5</out>
+						<amount>4570.92</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>2000 USD</maxamount>
+					</item>
+				<item>
+					<from>ITOKEN</from>
+						<to>ALPCNY</to>
+						<in>1</in>
+						<out>1</out>
+						<amount>2995327</amount>
+						<minamount>50 ITOKEN</minamount>
+						<maxamount>20000 ITOKEN</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>UPCNY</to>
+						<in>100</in>
+						<out>660</out>
+						<amount>1904457.6</amount>
+						<minamount>200 USD</minamount>
+						<maxamount>2000 USD</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>USDTTRC20</to>
+						<in>102</in>
+						<out>100</out>
+						<amount>10563.1186</amount>
+						<minamount>200 USD</minamount>
+						<maxamount>2000 USD</maxamount>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>26124.28</out>
+						<amount>4570.92</amount>
+						<minamount>0.002 BTC</minamount>
+						<maxamount>0.17496827 BTC</maxamount>
+					</item>
+				<item>
+					<from>BNB</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>208.21</out>
+						<amount>4570.92</amount>
+						<minamount>0.1 BNB</minamount>
+						<maxamount>1 BNB</maxamount>
+					</item>
+				<item>
+					<from>DOGE</from>
+						<to>PMUSD</to>
+						<in>100</in>
+						<out>5.81</out>
+						<amount>4570.92</amount>
+						<minamount>200 DOGE</minamount>
+						<maxamount>5000 DOGE</maxamount>
+					</item>
+				<item>
+					<from>DASH</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>26.6</out>
+						<amount>4570.92</amount>
+						<minamount>0.1 DASH</minamount>
+						<maxamount>10 DASH</maxamount>
+					</item>
+				<item>
+					<from>XMR</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>140.74</out>
+						<amount>4570.92</amount>
+						<minamount>0.5 XMR</minamount>
+						<maxamount>10 XMR</maxamount>
+					</item>
+				<item>
+					<from>ZEC</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>25.78</out>
+						<amount>4570.92</amount>
+						<minamount>1 ZEC</minamount>
+						<maxamount>20 ZEC</maxamount>
+					</item>
+				<item>
+					<from>TRX</from>
+						<to>PMUSD</to>
+						<in>11.64</in>
+						<out>1</out>
+						<amount>4570.92</amount>
+						<minamount>100 TRX</minamount>
+						<maxamount>30000 TRX</maxamount>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>PRUSD</to>
+						<in>1</in>
+						<out>25585.64</out>
+						<amount>8622.44</amount>
+						<minamount>0.002 BTC</minamount>
+						<maxamount>0.2 BTC</maxamount>
+					</item>
+				<item>
+					<from>XRP</from>
+						<to>PMUSD</to>
+						<in>100</in>
+						<out>48.56</out>
+						<amount>4570.92</amount>
+						<minamount>20 XRP</minamount>
+						<maxamount>2000 XRP</maxamount>
+					</item>
+				<item>
+					<from>XRP</from>
+						<to>ALPCNY</to>
+						<in>100</in>
+						<out>310.17</out>
+						<amount>2995327</amount>
+						<minamount>50 XRP</minamount>
+						<maxamount>2000 XRP</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>BNB</from>
+						<to>ALPCNY</to>
+						<in>1</in>
+						<out>1291.35</out>
+						<amount>2995327</amount>
+						<minamount>0.1 BNB</minamount>
+						<maxamount>2 BNB</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>1622.52</out>
+						<amount>4570.92</amount>
+						<minamount>0.05 ETH</minamount>
+						<maxamount>2.817173 ETH</maxamount>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>PRUSD</to>
+						<in>1</in>
+						<out>1639.25</out>
+						<amount>8622.44</amount>
+						<minamount>0.05 ETH</minamount>
+						<maxamount>5.259991 ETH</maxamount>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>63.58</out>
+						<amount>4570.92</amount>
+						<minamount>0.2 LTC</minamount>
+						<maxamount>50 LTC</maxamount>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>PRUSD</to>
+						<in>1</in>
+						<out>64.24</out>
+						<amount>8622.44</amount>
+						<minamount>0.2 LTC</minamount>
+						<maxamount>50 LTC</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>LTC</to>
+						<in>69.48</in>
+						<out>1</out>
+						<amount>31.05745125</amount>
+						<minfee>0.001 LTC</minfee>
+						<minamount>50 USD</minamount>
+						<maxamount>2000 USD</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>TRX</to>
+						<in>1</in>
+						<out>10.63</out>
+						<amount>44213.42</amount>
+						<minamount>30 USD</minamount>
+						<maxamount>2000 USD</maxamount>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>PMUSD</to>
+						<in>100</in>
+						<out>100</out>
+						<amount>4570.92</amount>
+						<minamount>50 USDT</minamount>
+						<maxamount>4570.92 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>PRUSD</to>
+						<in>103</in>
+						<out>100</out>
+						<amount>8622.44</amount>
+						<minamount>50 USDT</minamount>
+						<maxamount>5000 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>PMUSD</to>
+						<in>100</in>
+						<out>100</out>
+						<amount>4570.92</amount>
+						<minamount>20 USDT</minamount>
+						<maxamount>3000 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>PRUSD</to>
+						<in>102</in>
+						<out>100</out>
+						<amount>8622.44</amount>
+						<minamount>20 USDT</minamount>
+						<maxamount>5000 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>ADVCUSD</to>
+						<in>105</in>
+						<out>100</out>
+						<amount>6476.61</amount>
+						<minamount>20 USDT</minamount>
+						<maxamount>3000 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTBEP20</from>
+						<to>PMUSD</to>
+						<in>100</in>
+						<out>100</out>
+						<amount>4570.92</amount>
+						<minamount>10 USDT</minamount>
+						<maxamount>3000 USDT</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>XRP</to>
+						<in>55.17</in>
+						<out>100</out>
+						<amount>3024.37</amount>
+						<minamount>30 USD</minamount>
+						<maxamount>1668.54 USD</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>USDTTRC20</to>
+						<in>103.3</in>
+						<out>100</out>
+						<amount>10563.1186</amount>
+						<minamount>200 USD</minamount>
+						<maxamount>3000 USD</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>USDTTRC20</to>
+						<in>102.8</in>
+						<out>100</out>
+						<amount>10563.1186</amount>
+						<minamount>200 USD</minamount>
+						<maxamount>3000 USD</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>USDTBEP20</to>
+						<in>106</in>
+						<out>100</out>
+						<amount>385.0046</amount>
+						<minamount>20 USD</minamount>
+						<maxamount>408.1 USD</maxamount>
+					</item>
+				<item>
+					<from>ALPCNY</from>
+						<to>PMUSD</to>
+						<in>745</in>
+						<out>100</out>
+						<amount>5000</amount>
+						<minamount>100 CNY</minamount>
+						<maxamount>10000 CNY</maxamount>
+						<param>manual, verifying</param>
+					</item>
+				<item>
+					<from>ALPCNY</from>
+						<to>PRUSD</to>
+						<in>755</in>
+						<out>100</out>
+						<amount>5000</amount>
+						<minamount>100 CNY</minamount>
+						<maxamount>10000 CNY</maxamount>
+						<param>manual, verifying</param>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>ALPCNY</to>
+						<in>100</in>
+						<out>645</out>
+						<amount>2995327</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>2000 USD</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>UPCNY</to>
+						<in>100</in>
+						<out>645</out>
+						<amount>1904457.6</amount>
+						<minamount>200 USD</minamount>
+						<maxamount>5000 USD</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>ALPCNY</to>
+						<in>100</in>
+						<out>670</out>
+						<amount>2995327</amount>
+						<minamount>50 USDT</minamount>
+						<maxamount>3000 USDT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>UPCNY</to>
+						<in>100</in>
+						<out>670</out>
+						<amount>1904457.6</amount>
+						<minamount>1000 USDT</minamount>
+						<maxamount>8000 USDT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>ALPCNY</to>
+						<in>100</in>
+						<out>670</out>
+						<amount>2995327</amount>
+						<minamount>20 USDT</minamount>
+						<maxamount>3000 USDT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>UPCNY</to>
+						<in>100</in>
+						<out>670</out>
+						<amount>1904457.6</amount>
+						<minamount>100 USDT</minamount>
+						<maxamount>6000 USDT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>WCTCNY</to>
+						<in>100</in>
+						<out>670</out>
+						<amount>8513678.3</amount>
+						<minamount>10 USDT</minamount>
+						<maxamount>5000 USDT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>ITOKEN</to>
+						<in>100</in>
+						<out>670</out>
+						<amount>50000</amount>
+						<minamount>20 USDT</minamount>
+						<maxamount>5000 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTBEP20</from>
+						<to>ALPCNY</to>
+						<in>100</in>
+						<out>670</out>
+						<amount>2995327</amount>
+						<minamount>10 USDT</minamount>
+						<maxamount>3000 USDT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>ALPCNY</from>
+						<to>USDTERC20</to>
+						<in>765</in>
+						<out>100</out>
+						<amount>10000</amount>
+						<minamount>1000 CNY</minamount>
+						<maxamount>10000 CNY</maxamount>
+						<param>manual, verifying</param>
+					</item>
+				<item>
+					<from>ALPCNY</from>
+						<to>USDTTRC20</to>
+						<in>765</in>
+						<out>100</out>
+						<amount>10001</amount>
+						<tofee>1 USDT</tofee>
+						<minamount>100 CNY</minamount>
+						<maxamount>10000 CNY</maxamount>
+						<param>manual, verifying</param>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>ADVCUSD</to>
+						<in>106</in>
+						<out>100</out>
+						<amount>6476.61</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>2000 USD</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>PRUSD</to>
+						<in>106</in>
+						<out>100</out>
+						<amount>8622.44</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>2000 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>PRUSD</to>
+						<in>102</in>
+						<out>100</out>
+						<amount>8622.44</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>2000 USD</maxamount>
+					</item>
+				<item>
+					<from>WCTCNY</from>
+						<to>PMUSD</to>
+						<in>745</in>
+						<out>100</out>
+						<amount>5000</amount>
+						<minamount>80 CNY</minamount>
+						<maxamount>10000 CNY</maxamount>
+						<param>manual, verifying</param>
+					</item>
+				<item>
+					<from>WCTCNY</from>
+						<to>PRUSD</to>
+						<in>755</in>
+						<out>100</out>
+						<amount>5000</amount>
+						<minamount>80 CNY</minamount>
+						<maxamount>10000 CNY</maxamount>
+						<param>manual, verifying</param>
+					</item>
+				<item>
+					<from>WCTCNY</from>
+						<to>ADVCUSD</to>
+						<in>760</in>
+						<out>100</out>
+						<amount>6476.61</amount>
+						<minamount>80 CNY</minamount>
+						<maxamount>10000 CNY</maxamount>
+						<param>manual, verifying</param>
+					</item>
+				<item>
+					<from>WCTCNY</from>
+						<to>TRX</to>
+						<in>69.05</in>
+						<out>100</out>
+						<amount>44213.42</amount>
+						<minamount>100 CNY</minamount>
+						<maxamount>3000 CNY</maxamount>
+						<param>manual, verifying</param>
+					</item>
+				<item>
+					<from>WCTCNY</from>
+						<to>USDTTRC20</to>
+						<in>765</in>
+						<out>100</out>
+						<amount>5001</amount>
+						<tofee>1 USDT</tofee>
+						<minamount>100 CNY</minamount>
+						<maxamount>10000 CNY</maxamount>
+						<param>manual, verifying</param>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>WCTCNY</to>
+						<in>100</in>
+						<out>645</out>
+						<amount>8513678.3</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>1000 USD</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>WCTCNY</to>
+						<in>100</in>
+						<out>655</out>
+						<amount>8513678.3</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>1000 USD</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>ALPCNY</to>
+						<in>1</in>
+						<out>168865.21</out>
+						<amount>2995327</amount>
+						<minamount>0.002 BTC</minamount>
+						<maxamount>0.2 BTC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>ALPCNY</from>
+						<to>BTC</to>
+						<in>210260.08</in>
+						<out>1</out>
+						<amount>8.055085</amount>
+						<minamount>1000 CNY</minamount>
+						<maxamount>10000 CNY</maxamount>
+						<param>manual, verifying</param>
+					</item>
+				<item>
+					<from>ALPCNY</from>
+						<to>ETH</to>
+						<in>13058.77</in>
+						<out>1</out>
+						<amount>100</amount>
+						<minamount>1000 CNY</minamount>
+						<maxamount>10000 CNY</maxamount>
+						<param>manual, verifying</param>
+					</item>
+				<item>
+					<from>ALPCNY</from>
+						<to>LTC</to>
+						<in>511.75</in>
+						<out>1</out>
+						<amount>500</amount>
+						<minfee>0.001 LTC</minfee>
+						<minamount>300 CNY</minamount>
+						<maxamount>10000 CNY</maxamount>
+						<param>manual, verifying</param>
+					</item>
+				<item>
+					<from>DASH</from>
+						<to>ALPCNY</to>
+						<in>1</in>
+						<out>164.96</out>
+						<amount>2995327</amount>
+						<minamount>0.2 DASH</minamount>
+						<maxamount>100 DASH</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>XMR</from>
+						<to>ALPCNY</to>
+						<in>1</in>
+						<out>872.86</out>
+						<amount>2995327</amount>
+						<minamount>0.5 XMR</minamount>
+						<maxamount>100 XMR</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>ZEC</from>
+						<to>ALPCNY</to>
+						<in>1</in>
+						<out>159.91</out>
+						<amount>2995327</amount>
+						<minamount>1 ZEC</minamount>
+						<maxamount>100 ZEC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>TRX</from>
+						<to>ALPCNY</to>
+						<in>100</in>
+						<out>53.21</out>
+						<amount>2995327</amount>
+						<minamount>200 TRX</minamount>
+						<maxamount>20000 TRX</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>WCTCNY</to>
+						<in>1</in>
+						<out>168865.21</out>
+						<amount>8513678.3</amount>
+						<minamount>0.002 BTC</minamount>
+						<maxamount>2 BTC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>ALPCNY</from>
+						<to>TRX</to>
+						<in>69.05</in>
+						<out>100</out>
+						<amount>50000</amount>
+						<minamount>100 CNY</minamount>
+						<maxamount>5000 CNY</maxamount>
+						<param>manual, verifying</param>
+					</item>
+				<item>
+					<from>ALPCNY</from>
+						<to>XRP</to>
+						<in>402.51</in>
+						<out>100</out>
+						<amount>50000</amount>
+						<minfee>0.25 XRP</minfee>
+						<minamount>200 CNY</minamount>
+						<maxamount>10000 CNY</maxamount>
+						<param>manual, verifying</param>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>ADVCUSD</to>
+						<in>106</in>
+						<out>100</out>
+						<amount>6476.61</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>2000 USD</maxamount>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>UPCNY</to>
+						<in>1</in>
+						<out>168865.21</out>
+						<amount>1904457.6</amount>
+						<minamount>0.02 BTC</minamount>
+						<maxamount>1 BTC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>DOGE</from>
+						<to>ALPCNY</to>
+						<in>100</in>
+						<out>37.17</out>
+						<amount>2995327</amount>
+						<minamount>100 DOGE</minamount>
+						<maxamount>2000 DOGE</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>XMR</from>
+						<to>UPCNY</to>
+						<in>1</in>
+						<out>872.86</out>
+						<amount>1904457.6</amount>
+						<minamount>2 XMR</minamount>
+						<maxamount>100 XMR</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>ALPCNY</to>
+						<in>1</in>
+						<out>10487.83</out>
+						<amount>2995327</amount>
+						<minamount>0.05 ETH</minamount>
+						<maxamount>2 ETH</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>UPCNY</to>
+						<in>1</in>
+						<out>10487.83</out>
+						<amount>1904457.6</amount>
+						<minamount>0.2 ETH</minamount>
+						<maxamount>2 ETH</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>ALPCNY</to>
+						<in>1</in>
+						<out>400.51</out>
+						<amount>2995327</amount>
+						<minamount>0.5 LTC</minamount>
+						<maxamount>10 LTC</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>ALPCNY</to>
+						<in>100</in>
+						<out>655</out>
+						<amount>2995327</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>3000 USD</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>UPCNY</to>
+						<in>100</in>
+						<out>655</out>
+						<amount>1904457.6</amount>
+						<minamount>200 USD</minamount>
+						<maxamount>5000 USD</maxamount>
+						<param>manual</param>
+					</item>
+			</rates>
+	

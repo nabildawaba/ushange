@@ -1,0 +1,1520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<rates>
+			<item>
+					<from>USDTTRC20</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>1.025303</out>
+						<amount>22.30448714</amount>
+						<minamount>10 USDT</minamount>
+						<maxamount>21.75404455 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>PMEUR</to>
+						<in>1.02796</in>
+						<out>1</out>
+						<amount>0</amount>
+						<maxamount>0 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>HOTEXUSD</to>
+						<in>1</in>
+						<out>1</out>
+						<amount>200000</amount>
+						<maxamount>200000 USDT</maxamount>
+					</item>
+				<item>
+					<from>HOTEXUSD</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>1.025304</out>
+						<amount>22.30448714</amount>
+						<minamount>1 HOTEXUSD</minamount>
+						<maxamount>21.75402333 HOTEXUSD</maxamount>
+					</item>
+				<item>
+					<from>HOTEXUSD</from>
+						<to>USDTTRC20</to>
+						<in>1</in>
+						<out>1</out>
+						<amount>8288.13143249</amount>
+						<minamount>10 HOTEXUSD</minamount>
+						<maxamount>8288.13143249 HOTEXUSD</maxamount>
+					</item>
+				<item>
+					<from>HOTEXCHANGE</from>
+						<to>WHTBTUSDTTRC</to>
+						<in>1</in>
+						<out>1</out>
+						<amount>100000</amount>
+						<minamount>1 HOTEXCHANGE</minamount>
+						<maxamount>100000 HOTEXCHANGE</maxamount>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>P24UAH</to>
+						<in>1</in>
+						<out>1009837.875</out>
+						<amount>1718562.8878002</amount>
+						<minamount>0.00990258 BTC</minamount>
+						<maxamount>1.70182059 BTC</maxamount>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>MONOBUAH</to>
+						<in>1</in>
+						<out>1009837.875</out>
+						<amount>1718562.8878002</amount>
+						<minamount>0.00990258 BTC</minamount>
+						<maxamount>1.70182059 BTC</maxamount>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>CARDUAH</to>
+						<in>1</in>
+						<out>1009837.875</out>
+						<amount>1718562.8878002</amount>
+						<minamount>0.00990258 BTC</minamount>
+						<maxamount>1.70182059 BTC</maxamount>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>P24UAH</to>
+						<in>1</in>
+						<out>37.93892</out>
+						<amount>1718562.8878002</amount>
+						<minamount>263.58156742 USDT</minamount>
+						<maxamount>45298.14996843 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>MONOBUAH</to>
+						<in>1</in>
+						<out>37.94664</out>
+						<amount>1718562.8878002</amount>
+						<minamount>263.52794345 USDT</minamount>
+						<maxamount>45288.93435098 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>CARDUAH</to>
+						<in>1</in>
+						<out>37.93892</out>
+						<amount>1718562.8878002</amount>
+						<minamount>263.58156742 USDT</minamount>
+						<maxamount>45298.14996843 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>P24UAH</to>
+						<in>1</in>
+						<out>37.94291</out>
+						<amount>1718562.8878002</amount>
+						<minamount>263.55384972 USDT</minamount>
+						<maxamount>45293.38650621 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTPOLYGON</from>
+						<to>P24UAH</to>
+						<in>1</in>
+						<out>37.41031</out>
+						<amount>1718562.8878002</amount>
+						<minamount>267.30599132 USDT</minamount>
+						<maxamount>45938.21563628 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>MONOBUAH</to>
+						<in>1</in>
+						<out>37.93892</out>
+						<amount>1718562.8878002</amount>
+						<minamount>263.58156742 USDT</minamount>
+						<maxamount>45298.14996843 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTPOLYGON</from>
+						<to>MONOBUAH</to>
+						<in>1</in>
+						<out>37.4858392</out>
+						<amount>1718562.8878002</amount>
+						<minamount>266.76740373 USDT</minamount>
+						<maxamount>45845.65597241 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CARDTRY</to>
+						<in>1</in>
+						<out>26</out>
+						<amount>22938148.29</amount>
+						<minamount>200 USDT</minamount>
+						<maxamount>50000 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>WIRETRY</to>
+						<in>1</in>
+						<out>26</out>
+						<amount>22938148.29</amount>
+						<minamount>200 USDT</minamount>
+						<maxamount>50000 USDT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CARDUAH</to>
+						<in>1</in>
+						<out>37.93892</out>
+						<amount>1718562.8878002</amount>
+						<minamount>263.58156742 USDT</minamount>
+						<maxamount>45298.14996843 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTPOLYGON</from>
+						<to>CARDUAH</to>
+						<in>1</in>
+						<out>37.4858392</out>
+						<amount>1718562.8878002</amount>
+						<minamount>266.76740373 USDT</minamount>
+						<maxamount>45845.65597241 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTBEP20</from>
+						<to>P24UAH</to>
+						<in>1</in>
+						<out>37.46191</out>
+						<amount>1718562.8878002</amount>
+						<minamount>266.93780429 USDT</minamount>
+						<maxamount>45874.94038078 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTBEP20</from>
+						<to>MONOBUAH</to>
+						<in>1</in>
+						<out>37.46191</out>
+						<amount>1718562.8878002</amount>
+						<minamount>266.93780429 USDT</minamount>
+						<maxamount>45874.94038078 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTBEP20</from>
+						<to>CARDUAH</to>
+						<in>1</in>
+						<out>37.46191</out>
+						<amount>1718562.8878002</amount>
+						<minamount>266.93780429 USDT</minamount>
+						<maxamount>45874.94038078 USDT</maxamount>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>CARDEUR</to>
+						<in>1</in>
+						<out>23697.5288</out>
+						<amount>208429.14960618</amount>
+						<minamount>0.0084397 BTC</minamount>
+						<maxamount>0.42198493 BTC</maxamount>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>CARDEUR</to>
+						<in>1</in>
+						<out>1468.768576</out>
+						<amount>208429.14960618</amount>
+						<minamount>0.13616849 ETH</minamount>
+						<maxamount>6.80842453 ETH</maxamount>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>CARDEUR</to>
+						<in>1</in>
+						<out>0.88</out>
+						<amount>208429.14960618</amount>
+						<minamount>227.27272727 USDT</minamount>
+						<maxamount>11363.63636364 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CARDEUR</to>
+						<in>1</in>
+						<out>0.88</out>
+						<amount>208429.14960618</amount>
+						<minamount>227.27272727 USDT</minamount>
+						<maxamount>11363.63636364 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTPOLYGON</from>
+						<to>CARDEUR</to>
+						<in>1</in>
+						<out>0.88</out>
+						<amount>208429.14960618</amount>
+						<minamount>227.27272727 USDT</minamount>
+						<maxamount>11363.63636364 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTBEP20</from>
+						<to>CARDEUR</to>
+						<in>1</in>
+						<out>0.858</out>
+						<amount>208429.14960618</amount>
+						<minamount>233.1002331 USDT</minamount>
+						<maxamount>11655.01165501 USDT</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>CARDEUR</to>
+						<in>1.15461064</in>
+						<out>1</out>
+						<amount>208429.14960618</amount>
+						<minamount>230.922128 USD</minamount>
+						<maxamount>11546.10639999 USD</maxamount>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>CARDUSD</to>
+						<in>1</in>
+						<out>26063.19034199</out>
+						<amount>215611.40032303</amount>
+						<minamount>0.00767366 BTC</minamount>
+						<maxamount>0.38368288 BTC</maxamount>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>CARDUSD</to>
+						<in>1</in>
+						<out>1618.62911143</out>
+						<amount>215611.40032303</amount>
+						<minamount>0.12356135 ETH</minamount>
+						<maxamount>6.17806756 ETH</maxamount>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>CARDUSD</to>
+						<in>1</in>
+						<out>63.39820894</out>
+						<amount>215611.40032303</amount>
+						<minamount>3.15466325 LTC</minamount>
+						<maxamount>157.73316261 LTC</maxamount>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>CARDUSD</to>
+						<in>1.01829787</in>
+						<out>1</out>
+						<amount>215611.40032303</amount>
+						<minamount>203.659574 USDT</minamount>
+						<maxamount>10182.9787 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>UZCUZS</to>
+						<in>1</in>
+						<out>11968.140004</out>
+						<amount>125019770.50722</amount>
+						<minamount>200 USDT</minamount>
+						<maxamount>10446.04846413 USDT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>HUMOUZS</to>
+						<in>1</in>
+						<out>11968.140004</out>
+						<amount>125019770.50722</amount>
+						<minamount>200 USDT</minamount>
+						<maxamount>10446.04846413 USDT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>CARDUZS</to>
+						<in>1</in>
+						<out>11968.140004</out>
+						<amount>125019770.50722</amount>
+						<minamount>200 USDT</minamount>
+						<maxamount>10446.04846413 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CARDUZS</to>
+						<in>1</in>
+						<out>11968.140004</out>
+						<amount>125019770.50722</amount>
+						<minamount>200 USDT</minamount>
+						<maxamount>10446.04846413 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>UZCUZS</to>
+						<in>1</in>
+						<out>11968.140002</out>
+						<amount>125019770.50722</amount>
+						<minamount>200 USDT</minamount>
+						<maxamount>10446.04846587 USDT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>HUMOUZS</to>
+						<in>1</in>
+						<out>11968.140004</out>
+						<amount>125019770.50722</amount>
+						<minamount>200 USDT</minamount>
+						<maxamount>10446.04846413 USDT</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CARDUSD</to>
+						<in>1.018289</in>
+						<out>1</out>
+						<amount>215611.40032303</amount>
+						<minamount>203.6578 USDT</minamount>
+						<maxamount>10182.89 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CARDCNY</to>
+						<in>1</in>
+						<out>7.151911</out>
+						<amount>9647918.2245975</amount>
+						<minamount>250 USDT</minamount>
+						<maxamount>209734.15357098 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>ALPCNY</to>
+						<in>1</in>
+						<out>7.14681</out>
+						<amount>9647918.2245975</amount>
+						<minamount>250 USDT</minamount>
+						<maxamount>209883.85027726 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>WCTCNY</to>
+						<in>1</in>
+						<out>7.14681</out>
+						<amount>9647918.2245975</amount>
+						<minamount>250 USDT</minamount>
+						<maxamount>209883.85027726 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>UPCNY</to>
+						<in>1</in>
+						<out>7.16401</out>
+						<amount>9647918.2245975</amount>
+						<minamount>250 USDT</minamount>
+						<maxamount>209379.94223905 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>ALPCNY</to>
+						<in>1</in>
+						<out>7.14674</out>
+						<amount>9647918.2245975</amount>
+						<minamount>250 USDT</minamount>
+						<maxamount>209885.90602149 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>UPCNY</to>
+						<in>1</in>
+						<out>7.16404</out>
+						<amount>9647918.2245975</amount>
+						<minamount>250 USDT</minamount>
+						<maxamount>209379.06544352 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>CARDCNY</to>
+						<in>1</in>
+						<out>7.151851</out>
+						<amount>9647918.2245975</amount>
+						<minamount>250 USDT</minamount>
+						<maxamount>209735.91312235 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>WCTCNY</to>
+						<in>1</in>
+						<out>7.14674</out>
+						<amount>9647918.2245975</amount>
+						<minamount>250 USDT</minamount>
+						<maxamount>209885.90602149 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTPOLYGON</from>
+						<to>CARDUSD</to>
+						<in>1.04060255</in>
+						<out>1</out>
+						<amount>215611.40032303</amount>
+						<minamount>208.12051 USDT</minamount>
+						<maxamount>10406.0255 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTBEP20</from>
+						<to>CARDUSD</to>
+						<in>1.020398</in>
+						<out>1</out>
+						<amount>215611.40032303</amount>
+						<minamount>204.0796 USDT</minamount>
+						<maxamount>10203.98 USDT</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>CARDUSD</to>
+						<in>1.096998</in>
+						<out>1</out>
+						<amount>215611.40032303</amount>
+						<minamount>219.3996 USD</minamount>
+						<maxamount>10969.98 USD</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>CARDEUR</to>
+						<in>1.177432</in>
+						<out>1</out>
+						<amount>208429.14960618</amount>
+						<minamount>235.4864 USD</minamount>
+						<maxamount>11774.32 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>CARDUSD</to>
+						<in>1.05283689</in>
+						<out>1</out>
+						<amount>215611.40032303</amount>
+						<minamount>210.567378 USD</minamount>
+						<maxamount>10528.3689 USD</maxamount>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>P24UAH</to>
+						<in>1</in>
+						<out>62715</out>
+						<amount>1718562.8878002</amount>
+						<minamount>0.15945149 ETH</minamount>
+						<maxamount>27.40274078 ETH</maxamount>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>MONOBUAH</to>
+						<in>1</in>
+						<out>62715</out>
+						<amount>1709970.0733612</amount>
+						<minamount>0.15945149 ETH</minamount>
+						<maxamount>27.26572707 ETH</maxamount>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>CARDUAH</to>
+						<in>1</in>
+						<out>62715</out>
+						<amount>1718562.8878002</amount>
+						<minamount>0.15945149 ETH</minamount>
+						<maxamount>27.40274078 ETH</maxamount>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>P24UAH</to>
+						<in>1</in>
+						<out>2452.318</out>
+						<amount>1718562.8878002</amount>
+						<minamount>4.07777458 LTC</minamount>
+						<maxamount>101.94436447 LTC</maxamount>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>MONOBUAH</to>
+						<in>1</in>
+						<out>2452.318</out>
+						<amount>1718562.8878002</amount>
+						<minamount>4.07777458 LTC</minamount>
+						<maxamount>101.94436447 LTC</maxamount>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>CARDUAH</to>
+						<in>1</in>
+						<out>2452.318</out>
+						<amount>1718562.8878002</amount>
+						<minamount>4.07777458 LTC</minamount>
+						<maxamount>101.94436447 LTC</maxamount>
+					</item>
+				<item>
+					<from>TRX</from>
+						<to>P24UAH</to>
+						<in>1</in>
+						<out>3.307656</out>
+						<amount>1718562.8878002</amount>
+						<minamount>3023.28899982 TRX</minamount>
+						<maxamount>75582.22499559 TRX</maxamount>
+					</item>
+				<item>
+					<from>TRX</from>
+						<to>MONOBUAH</to>
+						<in>1</in>
+						<out>3.307656</out>
+						<amount>1718562.8878002</amount>
+						<minamount>3023.28899982 TRX</minamount>
+						<maxamount>75582.22499559 TRX</maxamount>
+					</item>
+				<item>
+					<from>TRX</from>
+						<to>CARDUAH</to>
+						<in>1</in>
+						<out>3.307656</out>
+						<amount>1718562.8878002</amount>
+						<minamount>3023.28899982 TRX</minamount>
+						<maxamount>75582.22499559 TRX</maxamount>
+					</item>
+				<item>
+					<from>TUSD</from>
+						<to>P24UAH</to>
+						<in>1</in>
+						<out>37.4</out>
+						<amount>1718562.8878002</amount>
+						<minamount>267.37967914 TUSD</minamount>
+						<maxamount>6684.49197861 TUSD</maxamount>
+					</item>
+				<item>
+					<from>TUSD</from>
+						<to>MONOBUAH</to>
+						<in>1</in>
+						<out>37.4</out>
+						<amount>1718562.8878002</amount>
+						<minamount>267.37967914 TUSD</minamount>
+						<maxamount>6684.49197861 TUSD</maxamount>
+					</item>
+				<item>
+					<from>TUSD</from>
+						<to>CARDUAH</to>
+						<in>1</in>
+						<out>37.4</out>
+						<amount>1718562.8878002</amount>
+						<minamount>267.37967914 TUSD</minamount>
+						<maxamount>6684.49197861 TUSD</maxamount>
+					</item>
+				<item>
+					<from>USDC</from>
+						<to>P24UAH</to>
+						<in>1</in>
+						<out>37.4</out>
+						<amount>1718562.8878002</amount>
+						<minamount>267.37967914 USDC</minamount>
+						<maxamount>6684.49197861 USDC</maxamount>
+					</item>
+				<item>
+					<from>USDC</from>
+						<to>MONOBUAH</to>
+						<in>1</in>
+						<out>37.4</out>
+						<amount>1718562.8878002</amount>
+						<minamount>267.37967914 USDC</minamount>
+						<maxamount>6684.49197861 USDC</maxamount>
+					</item>
+				<item>
+					<from>DAI</from>
+						<to>P24UAH</to>
+						<in>1</in>
+						<out>37.4</out>
+						<amount>1718562.8878002</amount>
+						<minamount>267.37967914 DAI</minamount>
+						<maxamount>6684.49197861 DAI</maxamount>
+					</item>
+				<item>
+					<from>DAI</from>
+						<to>MONOBUAH</to>
+						<in>1</in>
+						<out>37.4</out>
+						<amount>1718562.8878002</amount>
+						<minamount>267.37967914 DAI</minamount>
+						<maxamount>6684.49197861 DAI</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>P24UAH</to>
+						<in>1</in>
+						<out>36.00004</out>
+						<amount>1718562.8878002</amount>
+						<minamount>277.77746914 USD</minamount>
+						<maxamount>47737.80495244 USD</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>MONOBUAH</to>
+						<in>1</in>
+						<out>36.00004</out>
+						<amount>1718562.8878002</amount>
+						<minamount>277.77746914 USD</minamount>
+						<maxamount>47737.80495244 USD</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>CARDUAH</to>
+						<in>1</in>
+						<out>36.00004</out>
+						<amount>1718562.8878002</amount>
+						<minamount>277.77746914 USD</minamount>
+						<maxamount>47737.80495244 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>P24UAH</to>
+						<in>1</in>
+						<out>37.16794</out>
+						<amount>1718562.8878002</amount>
+						<minamount>269.04907832 USD</minamount>
+						<maxamount>46237.77609952 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>MONOBUAH</to>
+						<in>1</in>
+						<out>37.27505</out>
+						<amount>1718562.8878002</amount>
+						<minamount>268.27596475 USD</minamount>
+						<maxamount>46104.91167149 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>CARDUAH</to>
+						<in>1</in>
+						<out>37.16074</out>
+						<amount>1718562.8878002</amount>
+						<minamount>269.10120735 USD</minamount>
+						<maxamount>46246.7348013 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCEUR</from>
+						<to>P24UAH</to>
+						<in>1</in>
+						<out>38.9075449</out>
+						<amount>1718562.8878002</amount>
+						<minamount>257.01955818 EUR</minamount>
+						<maxamount>44170.4274124 EUR</maxamount>
+					</item>
+				<item>
+					<from>ADVCEUR</from>
+						<to>MONOBUAH</to>
+						<in>1</in>
+						<out>38.79103</out>
+						<amount>1718562.8878002</amount>
+						<minamount>257.79155645 EUR</minamount>
+						<maxamount>44303.10017033 EUR</maxamount>
+					</item>
+				<item>
+					<from>ADVCEUR</from>
+						<to>CARDUAH</to>
+						<in>1</in>
+						<out>38.79103</out>
+						<amount>1718562.8878002</amount>
+						<minamount>257.79155645 EUR</minamount>
+						<maxamount>44303.10017033 EUR</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>P24UAH</to>
+						<in>1</in>
+						<out>37.00004</out>
+						<amount>1718562.8878002</amount>
+						<minamount>270.26997809 USD</minamount>
+						<maxamount>46447.59540261 USD</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>MONOBUAH</to>
+						<in>1</in>
+						<out>37.00004</out>
+						<amount>1718562.8878002</amount>
+						<minamount>270.26997809 USD</minamount>
+						<maxamount>46447.59540261 USD</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>CARDUAH</to>
+						<in>1</in>
+						<out>37.00004</out>
+						<amount>1718562.8878002</amount>
+						<minamount>270.26997809 USD</minamount>
+						<maxamount>46447.59540261 USD</maxamount>
+					</item>
+				<item>
+					<from>PREUR</from>
+						<to>P24UAH</to>
+						<in>1</in>
+						<out>37.80004</out>
+						<amount>1718562.8878002</amount>
+						<minamount>264.5499846 EUR</minamount>
+						<maxamount>45464.57855072 EUR</maxamount>
+					</item>
+				<item>
+					<from>PREUR</from>
+						<to>MONOBUAH</to>
+						<in>1</in>
+						<out>38.48070865</out>
+						<amount>1718562.8878002</amount>
+						<minamount>259.87047408 EUR</minamount>
+						<maxamount>44660.37523974 EUR</maxamount>
+					</item>
+				<item>
+					<from>PREUR</from>
+						<to>CARDUAH</to>
+						<in>1</in>
+						<out>38.48070865</out>
+						<amount>1718562.8878002</amount>
+						<minamount>259.87047408 EUR</minamount>
+						<maxamount>44660.37523974 EUR</maxamount>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>27440.66119</out>
+						<amount>22.30448714</amount>
+						<maxamount>0 BTC</maxamount>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>1704.1756</out>
+						<amount>22.30448714</amount>
+						<maxamount>0 ETH</maxamount>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>66.81583</out>
+						<amount>22.30448714</amount>
+						<minamount>0.14966513 LTC</minamount>
+						<maxamount>0.3338204 LTC</maxamount>
+					</item>
+				<item>
+					<from>TRX</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>0.09012036</out>
+						<amount>22.30448714</amount>
+						<minamount>110.96271697 TRX</minamount>
+						<maxamount>247.49664937 TRX</maxamount>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>1.026121</out>
+						<amount>22.30448714</amount>
+						<maxamount>0 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTPOLYGON</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>1.022</out>
+						<amount>22.30448714</amount>
+						<minamount>10 USDT</minamount>
+						<maxamount>21.82435141 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTBEP20</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>1.020121</out>
+						<amount>22.30448714</amount>
+						<minamount>10 USDT</minamount>
+						<maxamount>21.86455052 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDC</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>1.019</out>
+						<amount>22.30448714</amount>
+						<maxamount>0 USDC</maxamount>
+					</item>
+				<item>
+					<from>USDCTRC20</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>1.019</out>
+						<amount>22.30448714</amount>
+						<maxamount>0 USDC</maxamount>
+					</item>
+				<item>
+					<from>TUSD</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>1.019</out>
+						<amount>22.30448714</amount>
+						<maxamount>0 TUSD</maxamount>
+					</item>
+				<item>
+					<from>TUSDTRC20</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>1.019</out>
+						<amount>22.30448714</amount>
+						<maxamount>0 TUSD</maxamount>
+					</item>
+				<item>
+					<from>DAI</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>1.019</out>
+						<amount>22.30448714</amount>
+						<maxamount>0 DAI</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>1.01031101</out>
+						<amount>22.30448714</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>22.07685249 USD</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>1.01012</out>
+						<amount>22.30448714</amount>
+						<minamount>1 USD</minamount>
+						<maxamount>22.08102715 USD</maxamount>
+					</item>
+				<item>
+					<from>WBT</from>
+						<to>USDTTRC20</to>
+						<in>1</in>
+						<out>4.91815</out>
+						<amount>9868060</amount>
+						<minamount>5 WBT</minamount>
+						<maxamount>508321.2183443 WBT</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>BTC</to>
+						<in>28033.09941</in>
+						<out>1</out>
+						<amount>41.45259</amount>
+						<minamount>5000 USD</minamount>
+						<maxamount>1162044.5739175 USD</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>ETH</to>
+						<in>1744.3132</in>
+						<out>1</out>
+						<amount>341.45259</amount>
+						<minamount>5000 USD</minamount>
+						<maxamount>300000 USD</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>LTC</to>
+						<in>68.94103831</in>
+						<out>1</out>
+						<amount>24341.45259</amount>
+						<minamount>5000 USD</minamount>
+						<maxamount>300000 USD</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>XRP</to>
+						<in>0.53720758</in>
+						<out>1</out>
+						<amount>5335341.45259</amount>
+						<minamount>5000 USD</minamount>
+						<maxamount>300000 USD</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>XMR</to>
+						<in>151.32887</in>
+						<out>1</out>
+						<amount>1341.45259</amount>
+						<minamount>5000 USD</minamount>
+						<maxamount>203000.50461626 USD</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>DOGE</to>
+						<in>0.06444426</in>
+						<out>1</out>
+						<amount>2535341.45259</amount>
+						<minamount>5000 USD</minamount>
+						<maxamount>163388.20375949 USD</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>DASH</to>
+						<in>28.46347</in>
+						<out>1</out>
+						<amount>45341.45259</amount>
+						<minamount>5000 USD</minamount>
+						<maxamount>300000 USD</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>ZEC</to>
+						<in>27.72294</in>
+						<out>1</out>
+						<amount>341.45259</amount>
+						<minamount>5000 USD</minamount>
+						<maxamount>9466.06966531 USD</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>TRX</to>
+						<in>0.09224292</in>
+						<out>1</out>
+						<amount>3355341.45259</amount>
+						<minamount>5000 USD</minamount>
+						<maxamount>300000 USD</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>USDTERC20</to>
+						<in>1.040996</in>
+						<out>1</out>
+						<amount>1300000</amount>
+						<minamount>5000 USD</minamount>
+						<maxamount>1040996.0000001 USD</maxamount>
+					</item>
+				<item>
+					<from>PMEUR</from>
+						<to>USDTERC20</to>
+						<in>1.01349699</in>
+						<out>1</out>
+						<amount>1300000</amount>
+						<minamount>5000 EUR</minamount>
+						<maxamount>1013496.9899999 EUR</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>USDTTRC20</to>
+						<in>1.037996</in>
+						<out>1</out>
+						<amount>236567</amount>
+						<minamount>100 USD</minamount>
+						<maxamount>245555.59973194 USD</maxamount>
+					</item>
+				<item>
+					<from>PMEUR</from>
+						<to>USDTTRC20</to>
+						<in>1.009797</in>
+						<out>1</out>
+						<amount>1300000</amount>
+						<minamount>100 EUR</minamount>
+						<maxamount>1312736.1000001 EUR</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>USDTBEP20</to>
+						<in>1.042169</in>
+						<out>1</out>
+						<amount>1000000</amount>
+						<minamount>1000 USD</minamount>
+						<maxamount>1042168.9999996 USD</maxamount>
+					</item>
+				<item>
+					<from>PMVUSD</from>
+						<to>USDTERC20</to>
+						<in>1.07349599</in>
+						<out>1</out>
+						<amount>1300000</amount>
+						<minamount>5000 USD</minamount>
+						<maxamount>1073495.9899996 USD</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>PMVUSD</from>
+						<to>USDTTRC20</to>
+						<in>1.043196</in>
+						<out>1</out>
+						<amount>176567</amount>
+						<minamount>1000 USD</minamount>
+						<maxamount>184193.98813209 USD</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>PMVUSD</from>
+						<to>USDTBEP20</to>
+						<in>1.07449599</in>
+						<out>1</out>
+						<amount>1300000</amount>
+						<minamount>1000 USD</minamount>
+						<maxamount>1074495.9900004 USD</maxamount>
+						<param>manual</param>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>PMVUSD</to>
+						<in>1</in>
+						<out>27440.66119</out>
+						<amount>22.30448714</amount>
+						<maxamount>0 BTC</maxamount>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>PMVUSD</to>
+						<in>1</in>
+						<out>1704.1756</out>
+						<amount>22.30448714</amount>
+						<maxamount>0 ETH</maxamount>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>PMVUSD</to>
+						<in>1</in>
+						<out>1.020121</out>
+						<amount>22.30448714</amount>
+						<maxamount>0 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>PMVUSD</to>
+						<in>1</in>
+						<out>1.025221</out>
+						<amount>22.30448714</amount>
+						<minamount>10 USDT</minamount>
+						<maxamount>21.7557845 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTPOLYGON</from>
+						<to>PMVUSD</to>
+						<in>1</in>
+						<out>1.022</out>
+						<amount>22.30448714</amount>
+						<minamount>10 USDT</minamount>
+						<maxamount>21.82435141 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTBEP20</from>
+						<to>PMVUSD</to>
+						<in>1</in>
+						<out>1.016221</out>
+						<amount>22.30448714</amount>
+						<minamount>10 USDT</minamount>
+						<maxamount>21.94846115 USDT</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>PMVUSD</to>
+						<in>1</in>
+						<out>1.00082101</out>
+						<amount>22.30448714</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>22.28618996 USD</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>PMVUSD</to>
+						<in>1</in>
+						<out>1.000621</out>
+						<amount>22.30448714</amount>
+						<minamount>1 USD</minamount>
+						<maxamount>22.29064465 USD</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>USDTTRC20</to>
+						<in>1.02698</in>
+						<out>1</out>
+						<amount>100000</amount>
+						<minamount>500 USD</minamount>
+						<maxamount>102698.00000005 USD</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>PRUSD</to>
+						<in>1.04127</in>
+						<out>1</out>
+						<amount>1.257935</amount>
+						<minamount>1.04127 USD</minamount>
+						<maxamount>1.30984998 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>BTC</to>
+						<in>27386.80317</in>
+						<out>1</out>
+						<amount>15.54427937</amount>
+						<minamount>1000 USD</minamount>
+						<maxamount>273868.0301716 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>USDTTRC20</to>
+						<in>1.007898</in>
+						<out>1</out>
+						<amount>51789</amount>
+						<minamount>1000 USD</minamount>
+						<maxamount>50000 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCEUR</from>
+						<to>USDTTRC20</to>
+						<in>0.999998</in>
+						<out>1</out>
+						<amount>99500</amount>
+						<minamount>1000 EUR</minamount>
+						<maxamount>99499.801 EUR</maxamount>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>KSPBKZT</to>
+						<in>1</in>
+						<out>12766935.92496</out>
+						<amount>73876622.17177</amount>
+						<minamount>0.00783273 BTC</minamount>
+						<maxamount>0.39163665 BTC</maxamount>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>HLKBKZT</to>
+						<in>1</in>
+						<out>12766935.92496</out>
+						<amount>73876622.17177</amount>
+						<minamount>0.00783273 BTC</minamount>
+						<maxamount>0.39163665 BTC</maxamount>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>FRTBKZT</to>
+						<in>1</in>
+						<out>12766935.92496</out>
+						<amount>73876622.17177</amount>
+						<minamount>0.00783273 BTC</minamount>
+						<maxamount>0.19581832 BTC</maxamount>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>JSNBKZT</to>
+						<in>1</in>
+						<out>12766935.92496</out>
+						<amount>73876622.17177</amount>
+						<minamount>0.00783273 BTC</minamount>
+						<maxamount>0.39163665 BTC</maxamount>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>CARDKZT</to>
+						<in>1</in>
+						<out>12766935.92496</out>
+						<amount>73876622.17177</amount>
+						<minamount>0.00783273 BTC</minamount>
+						<maxamount>0.39163665 BTC</maxamount>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>KSPBKZT</to>
+						<in>1</in>
+						<out>476</out>
+						<amount>73876622.17177</amount>
+						<minamount>210.08403361 USDT</minamount>
+						<maxamount>10504.20168067 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>HLKBKZT</to>
+						<in>1</in>
+						<out>476</out>
+						<amount>73876622.17177</amount>
+						<minamount>210.08403361 USDT</minamount>
+						<maxamount>10504.20168067 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>FRTBKZT</to>
+						<in>1</in>
+						<out>476</out>
+						<amount>73876622.17177</amount>
+						<minamount>210.08403361 USDT</minamount>
+						<maxamount>10504.20168067 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>JSNBKZT</to>
+						<in>1</in>
+						<out>476</out>
+						<amount>73876622.17177</amount>
+						<minamount>210.08403361 USDT</minamount>
+						<maxamount>10504.20168067 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>CARDKZT</to>
+						<in>1</in>
+						<out>476</out>
+						<amount>73876622.17177</amount>
+						<minamount>210.08403361 USDT</minamount>
+						<maxamount>10504.20168067 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>KSPBKZT</to>
+						<in>1</in>
+						<out>476</out>
+						<amount>73876622.17177</amount>
+						<minamount>210.08403361 USDT</minamount>
+						<maxamount>10504.20168067 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>HLKBKZT</to>
+						<in>1</in>
+						<out>476</out>
+						<amount>73876622.17177</amount>
+						<minamount>210.08403361 USDT</minamount>
+						<maxamount>10504.20168067 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>FRTBKZT</to>
+						<in>1</in>
+						<out>476</out>
+						<amount>73876622.17177</amount>
+						<minamount>210.08403361 USDT</minamount>
+						<maxamount>10504.20168067 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>JSNBKZT</to>
+						<in>1</in>
+						<out>476</out>
+						<amount>73876622.17177</amount>
+						<minamount>210.08403361 USDT</minamount>
+						<maxamount>10504.20168067 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CARDKZT</to>
+						<in>1</in>
+						<out>476</out>
+						<amount>73876622.17177</amount>
+						<minamount>210.08403361 USDT</minamount>
+						<maxamount>10504.20168067 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTBEP20</from>
+						<to>KSPBKZT</to>
+						<in>1</in>
+						<out>474.572</out>
+						<amount>73876622.17177</amount>
+						<minamount>210.71618216 USDT</minamount>
+						<maxamount>10535.809108 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTBEP20</from>
+						<to>HLKBKZT</to>
+						<in>1</in>
+						<out>474.572</out>
+						<amount>73876622.17177</amount>
+						<minamount>210.71618216 USDT</minamount>
+						<maxamount>10535.809108 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTBEP20</from>
+						<to>FRTBKZT</to>
+						<in>1</in>
+						<out>474.572</out>
+						<amount>73876622.17177</amount>
+						<minamount>210.71618216 USDT</minamount>
+						<maxamount>10535.809108 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTBEP20</from>
+						<to>JSNBKZT</to>
+						<in>1</in>
+						<out>474.572</out>
+						<amount>73876622.17177</amount>
+						<minamount>210.71618216 USDT</minamount>
+						<maxamount>10535.809108 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTBEP20</from>
+						<to>CARDKZT</to>
+						<in>1</in>
+						<out>474.572</out>
+						<amount>73876622.17177</amount>
+						<minamount>210.71618216 USDT</minamount>
+						<maxamount>10535.809108 USDT</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>KSPBKZT</to>
+						<in>1</in>
+						<out>428.4</out>
+						<amount>73876622.17177</amount>
+						<minamount>233.42670401 USD</minamount>
+						<maxamount>11671.33520075 USD</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>HLKBKZT</to>
+						<in>1</in>
+						<out>428.4</out>
+						<amount>73876622.17177</amount>
+						<minamount>233.42670401 USD</minamount>
+						<maxamount>11671.33520075 USD</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>FRTBKZT</to>
+						<in>1</in>
+						<out>428.4</out>
+						<amount>73876622.17177</amount>
+						<minamount>233.42670401 USD</minamount>
+						<maxamount>11671.33520075 USD</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>JSNBKZT</to>
+						<in>1</in>
+						<out>428.4</out>
+						<amount>73876622.17177</amount>
+						<minamount>233.42670401 USD</minamount>
+						<maxamount>11671.33520075 USD</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>CARDKZT</to>
+						<in>1</in>
+						<out>428.4</out>
+						<amount>73876622.17177</amount>
+						<minamount>233.42670401 USD</minamount>
+						<maxamount>11671.33520075 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>KSPBKZT</to>
+						<in>1</in>
+						<out>461.72</out>
+						<amount>73876622.17177</amount>
+						<minamount>216.58147795 USD</minamount>
+						<maxamount>10829.0738976 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>HLKBKZT</to>
+						<in>1</in>
+						<out>461.72</out>
+						<amount>73876622.17177</amount>
+						<minamount>216.58147795 USD</minamount>
+						<maxamount>10829.0738976 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>FRTBKZT</to>
+						<in>1</in>
+						<out>461.72</out>
+						<amount>73876622.17177</amount>
+						<minamount>216.58147795 USD</minamount>
+						<maxamount>10829.0738976 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>JSNBKZT</to>
+						<in>1</in>
+						<out>461.72</out>
+						<amount>73876622.17177</amount>
+						<minamount>216.58147795 USD</minamount>
+						<maxamount>10829.0738976 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>CARDKZT</to>
+						<in>1</in>
+						<out>461.72</out>
+						<amount>73876622.17177</amount>
+						<minamount>216.58147795 USD</minamount>
+						<maxamount>10829.0738976 USD</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>KSPBKZT</to>
+						<in>1</in>
+						<out>466.48</out>
+						<amount>73876622.17177</amount>
+						<minamount>214.37146287 USD</minamount>
+						<maxamount>10718.57314354 USD</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>HLKBKZT</to>
+						<in>1</in>
+						<out>466.48</out>
+						<amount>73876622.17177</amount>
+						<minamount>214.37146287 USD</minamount>
+						<maxamount>10718.57314354 USD</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>FRTBKZT</to>
+						<in>1</in>
+						<out>466.48</out>
+						<amount>73876622.17177</amount>
+						<minamount>214.37146287 USD</minamount>
+						<maxamount>10718.57314354 USD</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>JSNBKZT</to>
+						<in>1</in>
+						<out>466.48</out>
+						<amount>73876622.17177</amount>
+						<minamount>214.37146287 USD</minamount>
+						<maxamount>10718.57314354 USD</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>CARDKZT</to>
+						<in>1</in>
+						<out>466.48</out>
+						<amount>73876622.17177</amount>
+						<minamount>214.37146287 USD</minamount>
+						<maxamount>10718.57314354 USD</maxamount>
+					</item>
+				<item>
+					<from>HOTEXCHANGE</from>
+						<to>MONOBUAH</to>
+						<in>1</in>
+						<out>37.4</out>
+						<amount>1718562.8878002</amount>
+						<maxamount>45950.87935295 HOTEXCHANGE</maxamount>
+						<param>manual, verifying</param>
+					</item>
+				<item>
+					<from>HOTEXCHANGE</from>
+						<to>HOTEXEUR</to>
+						<in>1</in>
+						<out>1.043</out>
+						<amount>1000000</amount>
+						<maxamount>958772.77085331 HOTEXCHANGE</maxamount>
+						<param>manual, verifying</param>
+					</item>
+				<item>
+					<from>HOTEXCHANGE</from>
+						<to>HOTEXCHANGEGRN</to>
+						<in>1</in>
+						<out>1.019</out>
+						<amount>10000000</amount>
+						<maxamount>9813542.6889107 HOTEXCHANGE</maxamount>
+						<param>manual, verifying</param>
+					</item>
+				<item>
+					<from>HOTEXCHANGE</from>
+						<to>HOTEXUSD</to>
+						<in>1.036</in>
+						<out>1</out>
+						<amount>996782.077954</amount>
+						<maxamount>1032666.2327603 HOTEXCHANGE</maxamount>
+						<param>manual, verifying</param>
+					</item>
+			</rates>
+	

@@ -1,0 +1,3259 @@
+<?xml version="1.0" encoding="UTF-8"?><rates>
+            <item>
+                                
+                                                <from>USDTTRC20</from>
+          		<to>PMUSD</to>
+          		<in>1</in>
+          		<out>1.027203</out>
+          		<amount>29200.530063228</amount>
+                                <minamount>35 USDT</minamount>
+                <maxamount>150000 USDT</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>USDTTRC20</from>
+          		<to>TCSBRUB</to>
+          		<in>1</in>
+          		<out>98.7732</out>
+          		<amount>14951186</amount>
+                                <minamount>197.43 USDT</minamount>
+                <maxamount>4353.40 USDT</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>USDTTRC20</from>
+          		<to>LTC</to>
+          		<in>65.822513</in>
+          		<out>1</out>
+          		<amount>0.75276277997993</amount>
+                                <minamount>35 USDT</minamount>
+                <maxamount>6582.25 USDT</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>USDTTRC20</from>
+          		<to>XMR</to>
+          		<in>145.924996</in>
+          		<out>1</out>
+          		<amount>28.600825640391</amount>
+                                <minamount>35 USDT</minamount>
+                <maxamount>14592.49 USDT</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>USDTTRC20</from>
+          		<to>BTC</to>
+          		<in>27461.6916</in>
+          		<out>1</out>
+          		<amount>0.1396790000012</amount>
+                                <minamount>302.08 USDT</minamount>
+                <maxamount>54923.38 USDT</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>USDTTRC20</from>
+          		<to>KSPBKZT</to>
+          		<in>1</in>
+          		<out>477.1004</out>
+          		<amount>23677226</amount>
+                                <minamount>167.68 USDT</minamount>
+                <maxamount>49627.34 USDT</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>USDTTRC20</from>
+          		<to>USDTERC20</to>
+          		<in>1.00189996</in>
+          		<out>1</out>
+          		<amount>220.240796</amount>
+                                <minamount>500.95 USDT</minamount>
+                <maxamount>100189.99 USDT</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>USDTTRC20</from>
+          		<to>PRRUB</to>
+          		<in>1</in>
+          		<out>97.6946</out>
+          		<amount>220101.37003238</amount>
+                                <minamount>35 USDT</minamount>
+                <maxamount>10235.98 USDT</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>USDTTRC20</from>
+          		<to>ADVCUSD</to>
+          		<in>1</in>
+          		<out>0.99350003</out>
+          		<amount>5120.9200502831</amount>
+                                <minamount>35 USDT</minamount>
+                <maxamount>150000 USDT</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>USDTTRC20</from>
+          		<to>PRUSD</to>
+          		<in>1</in>
+          		<out>1.00544</out>
+          		<amount>3577.9000054772</amount>
+                                <minamount>35 USDT</minamount>
+                <maxamount>150000 USDT</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>USDTTRC20</from>
+          		<to>P24UAH</to>
+          		<in>1</in>
+          		<out>37.7303</out>
+          		<amount>3008125</amount>
+                                <minamount>132.52 USDT</minamount>
+                <maxamount>5300.77 USDT</maxamount>
+                                
+                                    <param>otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>USDTTRC20</from>
+          		<to>TRX</to>
+          		<in>1</in>
+          		<out>11.249072</out>
+          		<amount>9154.1541999987</amount>
+                                <minamount>88.90 USDT</minamount>
+                <maxamount>8889.62 USDT</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>USDTTRC20</from>
+          		<to>DOGE</to>
+          		<in>1</in>
+          		<out>16.17790313</out>
+          		<amount>39668.10065054</amount>
+                                <minamount>35 USDT</minamount>
+                <maxamount>61812.70 USDT</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>USDTTRC20</from>
+          		<to>MONOBUAH</to>
+          		<in>1</in>
+          		<out>37.6854</out>
+          		<amount>3232013</amount>
+                                <minamount>132.68 USDT</minamount>
+                <maxamount>5307.09 USDT</maxamount>
+                                
+                                    <param>otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>USDTTRC20</from>
+          		<to>ADVCRUB</to>
+          		<in>1</in>
+          		<out>97.8104</out>
+          		<amount>532922.13000007</amount>
+                                <minamount>35 USDT</minamount>
+                <maxamount>10223.86 USDT</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>USDTTRC20</from>
+          		<to>ADVCEUR</to>
+          		<in>1</in>
+          		<out>0.92983079</out>
+          		<amount>5642.1599999992</amount>
+                                <minamount>35 USDT</minamount>
+                <maxamount>150000 USDT</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>USDTTRC20</from>
+          		<to>ETH</to>
+          		<in>1683.6895</in>
+          		<out>1</out>
+          		<amount>0.091735846737</amount>
+                                <minamount>505.11 USDT</minamount>
+                <maxamount>101021.37 USDT</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>USDTTRC20</from>
+          		<to>PMEUR</to>
+          		<in>1</in>
+          		<out>0.97</out>
+          		<amount>66.160000000004</amount>
+                                <minamount>35 USDT</minamount>
+                <maxamount>150000 USDT</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>USDTTRC20</from>
+          		<to>CARDUAH</to>
+          		<in>1</in>
+          		<out>37.7303</out>
+          		<amount>3125014</amount>
+                                <minamount>132.52 USDT</minamount>
+                <maxamount>5300.77 USDT</maxamount>
+                                
+                                    <param>otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PMUSD</from>
+          		<to>USDTTRC20</to>
+          		<in>1.040496</in>
+          		<out>1</out>
+          		<amount>88044.918379016</amount>
+                                <minamount>145.67 USD</minamount>
+                <maxamount>120000 USD</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PMUSD</from>
+          		<to>TCSBRUB</to>
+          		<in>1</in>
+          		<out>93.5808</out>
+          		<amount>14951186</amount>
+                                <minamount>208.38 USD</minamount>
+                <maxamount>4594.95 USD</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PMUSD</from>
+          		<to>LTC</to>
+          		<in>69.4826</in>
+          		<out>1</out>
+          		<amount>0.75276277997993</amount>
+                                <minamount>6.95 USD</minamount>
+                <maxamount>6948.26 USD</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PMUSD</from>
+          		<to>XMR</to>
+          		<in>151.8066</in>
+          		<out>1</out>
+          		<amount>28.600825640391</amount>
+                                <minamount>30.37 USD</minamount>
+                <maxamount>15180.66 USD</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PMUSD</from>
+          		<to>BTC</to>
+          		<in>28370.35</in>
+          		<out>1</out>
+          		<amount>0.1396790000012</amount>
+                                <minamount>312.08 USD</minamount>
+                <maxamount>56740.70 USD</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PMUSD</from>
+          		<to>KSPBKZT</to>
+          		<in>1</in>
+          		<out>449.9521</out>
+          		<amount>23677226</amount>
+                                <minamount>177.80 USD</minamount>
+                <maxamount>52621.65 USD</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PMUSD</from>
+          		<to>USDTERC20</to>
+          		<in>1.059896</in>
+          		<out>1</out>
+          		<amount>220.240796</amount>
+                                <minamount>529.95 USD</minamount>
+                <maxamount>105989.60 USD</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PMUSD</from>
+          		<to>PRRUB</to>
+          		<in>1</in>
+          		<out>93.1209</out>
+          		<amount>220101.37003238</amount>
+                                <minamount>1 USD</minamount>
+                <maxamount>10738.72 USD</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PMUSD</from>
+          		<to>ADVCUSD</to>
+          		<in>1</in>
+          		<out>0.957491</out>
+          		<amount>5120.9200502831</amount>
+                                <minamount>1 USD</minamount>
+                <maxamount>120000 USD</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PMUSD</from>
+          		<to>PRUSD</to>
+          		<in>1</in>
+          		<out>0.970898</out>
+          		<amount>3577.9000054772</amount>
+                                <minamount>10.30 USD</minamount>
+                <maxamount>120000 USD</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PMUSD</from>
+          		<to>P24UAH</to>
+          		<in>1</in>
+          		<out>36.2996</out>
+          		<amount>3008125</amount>
+                                <minamount>137.75 USD</minamount>
+                <maxamount>5509.70 USD</maxamount>
+                                
+                                    <param>otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PMUSD</from>
+          		<to>TRX</to>
+          		<in>1</in>
+          		<out>10.66467</out>
+          		<amount>9154.1541999987</amount>
+                                <minamount>93.77 USD</minamount>
+                <maxamount>9376.75 USD</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PMUSD</from>
+          		<to>DOGE</to>
+          		<in>1</in>
+          		<out>15.49781451</out>
+          		<amount>39668.10065054</amount>
+                                <minamount>19.36 USD</minamount>
+                <maxamount>64525.22 USD</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PMUSD</from>
+          		<to>MONOBUAH</to>
+          		<in>1</in>
+          		<out>36.134</out>
+          		<amount>3232013</amount>
+                                <minamount>138.38 USD</minamount>
+                <maxamount>5534.95 USD</maxamount>
+                                
+                                    <param>otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PMUSD</from>
+          		<to>ADVCRUB</to>
+          		<in>1</in>
+          		<out>92.3032</out>
+          		<amount>532922.13000007</amount>
+                                <minamount>1 USD</minamount>
+                <maxamount>10833.86 USD</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PMUSD</from>
+          		<to>ADVCEUR</to>
+          		<in>1.122096</in>
+          		<out>1</out>
+          		<amount>5642.1599999992</amount>
+                                <minamount>1 USD</minamount>
+                <maxamount>120000 USD</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PMUSD</from>
+          		<to>ETH</to>
+          		<in>1775.19</in>
+          		<out>1</out>
+          		<amount>0.091735846737</amount>
+                                <minamount>532.56 USD</minamount>
+                <maxamount>106511.40 USD</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PMUSD</from>
+          		<to>PMEUR</to>
+          		<in>1.06</in>
+          		<out>1</out>
+          		<amount>66.160000000004</amount>
+                                <minamount>1 USD</minamount>
+                <maxamount>120000 USD</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PMUSD</from>
+          		<to>CARDUAH</to>
+          		<in>1</in>
+          		<out>36.0204</out>
+          		<amount>3125014</amount>
+                                <minamount>138.82 USD</minamount>
+                <maxamount>5552.40 USD</maxamount>
+                                
+                                    <param>otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>SBERRUB</from>
+          		<to>USDTTRC20</to>
+          		<in>100.0207</in>
+          		<out>1</out>
+          		<amount>88044.918379016</amount>
+                                <minamount>14002.90 RUB</minamount>
+                <maxamount>95000 RUB</maxamount>
+                                
+                                    <param>cardverify</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>SBERRUB</from>
+          		<to>PMUSD</to>
+          		<in>97.835</in>
+          		<out>1</out>
+          		<amount>29200.530063228</amount>
+                                <minamount>4000 RUB</minamount>
+                <maxamount>95000 RUB</maxamount>
+                                
+                                    <param>cardverify</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>SBERRUB</from>
+          		<to>LTC</to>
+          		<in>6658.42</in>
+          		<out>1</out>
+          		<amount>0.75276277997993</amount>
+                                <minamount>4000 RUB</minamount>
+                <maxamount>95000 RUB</maxamount>
+                                
+                                    <param>floating, cardverify</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>SBERRUB</from>
+          		<to>XMR</to>
+          		<in>14763.86</in>
+          		<out>1</out>
+          		<amount>28.600825640391</amount>
+                                <minamount>4000 RUB</minamount>
+                <maxamount>95000 RUB</maxamount>
+                                
+                                    <param>floating, cardverify</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>SBERRUB</from>
+          		<to>BTC</to>
+          		<in>2743970</in>
+          		<out>1</out>
+          		<amount>0.1396790000012</amount>
+                                <minamount>30183.67 RUB</minamount>
+                <maxamount>95000 RUB</maxamount>
+                                
+                                    <param>floating, cardverify</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>SBERRUB</from>
+          		<to>KSPBKZT</to>
+          		<in>1</in>
+          		<out>4.644252</out>
+          		<amount>23677226</amount>
+                                <minamount>17225.60 RUB</minamount>
+                <maxamount>95000 RUB</maxamount>
+                                
+                                    <param>cardverify</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>SBERRUB</from>
+          		<to>USDTERC20</to>
+          		<in>101.6127</in>
+          		<out>1</out>
+          		<amount>220.240796</amount>
+                                <minamount>50806.35 RUB</minamount>
+                <maxamount>95000 RUB</maxamount>
+                                
+                                    <param>cardverify</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>SBERRUB</from>
+          		<to>PRRUB</to>
+          		<in>1.028274</in>
+          		<out>1</out>
+          		<amount>220101.37003238</amount>
+                                <minamount>4000 RUB</minamount>
+                <maxamount>95000 RUB</maxamount>
+                                
+                                    <param>cardverify</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>SBERRUB</from>
+          		<to>ADVCUSD</to>
+          		<in>101.2435</in>
+          		<out>1</out>
+          		<amount>5120.9200502831</amount>
+                                <minamount>4000 RUB</minamount>
+                <maxamount>95000 RUB</maxamount>
+                                
+                                    <param>cardverify</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>SBERRUB</from>
+          		<to>PRUSD</to>
+          		<in>99.4982</in>
+          		<out>1</out>
+          		<amount>3577.9000054772</amount>
+                                <minamount>4000 RUB</minamount>
+                <maxamount>95000 RUB</maxamount>
+                                
+                                    <param>cardverify</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>SBERRUB</from>
+          		<to>TRX</to>
+          		<in>8.989256</in>
+          		<out>1</out>
+          		<amount>9154.1541999987</amount>
+                                <minamount>8989.26 RUB</minamount>
+                <maxamount>95000 RUB</maxamount>
+                                
+                                    <param>floating, cardverify</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>SBERRUB</from>
+          		<to>DOGE</to>
+          		<in>6.273593</in>
+          		<out>1</out>
+          		<amount>39668.10065054</amount>
+                                <minamount>4000 RUB</minamount>
+                <maxamount>95000 RUB</maxamount>
+                                
+                                    <param>floating, cardverify</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>SBERRUB</from>
+          		<to>ADVCRUB</to>
+          		<in>1.031286</in>
+          		<out>1</out>
+          		<amount>532922.13000007</amount>
+                                <minamount>4000 RUB</minamount>
+                <maxamount>95000 RUB</maxamount>
+                                
+                                    <param>cardverify</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>SBERRUB</from>
+          		<to>ADVCEUR</to>
+          		<in>107.8022</in>
+          		<out>1</out>
+          		<amount>5642.1599999992</amount>
+                                <minamount>4000 RUB</minamount>
+                <maxamount>95000 RUB</maxamount>
+                                
+                                    <param>cardverify</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>SBERRUB</from>
+          		<to>ETH</to>
+          		<in>170347.58</in>
+          		<out>1</out>
+          		<amount>0.091735846737</amount>
+                                <minamount>51104.28 RUB</minamount>
+                <maxamount>95000 RUB</maxamount>
+                                
+                                    <param>floating, cardverify</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>SBERRUB</from>
+          		<to>PMEUR</to>
+          		<in>105.41</in>
+          		<out>1</out>
+          		<amount>66.160000000004</amount>
+                                <minamount>4000 RUB</minamount>
+                <maxamount>95000 RUB</maxamount>
+                                
+                                    <param>cardverify</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>LTC</from>
+          		<to>USDTTRC20</to>
+          		<in>1</in>
+          		<out>64.387734</out>
+          		<amount>88044.918379016</amount>
+                                <minamount>2.17432718 LTC</minamount>
+                <maxamount>30 LTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>LTC</from>
+          		<to>PMUSD</to>
+          		<in>1</in>
+          		<out>66.6982</out>
+          		<amount>29200.530063228</amount>
+                                <minamount>0.2 LTC</minamount>
+                <maxamount>30 LTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>LTC</from>
+          		<to>TCSBRUB</to>
+          		<in>1</in>
+          		<out>6469.62</out>
+          		<amount>14951186</amount>
+                                <minamount>3.01408739 LTC</minamount>
+                <maxamount>30 LTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>LTC</from>
+          		<to>XMR</to>
+          		<in>1</in>
+          		<out>0.44159439</out>
+          		<amount>28.600825640391</amount>
+                                <minamount>0.45290431 LTC</minamount>
+                <maxamount>30 LTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>LTC</from>
+          		<to>BTC</to>
+          		<in>425.354529</in>
+          		<out>1</out>
+          		<amount>0.1396790000012</amount>
+                                <minamount>4.67889982 LTC</minamount>
+                <maxamount>30 LTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>LTC</from>
+          		<to>KSPBKZT</to>
+          		<in>1</in>
+          		<out>31159.64</out>
+          		<amount>23677226</amount>
+                                <minamount>2.56742376 LTC</minamount>
+                <maxamount>30 LTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>LTC</from>
+          		<to>USDTERC20</to>
+          		<in>1</in>
+          		<out>62.295313</out>
+          		<amount>220.240796</amount>
+                                <minamount>8.02628603 LTC</minamount>
+                <maxamount>30 LTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>LTC</from>
+          		<to>PRRUB</to>
+          		<in>1</in>
+          		<out>6396.01</out>
+          		<amount>220101.37003238</amount>
+                                <minamount>0.2 LTC</minamount>
+                <maxamount>30 LTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>LTC</from>
+          		<to>ADVCUSD</to>
+          		<in>1</in>
+          		<out>64.9499</out>
+          		<amount>5120.9200502831</amount>
+                                <minamount>0.2 LTC</minamount>
+                <maxamount>30 LTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>LTC</from>
+          		<to>PRUSD</to>
+          		<in>1</in>
+          		<out>65.6413</out>
+          		<amount>3577.9000054772</amount>
+                                <minamount>0.2 LTC</minamount>
+                <maxamount>30 LTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>LTC</from>
+          		<to>P24UAH</to>
+          		<in>1</in>
+          		<out>2406.57</out>
+          		<amount>3008125</amount>
+                                <minamount>2.07764578 LTC</minamount>
+                <maxamount>30 LTC</maxamount>
+                                
+                                    <param>floating, otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>LTC</from>
+          		<to>TRX</to>
+          		<in>1</in>
+          		<out>729.613141</out>
+          		<amount>9154.1541999987</amount>
+                                <minamount>1.37058935 LTC</minamount>
+                <maxamount>30 LTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>LTC</from>
+          		<to>DOGE</to>
+          		<in>1</in>
+          		<out>1039.449203</out>
+          		<amount>39668.10065054</amount>
+                                <minamount>0.28861440 LTC</minamount>
+                <maxamount>30 LTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>LTC</from>
+          		<to>MONOBUAH</to>
+          		<in>1</in>
+          		<out>2406.57</out>
+          		<amount>3232013</amount>
+                                <minamount>2.07764578 LTC</minamount>
+                <maxamount>30 LTC</maxamount>
+                                
+                                    <param>floating, otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>LTC</from>
+          		<to>ADVCRUB</to>
+          		<in>1</in>
+          		<out>6392.46</out>
+          		<amount>532922.13000007</amount>
+                                <minamount>0.2 LTC</minamount>
+                <maxamount>30 LTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>LTC</from>
+          		<to>ADVCEUR</to>
+          		<in>1</in>
+          		<out>61.0486</out>
+          		<amount>5642.1599999992</amount>
+                                <minamount>0.2 LTC</minamount>
+                <maxamount>30 LTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>LTC</from>
+          		<to>ETH</to>
+          		<in>26.118973</in>
+          		<out>1</out>
+          		<amount>0.091735846737</amount>
+                                <minamount>7.83569190 LTC</minamount>
+                <maxamount>30 LTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>LTC</from>
+          		<to>PMEUR</to>
+          		<in>1</in>
+          		<out>62.06</out>
+          		<amount>66.160000000004</amount>
+                                <minamount>0.2 LTC</minamount>
+                <maxamount>30 LTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>LTC</from>
+          		<to>CARDUAH</to>
+          		<in>1</in>
+          		<out>2324.52</out>
+          		<amount>3125014</amount>
+                                <minamount>2.15098171 LTC</minamount>
+                <maxamount>30 LTC</maxamount>
+                                
+                                    <param>floating, otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>XMR</from>
+          		<to>USDTTRC20</to>
+          		<in>1</in>
+          		<out>142.041204</out>
+          		<amount>88044.918379016</amount>
+                                <minamount>0.98562950 XMR</minamount>
+                <maxamount>30 XMR</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>XMR</from>
+          		<to>PMUSD</to>
+          		<in>1</in>
+          		<out>147.1104</out>
+          		<amount>29200.530063228</amount>
+                                <minamount>0.55 XMR</minamount>
+                <maxamount>30 XMR</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>XMR</from>
+          		<to>TCSBRUB</to>
+          		<in>1</in>
+          		<out>14302.97</out>
+          		<amount>14951186</amount>
+                                <minamount>1.36335321 XMR</minamount>
+                <maxamount>30 XMR</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>XMR</from>
+          		<to>LTC</to>
+          		<in>0.46609179</in>
+          		<out>1</out>
+          		<amount>0.75276277997993</amount>
+                                <minamount>0.55 XMR</minamount>
+                <maxamount>30 XMR</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>XMR</from>
+          		<to>BTC</to>
+          		<in>188.712782</in>
+          		<out>1</out>
+          		<amount>0.1396790000012</amount>
+                                <minamount>2.07584061 XMR</minamount>
+                <maxamount>30 XMR</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>XMR</from>
+          		<to>KSPBKZT</to>
+          		<in>1</in>
+          		<out>68966.04</out>
+          		<amount>23677226</amount>
+                                <minamount>1.15999121 XMR</minamount>
+                <maxamount>30 XMR</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>XMR</from>
+          		<to>USDTERC20</to>
+          		<in>1</in>
+          		<out>137.844004</out>
+          		<amount>220.240796</amount>
+                                <minamount>3.62728872 XMR</minamount>
+                <maxamount>30 XMR</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>XMR</from>
+          		<to>PRRUB</to>
+          		<in>1</in>
+          		<out>14058.3</out>
+          		<amount>220101.37003238</amount>
+                                <minamount>0.55 XMR</minamount>
+                <maxamount>30 XMR</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>XMR</from>
+          		<to>ADVCUSD</to>
+          		<in>1</in>
+          		<out>143.6532</out>
+          		<amount>5120.9200502831</amount>
+                                <minamount>0.55 XMR</minamount>
+                <maxamount>30 XMR</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>XMR</from>
+          		<to>PRUSD</to>
+          		<in>1</in>
+          		<out>145.2998</out>
+          		<amount>3577.9000054772</amount>
+                                <minamount>0.55 XMR</minamount>
+                <maxamount>30 XMR</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>XMR</from>
+          		<to>P24UAH</to>
+          		<in>1</in>
+          		<out>5456.1</out>
+          		<amount>3008125</amount>
+                                <minamount>0.91640550 XMR</minamount>
+                <maxamount>30 XMR</maxamount>
+                                
+                                    <param>floating, otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>XMR</from>
+          		<to>TRX</to>
+          		<in>1</in>
+          		<out>1613.8256</out>
+          		<amount>9154.1541999987</amount>
+                                <minamount>0.61964565 XMR</minamount>
+                <maxamount>30 XMR</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>XMR</from>
+          		<to>DOGE</to>
+          		<in>1</in>
+          		<out>2299.783047</out>
+          		<amount>39668.10065054</amount>
+                                <minamount>0.55 XMR</minamount>
+                <maxamount>30 XMR</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>XMR</from>
+          		<to>MONOBUAH</to>
+          		<in>1</in>
+          		<out>5456.1</out>
+          		<amount>3232013</amount>
+                                <minamount>0.91640550 XMR</minamount>
+                <maxamount>30 XMR</maxamount>
+                                
+                                    <param>floating, otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>XMR</from>
+          		<to>ADVCRUB</to>
+          		<in>1</in>
+          		<out>14056.33</out>
+          		<amount>532922.13000007</amount>
+                                <minamount>0.55 XMR</minamount>
+                <maxamount>30 XMR</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>XMR</from>
+          		<to>ADVCEUR</to>
+          		<in>1</in>
+          		<out>135.3431</out>
+          		<amount>5642.1599999992</amount>
+                                <minamount>0.55 XMR</minamount>
+                <maxamount>30 XMR</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>XMR</from>
+          		<to>ETH</to>
+          		<in>11.79474313</in>
+          		<out>1</out>
+          		<amount>0.091735846737</amount>
+                                <minamount>3.53842294 XMR</minamount>
+                <maxamount>30 XMR</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>XMR</from>
+          		<to>PMEUR</to>
+          		<in>1</in>
+          		<out>136.72</out>
+          		<amount>66.160000000004</amount>
+                                <minamount>0.55 XMR</minamount>
+                <maxamount>30 XMR</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>XMR</from>
+          		<to>CARDUAH</to>
+          		<in>1</in>
+          		<out>5456.1</out>
+          		<amount>3125014</amount>
+                                <minamount>0.91640550 XMR</minamount>
+                <maxamount>30 XMR</maxamount>
+                                
+                                    <param>floating, otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>BTC</from>
+          		<to>USDTTRC20</to>
+          		<in>1</in>
+          		<out>26492.0934</out>
+          		<amount>88044.918379016</amount>
+                                <minamount>0.012 BTC</minamount>
+                <maxamount>1 BTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>BTC</from>
+          		<to>PMUSD</to>
+          		<in>1</in>
+          		<out>27322.64</out>
+          		<amount>29200.530063228</amount>
+                                <minamount>0.012 BTC</minamount>
+                <maxamount>1 BTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>BTC</from>
+          		<to>TCSBRUB</to>
+          		<in>1</in>
+          		<out>2653840</out>
+          		<amount>14951186</amount>
+                                <minamount>0.012 BTC</minamount>
+                <maxamount>0.16202936 BTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>BTC</from>
+          		<to>LTC</to>
+          		<in>1</in>
+          		<out>397.521004</out>
+          		<amount>0.75276277997993</amount>
+                                <minamount>0.012 BTC</minamount>
+                <maxamount>0.25155903 BTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>BTC</from>
+          		<to>XMR</to>
+          		<in>1</in>
+          		<out>183.092887</out>
+          		<amount>28.600825640391</amount>
+                                <minamount>0.012 BTC</minamount>
+                <maxamount>0.54617086 BTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>BTC</from>
+          		<to>KSPBKZT</to>
+          		<in>1</in>
+          		<out>12819560</out>
+          		<amount>23677226</amount>
+                                <minamount>0.012 BTC</minamount>
+                <maxamount>1 BTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>BTC</from>
+          		<to>USDTERC20</to>
+          		<in>1</in>
+          		<out>26339.1024</out>
+          		<amount>220.240796</amount>
+                                <minamount>0.01898319 BTC</minamount>
+                <maxamount>1 BTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>BTC</from>
+          		<to>PRRUB</to>
+          		<in>1</in>
+          		<out>2619098</out>
+          		<amount>220101.37003238</amount>
+                                <minamount>0.012 BTC</minamount>
+                <maxamount>0.38181083 BTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>BTC</from>
+          		<to>ADVCUSD</to>
+          		<in>1</in>
+          		<out>26688.48</out>
+          		<amount>5120.9200502831</amount>
+                                <minamount>0.012 BTC</minamount>
+                <maxamount>1 BTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>BTC</from>
+          		<to>PRUSD</to>
+          		<in>1</in>
+          		<out>26945.64</out>
+          		<amount>3577.9000054772</amount>
+                                <minamount>0.012 BTC</minamount>
+                <maxamount>1 BTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>BTC</from>
+          		<to>P24UAH</to>
+          		<in>1</in>
+          		<out>1007251</out>
+          		<amount>3008125</amount>
+                                <minamount>0.012 BTC</minamount>
+                <maxamount>0.19856023 BTC</maxamount>
+                                
+                                    <param>floating, otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>BTC</from>
+          		<to>TRX</to>
+          		<in>1</in>
+          		<out>299545.1189</out>
+          		<amount>9154.1541999987</amount>
+                                <minamount>0.012 BTC</minamount>
+                <maxamount>0.33383952 BTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>BTC</from>
+          		<to>DOGE</to>
+          		<in>1</in>
+          		<out>426836.0873</out>
+          		<amount>39668.10065054</amount>
+                                <minamount>0.012 BTC</minamount>
+                <maxamount>1 BTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>BTC</from>
+          		<to>MONOBUAH</to>
+          		<in>1</in>
+          		<out>1007251</out>
+          		<amount>3232013</amount>
+                                <minamount>0.012 BTC</minamount>
+                <maxamount>0.19856023 BTC</maxamount>
+                                
+                                    <param>floating, otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>BTC</from>
+          		<to>ADVCRUB</to>
+          		<in>1</in>
+          		<out>2623767</out>
+          		<amount>532922.13000007</amount>
+                                <minamount>0.012 BTC</minamount>
+                <maxamount>0.38113140 BTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>BTC</from>
+          		<to>ADVCEUR</to>
+          		<in>1</in>
+          		<out>25145.17</out>
+          		<amount>5642.1599999992</amount>
+                                <minamount>0.012 BTC</minamount>
+                <maxamount>1 BTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>BTC</from>
+          		<to>ETH</to>
+          		<in>1</in>
+          		<out>15.70750904</out>
+          		<amount>0.091735846737</amount>
+                                <minamount>0.01909915 BTC</minamount>
+                <maxamount>1 BTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>BTC</from>
+          		<to>PMEUR</to>
+          		<in>1</in>
+          		<out>25636.18</out>
+          		<amount>66.160000000004</amount>
+                                <minamount>0.012 BTC</minamount>
+                <maxamount>1 BTC</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>BTC</from>
+          		<to>CARDUAH</to>
+          		<in>1</in>
+          		<out>1007575</out>
+          		<amount>3125014</amount>
+                                <minamount>0.012 BTC</minamount>
+                <maxamount>0.19849638 BTC</maxamount>
+                                
+                                    <param>floating, otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>USDTERC20</from>
+          		<to>USDTTRC20</to>
+          		<in>1</in>
+          		<out>0.97509513</out>
+          		<amount>88044.918379016</amount>
+                                <minamount>143.58 USDT</minamount>
+                <maxamount>50000 USDT</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>USDTERC20</from>
+          		<to>PMUSD</to>
+          		<in>1</in>
+          		<out>1.025203</out>
+          		<amount>29200.530063228</amount>
+                                <minamount>100 USDT</minamount>
+                <maxamount>50000 USDT</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>USDTERC20</from>
+          		<to>TCSBRUB</to>
+          		<in>1</in>
+          		<out>98.6602</out>
+          		<amount>14951186</amount>
+                                <minamount>197.65 USDT</minamount>
+                <maxamount>4358.39 USDT</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>USDTERC20</from>
+          		<to>LTC</to>
+          		<in>66.994402</in>
+          		<out>1</out>
+          		<amount>0.75276277997993</amount>
+                                <minamount>100 USDT</minamount>
+                <maxamount>6699.44 USDT</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>USDTERC20</from>
+          		<to>XMR</to>
+          		<in>146.981524</in>
+          		<out>1</out>
+          		<amount>28.600825640391</amount>
+                                <minamount>100 USDT</minamount>
+                <maxamount>14698.15 USDT</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>USDTERC20</from>
+          		<to>BTC</to>
+          		<in>27452.9407</in>
+          		<out>1</out>
+          		<amount>0.1396790000012</amount>
+                                <minamount>301.99 USDT</minamount>
+                <maxamount>50000 USDT</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>USDTERC20</from>
+          		<to>KSPBKZT</to>
+          		<in>1</in>
+          		<out>476.4838</out>
+          		<amount>23677226</amount>
+                                <minamount>167.90 USDT</minamount>
+                <maxamount>49691.56 USDT</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>USDTERC20</from>
+          		<to>PRRUB</to>
+          		<in>1</in>
+          		<out>97.5583</out>
+          		<amount>220101.37003238</amount>
+                                <minamount>100 USDT</minamount>
+                <maxamount>10250.28 USDT</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>USDTERC20</from>
+          		<to>ADVCUSD</to>
+          		<in>1.00887809</in>
+          		<out>1</out>
+          		<amount>5120.9200502831</amount>
+                                <minamount>100 USDT</minamount>
+                <maxamount>50000 USDT</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>USDTERC20</from>
+          		<to>PRUSD</to>
+          		<in>0.999797</in>
+          		<out>1</out>
+          		<amount>3577.9000054772</amount>
+                                <minamount>100 USDT</minamount>
+                <maxamount>50000 USDT</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>USDTERC20</from>
+          		<to>P24UAH</to>
+          		<in>1</in>
+          		<out>37.5004</out>
+          		<amount>3008125</amount>
+                                <minamount>133.34 USDT</minamount>
+                <maxamount>5333.27 USDT</maxamount>
+                                
+                                    <param>otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>USDTERC20</from>
+          		<to>TRX</to>
+          		<in>1</in>
+          		<out>10.974543</out>
+          		<amount>9154.1541999987</amount>
+                                <minamount>100 USDT</minamount>
+                <maxamount>9111.99 USDT</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>USDTERC20</from>
+          		<to>DOGE</to>
+          		<in>1</in>
+          		<out>15.69475475</out>
+          		<amount>39668.10065054</amount>
+                                <minamount>100 USDT</minamount>
+                <maxamount>50000 USDT</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>USDTERC20</from>
+          		<to>MONOBUAH</to>
+          		<in>1</in>
+          		<out>37.5251</out>
+          		<amount>3232013</amount>
+                                <minamount>133.25 USDT</minamount>
+                <maxamount>5329.76 USDT</maxamount>
+                                
+                                    <param>otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>USDTERC20</from>
+          		<to>ADVCRUB</to>
+          		<in>1</in>
+          		<out>97.6099</out>
+          		<amount>532922.13000007</amount>
+                                <minamount>100 USDT</minamount>
+                <maxamount>10244.86 USDT</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>USDTERC20</from>
+          		<to>ADVCEUR</to>
+          		<in>1.07450103</in>
+          		<out>1</out>
+          		<amount>5642.1599999992</amount>
+                                <minamount>100 USDT</minamount>
+                <maxamount>50000 USDT</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>USDTERC20</from>
+          		<to>ETH</to>
+          		<in>1708.7892</in>
+          		<out>1</out>
+          		<amount>0.091735846737</amount>
+                                <minamount>512.64 USDT</minamount>
+                <maxamount>50000 USDT</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>USDTERC20</from>
+          		<to>PMEUR</to>
+          		<in>1.03</in>
+          		<out>1</out>
+          		<amount>66.160000000004</amount>
+                                <minamount>100 USDT</minamount>
+                <maxamount>50000 USDT</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>USDTERC20</from>
+          		<to>CARDUAH</to>
+          		<in>1</in>
+          		<out>37.5004</out>
+          		<amount>3125014</amount>
+                                <minamount>133.34 USDT</minamount>
+                <maxamount>5333.27 USDT</maxamount>
+                                
+                                    <param>otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PRRUB</from>
+          		<to>USDTTRC20</to>
+          		<in>107.3496</in>
+          		<out>1</out>
+          		<amount>88044.918379016</amount>
+                                <minamount>15028.95 RUB</minamount>
+                <maxamount>1000000 RUB</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PRRUB</from>
+          		<to>PMUSD</to>
+          		<in>101.8096</in>
+          		<out>1</out>
+          		<amount>29200.530063228</amount>
+                                <minamount>500 RUB</minamount>
+                <maxamount>1000000 RUB</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PRRUB</from>
+          		<to>TCSBRUB</to>
+          		<in>1</in>
+          		<out>0.979317</out>
+          		<amount>14951186</amount>
+                                <minamount>19911.84 RUB</minamount>
+                <maxamount>439081.52 RUB</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PRRUB</from>
+          		<to>LTC</to>
+          		<in>6575.75</in>
+          		<out>1</out>
+          		<amount>0.75276277997993</amount>
+                                <minamount>657.58 RUB</minamount>
+                <maxamount>657575 RUB</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PRRUB</from>
+          		<to>XMR</to>
+          		<in>14783.42</in>
+          		<out>1</out>
+          		<amount>28.600825640391</amount>
+                                <minamount>2956.69 RUB</minamount>
+                <maxamount>1000000 RUB</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PRRUB</from>
+          		<to>BTC</to>
+          		<in>2735939</in>
+          		<out>1</out>
+          		<amount>0.1396790000012</amount>
+                                <minamount>30095.33 RUB</minamount>
+                <maxamount>1000000 RUB</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PRRUB</from>
+          		<to>KSPBKZT</to>
+          		<in>1</in>
+          		<out>4.660004</out>
+          		<amount>23677226</amount>
+                                <minamount>17167.37 RUB</minamount>
+                <maxamount>1000000 RUB</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PRRUB</from>
+          		<to>USDTERC20</to>
+          		<in>108.5296</in>
+          		<out>1</out>
+          		<amount>220.240796</amount>
+                                <minamount>54264.80 RUB</minamount>
+                <maxamount>1000000 RUB</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PRRUB</from>
+          		<to>ADVCUSD</to>
+          		<in>100.5104</in>
+          		<out>1</out>
+          		<amount>5120.9200502831</amount>
+                                <minamount>500 RUB</minamount>
+                <maxamount>1000000 RUB</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PRRUB</from>
+          		<to>PRUSD</to>
+          		<in>99.5647</in>
+          		<out>1</out>
+          		<amount>3577.9000054772</amount>
+                                <minamount>995.65 RUB</minamount>
+                <maxamount>1000000 RUB</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PRRUB</from>
+          		<to>TRX</to>
+          		<in>8.932208</in>
+          		<out>1</out>
+          		<amount>9154.1541999987</amount>
+                                <minamount>8932.21 RUB</minamount>
+                <maxamount>893220.80 RUB</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PRRUB</from>
+          		<to>DOGE</to>
+          		<in>6.246696</in>
+          		<out>1</out>
+          		<amount>39668.10065054</amount>
+                                <minamount>1874.01 RUB</minamount>
+                <maxamount>1000000 RUB</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PRRUB</from>
+          		<to>ADVCRUB</to>
+          		<in>1.016753</in>
+          		<out>1</out>
+          		<amount>532922.13000007</amount>
+                                <minamount>500 RUB</minamount>
+                <maxamount>1000000 RUB</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PRRUB</from>
+          		<to>ADVCEUR</to>
+          		<in>106.2604</in>
+          		<out>1</out>
+          		<amount>5642.1599999992</amount>
+                                <minamount>500 RUB</minamount>
+                <maxamount>1000000 RUB</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PRRUB</from>
+          		<to>ETH</to>
+          		<in>169616.43</in>
+          		<out>1</out>
+          		<amount>0.091735846737</amount>
+                                <minamount>50884.93 RUB</minamount>
+                <maxamount>1000000 RUB</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PRRUB</from>
+          		<to>PMEUR</to>
+          		<in>106.46</in>
+          		<out>1</out>
+          		<amount>66.160000000004</amount>
+                                <minamount>500 RUB</minamount>
+                <maxamount>1000000 RUB</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>ADVCUSD</from>
+          		<to>USDTTRC20</to>
+          		<in>1.056996</in>
+          		<out>1</out>
+          		<amount>88044.918379016</amount>
+                                <minamount>147.98 USD</minamount>
+                <maxamount>126839.52 USD</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>ADVCUSD</from>
+          		<to>PMUSD</to>
+          		<in>1.047885</in>
+          		<out>1</out>
+          		<amount>29200.530063228</amount>
+                                <minamount>1 USD</minamount>
+                <maxamount>1000000 USD</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>ADVCUSD</from>
+          		<to>TCSBRUB</to>
+          		<in>1</in>
+          		<out>96.0149</out>
+          		<amount>14951186</amount>
+                                <minamount>203.10 USD</minamount>
+                <maxamount>4478.47 USD</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>ADVCUSD</from>
+          		<to>LTC</to>
+          		<in>66.8978</in>
+          		<out>1</out>
+          		<amount>0.75276277997993</amount>
+                                <minamount>6.69 USD</minamount>
+                <maxamount>6689.78 USD</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ADVCUSD</from>
+          		<to>XMR</to>
+          		<in>149.5034</in>
+          		<out>1</out>
+          		<amount>28.600825640391</amount>
+                                <minamount>29.91 USD</minamount>
+                <maxamount>14950.34 USD</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ADVCUSD</from>
+          		<to>BTC</to>
+          		<in>27456.88</in>
+          		<out>1</out>
+          		<amount>0.1396790000012</amount>
+                                <minamount>302.03 USD</minamount>
+                <maxamount>54913.76 USD</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ADVCUSD</from>
+          		<to>KSPBKZT</to>
+          		<in>1</in>
+          		<out>457.3504</out>
+          		<amount>23677226</amount>
+                                <minamount>174.93 USD</minamount>
+                <maxamount>51770.42 USD</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>ADVCUSD</from>
+          		<to>USDTERC20</to>
+          		<in>1.025795</in>
+          		<out>1</out>
+          		<amount>220.240796</amount>
+                                <minamount>512.90 USD</minamount>
+                <maxamount>102579.50 USD</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>ADVCUSD</from>
+          		<to>PRRUB</to>
+          		<in>1</in>
+          		<out>95.6622</out>
+          		<amount>220101.37003238</amount>
+                                <minamount>1 USD</minamount>
+                <maxamount>10453.44 USD</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>ADVCUSD</from>
+          		<to>PRUSD</to>
+          		<in>1</in>
+          		<out>0.994929</out>
+          		<amount>3577.9000054772</amount>
+                                <minamount>10.06 USD</minamount>
+                <maxamount>1000000 USD</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>ADVCUSD</from>
+          		<to>P24UAH</to>
+          		<in>1</in>
+          		<out>36.0004</out>
+          		<amount>3008125</amount>
+                                <minamount>138.89 USD</minamount>
+                <maxamount>5555.49 USD</maxamount>
+                                
+                                    <param>otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ADVCUSD</from>
+          		<to>TRX</to>
+          		<in>1</in>
+          		<out>11.008038</out>
+          		<amount>9154.1541999987</amount>
+                                <minamount>90.85 USD</minamount>
+                <maxamount>9084.27 USD</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ADVCUSD</from>
+          		<to>DOGE</to>
+          		<in>1</in>
+          		<out>15.84582147</out>
+          		<amount>39668.10065054</amount>
+                                <minamount>18.94 USD</minamount>
+                <maxamount>63108.11 USD</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ADVCUSD</from>
+          		<to>MONOBUAH</to>
+          		<in>1</in>
+          		<out>36.0004</out>
+          		<amount>3232013</amount>
+                                <minamount>138.89 USD</minamount>
+                <maxamount>5555.49 USD</maxamount>
+                                
+                                    <param>otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ADVCUSD</from>
+          		<to>ADVCRUB</to>
+          		<in>1</in>
+          		<out>90.2588</out>
+          		<amount>532922.13000007</amount>
+                                <minamount>1 USD</minamount>
+                <maxamount>11079.25 USD</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>ADVCUSD</from>
+          		<to>ADVCEUR</to>
+          		<in>1.112796</in>
+          		<out>1</out>
+          		<amount>5642.1599999992</amount>
+                                <minamount>1 USD</minamount>
+                <maxamount>1000000 USD</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>ADVCUSD</from>
+          		<to>ETH</to>
+          		<in>1718.17</in>
+          		<out>1</out>
+          		<amount>0.091735846737</amount>
+                                <minamount>515.46 USD</minamount>
+                <maxamount>103090.20 USD</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ADVCUSD</from>
+          		<to>PMEUR</to>
+          		<in>1.03</in>
+          		<out>1</out>
+          		<amount>66.160000000004</amount>
+                                <minamount>1 USD</minamount>
+                <maxamount>1000000 USD</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>ADVCUSD</from>
+          		<to>CARDUAH</to>
+          		<in>1</in>
+          		<out>36.7314</out>
+          		<amount>3125014</amount>
+                                <minamount>136.13 USD</minamount>
+                <maxamount>5444.93 USD</maxamount>
+                                
+                                    <param>otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PRUSD</from>
+          		<to>USDTTRC20</to>
+          		<in>1.080303</in>
+          		<out>1</out>
+          		<amount>88044.918379016</amount>
+                                <minamount>151.25 USD</minamount>
+                <maxamount>70000 USD</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PRUSD</from>
+          		<to>PMUSD</to>
+          		<in>1.041663</in>
+          		<out>1</out>
+          		<amount>29200.530063228</amount>
+                                <minamount>5 USD</minamount>
+                <maxamount>70000 USD</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PRUSD</from>
+          		<to>TCSBRUB</to>
+          		<in>1</in>
+          		<out>94.6974</out>
+          		<amount>14951186</amount>
+                                <minamount>205.92 USD</minamount>
+                <maxamount>4540.77 USD</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PRUSD</from>
+          		<to>LTC</to>
+          		<in>67.5385</in>
+          		<out>1</out>
+          		<amount>0.75276277997993</amount>
+                                <minamount>6.76 USD</minamount>
+                <maxamount>6753.85 USD</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PRUSD</from>
+          		<to>XMR</to>
+          		<in>149.4134</in>
+          		<out>1</out>
+          		<amount>28.600825640391</amount>
+                                <minamount>29.89 USD</minamount>
+                <maxamount>14941.34 USD</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PRUSD</from>
+          		<to>BTC</to>
+          		<in>27842.22</in>
+          		<out>1</out>
+          		<amount>0.1396790000012</amount>
+                                <minamount>306.27 USD</minamount>
+                <maxamount>55684.44 USD</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PRUSD</from>
+          		<to>KSPBKZT</to>
+          		<in>1</in>
+          		<out>460.8207</out>
+          		<amount>23677226</amount>
+                                <minamount>173.61 USD</minamount>
+                <maxamount>51380.56 USD</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PRUSD</from>
+          		<to>USDTERC20</to>
+          		<in>1.040496</in>
+          		<out>1</out>
+          		<amount>220.240796</amount>
+                                <minamount>520.25 USD</minamount>
+                <maxamount>70000 USD</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PRUSD</from>
+          		<to>PRRUB</to>
+          		<in>1</in>
+          		<out>95.2566</out>
+          		<amount>220101.37003238</amount>
+                                <minamount>5 USD</minamount>
+                <maxamount>10497.96 USD</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PRUSD</from>
+          		<to>ADVCUSD</to>
+          		<in>1.028896</in>
+          		<out>1</out>
+          		<amount>5120.9200502831</amount>
+                                <minamount>5 USD</minamount>
+                <maxamount>70000 USD</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PRUSD</from>
+          		<to>P24UAH</to>
+          		<in>1</in>
+          		<out>36.0004</out>
+          		<amount>3008125</amount>
+                                <minamount>138.89 USD</minamount>
+                <maxamount>5555.49 USD</maxamount>
+                                
+                                    <param>otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PRUSD</from>
+          		<to>TRX</to>
+          		<in>1</in>
+          		<out>10.967892</out>
+          		<amount>9154.1541999987</amount>
+                                <minamount>91.18 USD</minamount>
+                <maxamount>9117.52 USD</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PRUSD</from>
+          		<to>DOGE</to>
+          		<in>1</in>
+          		<out>15.56895181</out>
+          		<amount>39668.10065054</amount>
+                                <minamount>19.27 USD</minamount>
+                <maxamount>64230.39 USD</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PRUSD</from>
+          		<to>MONOBUAH</to>
+          		<in>1</in>
+          		<out>35.0004</out>
+          		<amount>3232013</amount>
+                                <minamount>142.86 USD</minamount>
+                <maxamount>5714.22 USD</maxamount>
+                                
+                                    <param>otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PRUSD</from>
+          		<to>ADVCRUB</to>
+          		<in>1</in>
+          		<out>94.0704</out>
+          		<amount>532922.13000007</amount>
+                                <minamount>5 USD</minamount>
+                <maxamount>10630.33 USD</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PRUSD</from>
+          		<to>ADVCEUR</to>
+          		<in>1.095296</in>
+          		<out>1</out>
+          		<amount>5642.1599999992</amount>
+                                <minamount>5 USD</minamount>
+                <maxamount>70000 USD</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PRUSD</from>
+          		<to>ETH</to>
+          		<in>1739.41</in>
+          		<out>1</out>
+          		<amount>0.091735846737</amount>
+                                <minamount>521.83 USD</minamount>
+                <maxamount>70000 USD</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PRUSD</from>
+          		<to>PMEUR</to>
+          		<in>1.06</in>
+          		<out>1</out>
+          		<amount>66.160000000004</amount>
+                                <minamount>5 USD</minamount>
+                <maxamount>70000 USD</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PRUSD</from>
+          		<to>CARDUAH</to>
+          		<in>1</in>
+          		<out>36.7634</out>
+          		<amount>3125014</amount>
+                                <minamount>136.01 USD</minamount>
+                <maxamount>5440.19 USD</maxamount>
+                                
+                                    <param>otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>TRX</from>
+          		<to>USDTTRC20</to>
+          		<in>11.879696</in>
+          		<out>1</out>
+          		<amount>88044.918379016</amount>
+                                <minamount>1663.16 TRX</minamount>
+                <maxamount>50000 TRX</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>TRX</from>
+          		<to>PMUSD</to>
+          		<in>11.177764</in>
+          		<out>1</out>
+          		<amount>29200.530063228</amount>
+                                <minamount>1150 TRX</minamount>
+                <maxamount>50000 TRX</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>TRX</from>
+          		<to>TCSBRUB</to>
+          		<in>1</in>
+          		<out>8.72911</out>
+          		<amount>14951186</amount>
+                                <minamount>2233.91 TRX</minamount>
+                <maxamount>49260.46 TRX</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>TRX</from>
+          		<to>LTC</to>
+          		<in>756.7306</in>
+          		<out>1</out>
+          		<amount>0.75276277997993</amount>
+                                <minamount>1150 TRX</minamount>
+                <maxamount>50000 TRX</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>TRX</from>
+          		<to>XMR</to>
+          		<in>1672.6628</in>
+          		<out>1</out>
+          		<amount>28.600825640391</amount>
+                                <minamount>1150 TRX</minamount>
+                <maxamount>50000 TRX</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>TRX</from>
+          		<to>BTC</to>
+          		<in>310154.42</in>
+          		<out>1</out>
+          		<amount>0.1396790000012</amount>
+                                <minamount>3411.70 TRX</minamount>
+                <maxamount>50000 TRX</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>TRX</from>
+          		<to>KSPBKZT</to>
+          		<in>1</in>
+          		<out>42.0458</out>
+          		<amount>23677226</amount>
+                                <minamount>1902.69 TRX</minamount>
+                <maxamount>50000 TRX</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>TRX</from>
+          		<to>USDTERC20</to>
+          		<in>11.695382</in>
+          		<out>1</out>
+          		<amount>220.240796</amount>
+                                <minamount>5847.70 TRX</minamount>
+                <maxamount>50000 TRX</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>TRX</from>
+          		<to>PRRUB</to>
+          		<in>1</in>
+          		<out>8.566104</out>
+          		<amount>220101.37003238</amount>
+                                <minamount>1150 TRX</minamount>
+                <maxamount>50000 TRX</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>TRX</from>
+          		<to>ADVCUSD</to>
+          		<in>11.382543</in>
+          		<out>1</out>
+          		<amount>5120.9200502831</amount>
+                                <minamount>1150 TRX</minamount>
+                <maxamount>50000 TRX</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>TRX</from>
+          		<to>PRUSD</to>
+          		<in>11.294248</in>
+          		<out>1</out>
+          		<amount>3577.9000054772</amount>
+                                <minamount>1150 TRX</minamount>
+                <maxamount>50000 TRX</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>TRX</from>
+          		<to>P24UAH</to>
+          		<in>1</in>
+          		<out>3.249542</out>
+          		<amount>3008125</amount>
+                                <minamount>1538.68 TRX</minamount>
+                <maxamount>50000 TRX</maxamount>
+                                
+                                    <param>floating, otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>TRX</from>
+          		<to>DOGE</to>
+          		<in>1</in>
+          		<out>1.40460004</out>
+          		<amount>39668.10065054</amount>
+                                <minamount>1150 TRX</minamount>
+                <maxamount>50000 TRX</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>TRX</from>
+          		<to>MONOBUAH</to>
+          		<in>1</in>
+          		<out>3.203429</out>
+          		<amount>3232013</amount>
+                                <minamount>1560.83 TRX</minamount>
+                <maxamount>50000 TRX</maxamount>
+                                
+                                    <param>floating, otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>TRX</from>
+          		<to>ADVCRUB</to>
+          		<in>1</in>
+          		<out>8.57363</out>
+          		<amount>532922.13000007</amount>
+                                <minamount>1150 TRX</minamount>
+                <maxamount>50000 TRX</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>TRX</from>
+          		<to>ADVCEUR</to>
+          		<in>12.125468</in>
+          		<out>1</out>
+          		<amount>5642.1599999992</amount>
+                                <minamount>1150 TRX</minamount>
+                <maxamount>50000 TRX</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>TRX</from>
+          		<to>ETH</to>
+          		<in>19316.2017</in>
+          		<out>1</out>
+          		<amount>0.091735846737</amount>
+                                <minamount>5794.87 TRX</minamount>
+                <maxamount>50000 TRX</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>TRX</from>
+          		<to>PMEUR</to>
+          		<in>11.95</in>
+          		<out>1</out>
+          		<amount>66.160000000004</amount>
+                                <minamount>1150 TRX</minamount>
+                <maxamount>50000 TRX</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>TRX</from>
+          		<to>CARDUAH</to>
+          		<in>1</in>
+          		<out>3.316504</out>
+          		<amount>3125014</amount>
+                                <minamount>1507.62 TRX</minamount>
+                <maxamount>50000 TRX</maxamount>
+                                
+                                    <param>floating, otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>DOGE</from>
+          		<to>USDTTRC20</to>
+          		<in>16.57868905</in>
+          		<out>1</out>
+          		<amount>88044.918379016</amount>
+                                <minamount>2321.02 DOGE</minamount>
+                <maxamount>20000 DOGE</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>DOGE</from>
+          		<to>PMUSD</to>
+          		<in>16.02755967</in>
+          		<out>1</out>
+          		<amount>29200.530063228</amount>
+                                <minamount>300 DOGE</minamount>
+                <maxamount>20000 DOGE</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>DOGE</from>
+          		<to>TCSBRUB</to>
+          		<in>1</in>
+          		<out>6.078534</out>
+          		<amount>14951186</amount>
+                                <minamount>3208.02 DOGE</minamount>
+                <maxamount>20000 DOGE</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>DOGE</from>
+          		<to>LTC</to>
+          		<in>1085.78372</in>
+          		<out>1</out>
+          		<amount>0.75276277997993</amount>
+                                <minamount>300 DOGE</minamount>
+                <maxamount>20000 DOGE</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>DOGE</from>
+          		<to>XMR</to>
+          		<in>2405.876</in>
+          		<out>1</out>
+          		<amount>28.600825640391</amount>
+                                <minamount>481.18 DOGE</minamount>
+                <maxamount>20000 DOGE</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>DOGE</from>
+          		<to>BTC</to>
+          		<in>446428.54</in>
+          		<out>1</out>
+          		<amount>0.1396790000012</amount>
+                                <minamount>4910.72 DOGE</minamount>
+                <maxamount>20000 DOGE</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>DOGE</from>
+          		<to>KSPBKZT</to>
+          		<in>1</in>
+          		<out>28.9967</out>
+          		<amount>23677226</amount>
+                                <minamount>2758.94 DOGE</minamount>
+                <maxamount>20000 DOGE</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>DOGE</from>
+          		<to>USDTERC20</to>
+          		<in>17.02262128</in>
+          		<out>1</out>
+          		<amount>220.240796</amount>
+                                <minamount>8511.32 DOGE</minamount>
+                <maxamount>20000 DOGE</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>DOGE</from>
+          		<to>PRRUB</to>
+          		<in>1</in>
+          		<out>5.980504</out>
+          		<amount>220101.37003238</amount>
+                                <minamount>300 DOGE</minamount>
+                <maxamount>20000 DOGE</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>DOGE</from>
+          		<to>ADVCUSD</to>
+          		<in>16.38892461</in>
+          		<out>1</out>
+          		<amount>5120.9200502831</amount>
+                                <minamount>300 DOGE</minamount>
+                <maxamount>20000 DOGE</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>DOGE</from>
+          		<to>PRUSD</to>
+          		<in>16.33418164</in>
+          		<out>1</out>
+          		<amount>3577.9000054772</amount>
+                                <minamount>300 DOGE</minamount>
+                <maxamount>20000 DOGE</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>DOGE</from>
+          		<to>P24UAH</to>
+          		<in>1</in>
+          		<out>2.270681</out>
+          		<amount>3008125</amount>
+                                <minamount>2201.99 DOGE</minamount>
+                <maxamount>20000 DOGE</maxamount>
+                                
+                                    <param>floating, otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>DOGE</from>
+          		<to>TRX</to>
+          		<in>1.45507767</in>
+          		<out>1</out>
+          		<amount>9154.1541999987</amount>
+                                <minamount>1455.08 DOGE</minamount>
+                <maxamount>20000 DOGE</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>DOGE</from>
+          		<to>MONOBUAH</to>
+          		<in>1</in>
+          		<out>2.268204</out>
+          		<amount>3232013</amount>
+                                <minamount>2204.39 DOGE</minamount>
+                <maxamount>20000 DOGE</maxamount>
+                                
+                                    <param>floating, otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>DOGE</from>
+          		<to>ADVCRUB</to>
+          		<in>1</in>
+          		<out>5.940104</out>
+          		<amount>532922.13000007</amount>
+                                <minamount>300 DOGE</minamount>
+                <maxamount>20000 DOGE</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>DOGE</from>
+          		<to>ADVCEUR</to>
+          		<in>17.46321798</in>
+          		<out>1</out>
+          		<amount>5642.1599999992</amount>
+                                <minamount>300 DOGE</minamount>
+                <maxamount>20000 DOGE</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>DOGE</from>
+          		<to>ETH</to>
+          		<in>27802.4993</in>
+          		<out>1</out>
+          		<amount>0.091735846737</amount>
+                                <minamount>8340.75 DOGE</minamount>
+                <maxamount>20000 DOGE</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>DOGE</from>
+          		<to>PMEUR</to>
+          		<in>17.13</in>
+          		<out>1</out>
+          		<amount>66.160000000004</amount>
+                                <minamount>300 DOGE</minamount>
+                <maxamount>20000 DOGE</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>DOGE</from>
+          		<to>CARDUAH</to>
+          		<in>1</in>
+          		<out>2.270681</out>
+          		<amount>3125014</amount>
+                                <minamount>2201.99 DOGE</minamount>
+                <maxamount>20000 DOGE</maxamount>
+                                
+                                    <param>floating, otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ADVCEUR</from>
+          		<to>USDTTRC20</to>
+          		<in>1.01336975</in>
+          		<out>1</out>
+          		<amount>88044.918379016</amount>
+                                <minamount>141.88 EUR</minamount>
+                <maxamount>121604.37 EUR</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>ADVCEUR</from>
+          		<to>PMUSD</to>
+          		<in>1</in>
+          		<out>1.01386</out>
+          		<amount>29200.530063228</amount>
+                                <minamount>1 EUR</minamount>
+                <maxamount>986329.47 EUR</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>ADVCEUR</from>
+          		<to>TCSBRUB</to>
+          		<in>1</in>
+          		<out>99.2769</out>
+          		<amount>14951186</amount>
+                                <minamount>196.43 EUR</minamount>
+                <maxamount>4331.31 EUR</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>ADVCEUR</from>
+          		<to>LTC</to>
+          		<in>63.4864</in>
+          		<out>1</out>
+          		<amount>0.75276277997993</amount>
+                                <minamount>6.35 EUR</minamount>
+                <maxamount>6348.64 EUR</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ADVCEUR</from>
+          		<to>XMR</to>
+          		<in>142.5395</in>
+          		<out>1</out>
+          		<amount>28.600825640391</amount>
+                                <minamount>28.51 EUR</minamount>
+                <maxamount>14253.95 EUR</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ADVCEUR</from>
+          		<to>BTC</to>
+          		<in>26253.39</in>
+          		<out>1</out>
+          		<amount>0.1396790000012</amount>
+                                <minamount>288.79 EUR</minamount>
+                <maxamount>52506.78 EUR</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ADVCEUR</from>
+          		<to>KSPBKZT</to>
+          		<in>1</in>
+          		<out>469.5677</out>
+          		<amount>23677226</amount>
+                                <minamount>170.37 EUR</minamount>
+                <maxamount>50423.45 EUR</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>ADVCEUR</from>
+          		<to>USDTERC20</to>
+          		<in>0.98543981</in>
+          		<out>1</out>
+          		<amount>220.240796</amount>
+                                <minamount>492.72 EUR</minamount>
+                <maxamount>98543.98 EUR</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>ADVCEUR</from>
+          		<to>PRRUB</to>
+          		<in>1</in>
+          		<out>98.1833</out>
+          		<amount>220101.37003238</amount>
+                                <minamount>1 EUR</minamount>
+                <maxamount>10185.03 EUR</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>ADVCEUR</from>
+          		<to>ADVCUSD</to>
+          		<in>0.98633</in>
+          		<out>1</out>
+          		<amount>5120.9200502831</amount>
+                                <minamount>1 EUR</minamount>
+                <maxamount>986330 EUR</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>ADVCEUR</from>
+          		<to>PRUSD</to>
+          		<in>0.953831</in>
+          		<out>1</out>
+          		<amount>3577.9000054772</amount>
+                                <minamount>9.54 EUR</minamount>
+                <maxamount>953831 EUR</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>ADVCEUR</from>
+          		<to>P24UAH</to>
+          		<in>1</in>
+          		<out>35.8935</out>
+          		<amount>3008125</amount>
+                                <minamount>139.31 EUR</minamount>
+                <maxamount>5572.03 EUR</maxamount>
+                                
+                                    <param>otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ADVCEUR</from>
+          		<to>TRX</to>
+          		<in>1</in>
+          		<out>11.57817</out>
+          		<amount>9154.1541999987</amount>
+                                <minamount>86.37 EUR</minamount>
+                <maxamount>8636.94 EUR</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ADVCEUR</from>
+          		<to>DOGE</to>
+          		<in>1</in>
+          		<out>16.58137089</out>
+          		<amount>39668.10065054</amount>
+                                <minamount>18.10 EUR</minamount>
+                <maxamount>60308.64 EUR</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ADVCEUR</from>
+          		<to>MONOBUAH</to>
+          		<in>1</in>
+          		<out>35.8399</out>
+          		<amount>3232013</amount>
+                                <minamount>139.51 EUR</minamount>
+                <maxamount>5580.37 EUR</maxamount>
+                                
+                                    <param>otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ADVCEUR</from>
+          		<to>ADVCRUB</to>
+          		<in>1</in>
+          		<out>94.2224</out>
+          		<amount>532922.13000007</amount>
+                                <minamount>1 EUR</minamount>
+                <maxamount>10613.18 EUR</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>ADVCEUR</from>
+          		<to>ETH</to>
+          		<in>1639.67</in>
+          		<out>1</out>
+          		<amount>0.091735846737</amount>
+                                <minamount>491.91 EUR</minamount>
+                <maxamount>98380.20 EUR</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ADVCEUR</from>
+          		<to>PMEUR</to>
+          		<in>0.98</in>
+          		<out>1</out>
+          		<amount>66.160000000004</amount>
+                                <minamount>1 EUR</minamount>
+                <maxamount>980000 EUR</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>ADVCEUR</from>
+          		<to>CARDUAH</to>
+          		<in>1</in>
+          		<out>35.8935</out>
+          		<amount>3125014</amount>
+                                <minamount>139.31 EUR</minamount>
+                <maxamount>5572.03 EUR</maxamount>
+                                
+                                    <param>otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ETH</from>
+          		<to>USDTTRC20</to>
+          		<in>1</in>
+          		<out>1637.38481</out>
+          		<amount>88044.918379016</amount>
+                                <minamount>0.3 ETH</minamount>
+                <maxamount>5 ETH</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ETH</from>
+          		<to>PMUSD</to>
+          		<in>1</in>
+          		<out>1701.06</out>
+          		<amount>29200.530063228</amount>
+                                <minamount>0.3 ETH</minamount>
+                <maxamount>5 ETH</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ETH</from>
+          		<to>TCSBRUB</to>
+          		<in>1</in>
+          		<out>162412.26</out>
+          		<amount>14951186</amount>
+                                <minamount>0.3 ETH</minamount>
+                <maxamount>2.64758337 ETH</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ETH</from>
+          		<to>LTC</to>
+          		<in>1</in>
+          		<out>24.966801</out>
+          		<amount>0.75276277997993</amount>
+                                <minamount>0.3 ETH</minamount>
+                <maxamount>4.00531890 ETH</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ETH</from>
+          		<to>XMR</to>
+          		<in>1</in>
+          		<out>11.26621922</out>
+          		<amount>28.600825640391</amount>
+                                <minamount>0.3 ETH</minamount>
+                <maxamount>5 ETH</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ETH</from>
+          		<to>BTC</to>
+          		<in>16.430144</in>
+          		<out>1</out>
+          		<amount>0.1396790000012</amount>
+                                <minamount>0.3 ETH</minamount>
+                <maxamount>5 ETH</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ETH</from>
+          		<to>KSPBKZT</to>
+          		<in>1</in>
+          		<out>790189</out>
+          		<amount>23677226</amount>
+                                <minamount>0.3 ETH</minamount>
+                <maxamount>5 ETH</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ETH</from>
+          		<to>USDTERC20</to>
+          		<in>1</in>
+          		<out>1589.281804</out>
+          		<amount>220.240796</amount>
+                                <minamount>0.31460752 ETH</minamount>
+                <maxamount>5 ETH</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ETH</from>
+          		<to>PRRUB</to>
+          		<in>1</in>
+          		<out>162532.2</out>
+          		<amount>220101.37003238</amount>
+                                <minamount>0.3 ETH</minamount>
+                <maxamount>5 ETH</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ETH</from>
+          		<to>ADVCUSD</to>
+          		<in>1</in>
+          		<out>1655.0868</out>
+          		<amount>5120.9200502831</amount>
+                                <minamount>0.3 ETH</minamount>
+                <maxamount>5 ETH</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ETH</from>
+          		<to>PRUSD</to>
+          		<in>1</in>
+          		<out>1648.8021</out>
+          		<amount>3577.9000054772</amount>
+                                <minamount>0.3 ETH</minamount>
+                <maxamount>5 ETH</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ETH</from>
+          		<to>P24UAH</to>
+          		<in>1</in>
+          		<out>62018.68</out>
+          		<amount>3008125</amount>
+                                <minamount>0.3 ETH</minamount>
+                <maxamount>3.22483484 ETH</maxamount>
+                                
+                                    <param>floating, otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ETH</from>
+          		<to>TRX</to>
+          		<in>1</in>
+          		<out>18513.2525</out>
+          		<amount>9154.1541999987</amount>
+                                <minamount>0.3 ETH</minamount>
+                <maxamount>5 ETH</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ETH</from>
+          		<to>DOGE</to>
+          		<in>1</in>
+          		<out>26508.5714</out>
+          		<amount>39668.10065054</amount>
+                                <minamount>0.3 ETH</minamount>
+                <maxamount>5 ETH</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ETH</from>
+          		<to>MONOBUAH</to>
+          		<in>1</in>
+          		<out>62018.68</out>
+          		<amount>3232013</amount>
+                                <minamount>0.3 ETH</minamount>
+                <maxamount>3.22483484 ETH</maxamount>
+                                
+                                    <param>floating, otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ETH</from>
+          		<to>ADVCRUB</to>
+          		<in>1</in>
+          		<out>162892.47</out>
+          		<amount>532922.13000007</amount>
+                                <minamount>0.3 ETH</minamount>
+                <maxamount>5 ETH</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ETH</from>
+          		<to>ADVCEUR</to>
+          		<in>1</in>
+          		<out>1560.1072</out>
+          		<amount>5642.1599999992</amount>
+                                <minamount>0.3 ETH</minamount>
+                <maxamount>5 ETH</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ETH</from>
+          		<to>PMEUR</to>
+          		<in>1</in>
+          		<out>1583.22</out>
+          		<amount>66.160000000004</amount>
+                                <minamount>0.3 ETH</minamount>
+                <maxamount>5 ETH</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>ETH</from>
+          		<to>CARDUAH</to>
+          		<in>1</in>
+          		<out>62018.68</out>
+          		<amount>3125014</amount>
+                                <minamount>0.3 ETH</minamount>
+                <maxamount>3.22483484 ETH</maxamount>
+                                
+                                    <param>floating, otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PMEUR</from>
+          		<to>USDTTRC20</to>
+          		<in>1.15</in>
+          		<out>1</out>
+          		<amount>88044.918379016</amount>
+                                <minamount>161 EUR</minamount>
+                <maxamount>138000 EUR</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PMEUR</from>
+          		<to>PMUSD</to>
+          		<in>1.07</in>
+          		<out>1</out>
+          		<amount>29200.530063228</amount>
+                                <minamount>2 EUR</minamount>
+                <maxamount>1000000 EUR</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PMEUR</from>
+          		<to>TCSBRUB</to>
+          		<in>1</in>
+          		<out>96.46</out>
+          		<amount>14951186</amount>
+                                <minamount>202.16 EUR</minamount>
+                <maxamount>4457.80 EUR</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PMEUR</from>
+          		<to>LTC</to>
+          		<in>69.67</in>
+          		<out>1</out>
+          		<amount>0.75276277997993</amount>
+                                <minamount>6.97 EUR</minamount>
+                <maxamount>6967 EUR</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PMEUR</from>
+          		<to>XMR</to>
+          		<in>149.22</in>
+          		<out>1</out>
+          		<amount>28.600825640391</amount>
+                                <minamount>29.85 EUR</minamount>
+                <maxamount>14922 EUR</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PMEUR</from>
+          		<to>BTC</to>
+          		<in>27619.21</in>
+          		<out>1</out>
+          		<amount>0.1396790000012</amount>
+                                <minamount>303.82 EUR</minamount>
+                <maxamount>55238.42 EUR</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PMEUR</from>
+          		<to>USDTERC20</to>
+          		<in>1.07</in>
+          		<out>1</out>
+          		<amount>220.240796</amount>
+                                <minamount>535 EUR</minamount>
+                <maxamount>107000 EUR</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PMEUR</from>
+          		<to>PRRUB</to>
+          		<in>1</in>
+          		<out>96.63</out>
+          		<amount>220101.37003238</amount>
+                                <minamount>2 EUR</minamount>
+                <maxamount>10348.75 EUR</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PMEUR</from>
+          		<to>ADVCUSD</to>
+          		<in>1.08</in>
+          		<out>1</out>
+          		<amount>5120.9200502831</amount>
+                                <minamount>2 EUR</minamount>
+                <maxamount>1000000 EUR</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PMEUR</from>
+          		<to>PRUSD</to>
+          		<in>1.08</in>
+          		<out>1</out>
+          		<amount>3577.9000054772</amount>
+                                <minamount>10.80 EUR</minamount>
+                <maxamount>1000000 EUR</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PMEUR</from>
+          		<to>P24UAH</to>
+          		<in>1</in>
+          		<out>33.71</out>
+          		<amount>3008125</amount>
+                                <minamount>148.33 EUR</minamount>
+                <maxamount>5932.95 EUR</maxamount>
+                                
+                                    <param>otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PMEUR</from>
+          		<to>TRX</to>
+          		<in>1</in>
+          		<out>11.02</out>
+          		<amount>9154.1541999987</amount>
+                                <minamount>90.75 EUR</minamount>
+                <maxamount>9074.41 EUR</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PMEUR</from>
+          		<to>DOGE</to>
+          		<in>1</in>
+          		<out>15.26</out>
+          		<amount>39668.10065054</amount>
+                                <minamount>19.66 EUR</minamount>
+                <maxamount>65530.79 EUR</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PMEUR</from>
+          		<to>MONOBUAH</to>
+          		<in>1</in>
+          		<out>33.71</out>
+          		<amount>3232013</amount>
+                                <minamount>148.33 EUR</minamount>
+                <maxamount>5932.95 EUR</maxamount>
+                                
+                                    <param>otherout</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PMEUR</from>
+          		<to>ADVCRUB</to>
+          		<in>1</in>
+          		<out>94.4</out>
+          		<amount>532922.13000007</amount>
+                                <minamount>2 EUR</minamount>
+                <maxamount>10593.22 EUR</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PMEUR</from>
+          		<to>ADVCEUR</to>
+          		<in>1.14</in>
+          		<out>1</out>
+          		<amount>5642.1599999992</amount>
+                                <minamount>2 EUR</minamount>
+                <maxamount>1000000 EUR</maxamount>
+                                
+                                                        </item>
+                    <item>
+                                
+                                                <from>PMEUR</from>
+          		<to>ETH</to>
+          		<in>1719.24</in>
+          		<out>1</out>
+          		<amount>0.091735846737</amount>
+                                <minamount>515.78 EUR</minamount>
+                <maxamount>103154.40 EUR</maxamount>
+                                
+                                    <param>floating</param>
+                                                            </item>
+                    <item>
+                                
+                                                <from>PMEUR</from>
+          		<to>CARDUAH</to>
+          		<in>1</in>
+          		<out>33.71</out>
+          		<amount>3125014</amount>
+                                <minamount>148.33 EUR</minamount>
+                <maxamount>5932.95 EUR</maxamount>
+                                
+                                    <param>otherout</param>
+                                                            </item>
+            </rates>

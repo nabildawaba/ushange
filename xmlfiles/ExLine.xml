@@ -1,0 +1,1351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<rates>
+			<item>
+					<from>SBERRUB</from>
+						<to>PMUSD</to>
+						<in>97.972</in>
+						<out>1</out>
+						<amount>5759.0998</amount>
+						<minamount>1000 RUB</minamount>
+						<maxamount>97972.0002 RUB</maxamount>
+					</item>
+				<item>
+					<from>QWRUB</from>
+						<to>PMUSD</to>
+						<in>106.7098</in>
+						<out>1</out>
+						<amount>5759.0998</amount>
+						<minamount>2000 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>TCSBRUB</from>
+						<to>PMUSD</to>
+						<in>99.5324</in>
+						<out>1</out>
+						<amount>5759.0998</amount>
+						<minamount>1000 RUB</minamount>
+						<maxamount>99532.3998 RUB</maxamount>
+					</item>
+				<item>
+					<from>YAMRUB</from>
+						<to>PMUSD</to>
+						<in>103.9995</in>
+						<out>1</out>
+						<amount>5759.0998</amount>
+						<minamount>519.9975 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>PRRUB</from>
+						<to>YAMRUB</to>
+						<in>1.0709</in>
+						<out>1</out>
+						<amount>193453.2672</amount>
+						<minamount>5354.5 RUB</minamount>
+						<maxamount>100000 RUB</maxamount>
+					</item>
+				<item>
+					<from>PRRUB</from>
+						<to>ADVCRUB</to>
+						<in>1.008</in>
+						<out>1</out>
+						<amount>96916.2975</amount>
+						<minamount>100 RUB</minamount>
+						<maxamount>50000 RUB</maxamount>
+					</item>
+				<item>
+					<from>CARDRUB</from>
+						<to>PRRUB</to>
+						<in>1.0499</in>
+						<out>1</out>
+						<amount>494695.7119</amount>
+						<minamount>1000 RUB</minamount>
+						<maxamount>104990 RUB</maxamount>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>SBERRUB</to>
+						<in>1</in>
+						<out>2608152.5221</out>
+						<amount>1564212.9324</amount>
+						<minamount>0.003834 BTC</minamount>
+						<maxamount>0.057512 BTC</maxamount>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>SBERRUB</to>
+						<in>1</in>
+						<out>6379.6694</out>
+						<amount>1564212.9324</amount>
+						<minamount>0.78374 LTC</minamount>
+						<maxamount>15.674793 LTC</maxamount>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>TCSBRUB</to>
+						<in>1</in>
+						<out>2603152.5221</out>
+						<amount>1565233.4348</amount>
+						<minamount>0.003841 BTC</minamount>
+						<maxamount>0.057622 BTC</maxamount>
+					</item>
+				<item>
+					<from>QWRUB</from>
+						<to>SBERRUB</to>
+						<in>1.16</in>
+						<out>1</out>
+						<amount>1564212.9324</amount>
+						<minamount>2321.16 RUB</minamount>
+						<maxamount>155000 RUB</maxamount>
+					</item>
+				<item>
+					<from>QWRUB</from>
+						<to>TCSBRUB</to>
+						<in>1.16</in>
+						<out>1</out>
+						<amount>1051893.493</amount>
+						<minamount>2320 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>CARDRUB</to>
+						<in>1</in>
+						<out>2531445.3069</out>
+						<amount>1564212.9324</amount>
+						<minamount>0.00395 BTC</minamount>
+						<maxamount>0.059255 BTC</maxamount>
+					</item>
+				<item>
+					<from>TRX</from>
+						<to>SBERRUB</to>
+						<in>1</in>
+						<out>8.5933</out>
+						<amount>1564212.9324</amount>
+						<minamount>465.4789 TRX</minamount>
+						<maxamount>11636.973 TRX</maxamount>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>ACRUB</to>
+						<in>1</in>
+						<out>2547625.3646</out>
+						<amount>1226933.0454</amount>
+						<minamount>0.003925 BTC</minamount>
+						<maxamount>0.058878 BTC</maxamount>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>TCSBRUB</to>
+						<in>1</in>
+						<out>6365.9629</out>
+						<amount>1565233.4348</amount>
+						<minamount>0.314171 LTC</minamount>
+						<maxamount>15.708543 LTC</maxamount>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>UZCUZS</to>
+						<in>1</in>
+						<out>772861.35</out>
+						<amount>5316.19</amount>
+						<maxamount>0 LTC</maxamount>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>HUMOUZS</to>
+						<in>1</in>
+						<out>775873.16</out>
+						<amount>5316.19</amount>
+						<maxamount>0 LTC</maxamount>
+					</item>
+				<item>
+					<from>TRX</from>
+						<to>TCSBRUB</to>
+						<in>1</in>
+						<out>8.5908</out>
+						<amount>1565233.4348</amount>
+						<minamount>523.8162 TRX</minamount>
+						<maxamount>11640.3595 TRX</maxamount>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>TBRUB</to>
+						<in>1</in>
+						<out>2594332.4241</out>
+						<amount>1569058.483</amount>
+						<minamount>0.003855 BTC</minamount>
+						<maxamount>0.057818 BTC</maxamount>
+					</item>
+				<item>
+					<from>TRX</from>
+						<to>CARDRUB</to>
+						<in>1</in>
+						<out>8.4867</out>
+						<amount>1564212.9324</amount>
+						<minamount>589.1572 TRX</minamount>
+						<maxamount>11783.143 TRX</maxamount>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>YAMRUB</to>
+						<in>1</in>
+						<out>2507970.3583</out>
+						<amount>193453.2672</amount>
+						<minamount>0.003987 BTC</minamount>
+						<maxamount>0.007975 BTC</maxamount>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>ADVCUSD</to>
+						<in>1</in>
+						<out>26689.45</out>
+						<amount>2915.3322</amount>
+						<minamount>0.003747 BTC</minamount>
+						<maxamount>0.074936 BTC</maxamount>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>ADVCUSD</to>
+						<in>1</in>
+						<out>0.9879</out>
+						<amount>2915.3322</amount>
+						<minamount>41 USDT</minamount>
+						<maxamount>809.7986 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTBEP20</from>
+						<to>SBERRUB</to>
+						<in>1</in>
+						<out>97.026</out>
+						<amount>1564212.9324</amount>
+						<minamount>100 USDT</minamount>
+						<maxamount>1030.6516 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>UZCUZS</to>
+						<in>1</in>
+						<out>11931.57</out>
+						<amount>5316.19</amount>
+						<maxamount>0 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>HUMOUZS</to>
+						<in>1</in>
+						<out>11931.57</out>
+						<amount>5261.66</amount>
+						<maxamount>0 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>UZCUZS</to>
+						<in>1</in>
+						<out>11322.82</out>
+						<amount>5316.19</amount>
+						<maxamount>0 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>HUMOUZS</to>
+						<in>1</in>
+						<out>10592.31</out>
+						<amount>5316.19</amount>
+						<maxamount>0 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>ADVCUSD</to>
+						<in>1</in>
+						<out>0.9956</out>
+						<amount>2915.3322</amount>
+						<minamount>11 USDT</minamount>
+						<maxamount>1500 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>1.0158</out>
+						<amount>5759.0998</amount>
+						<minamount>11 USDT</minamount>
+						<maxamount>2000 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>TCSBRUB</to>
+						<in>1</in>
+						<out>96.8795</out>
+						<amount>1569058.483</amount>
+						<minamount>20.6442 USDT</minamount>
+						<maxamount>1500 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTBEP20</from>
+						<to>TCSBRUB</to>
+						<in>1</in>
+						<out>97.026</out>
+						<amount>1565233.4348</amount>
+						<minamount>100 USDT</minamount>
+						<maxamount>1030.6516 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>SBERRUB</to>
+						<in>1</in>
+						<out>96.8795</out>
+						<amount>1045195.765</amount>
+						<minamount>20.6442 USDT</minamount>
+						<maxamount>1548.3152 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>YAMRUB</to>
+						<in>1</in>
+						<out>96.1801</out>
+						<amount>1555781.76</amount>
+						<minamount>20.7943 USDT</minamount>
+						<maxamount>155.9574 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTBEP20</from>
+						<to>YAMRUB</to>
+						<in>1</in>
+						<out>93.0954</out>
+						<amount>193453.2672</amount>
+						<minamount>21.4833 USDT</minamount>
+						<maxamount>1074.1669 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CARDRUB</to>
+						<in>1</in>
+						<out>95.9847</out>
+						<amount>1569058.483</amount>
+						<minamount>20.8367 USDT</minamount>
+						<maxamount>2604.5818 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTBEP20</from>
+						<to>CARDRUB</to>
+						<in>1</in>
+						<out>96.033</out>
+						<amount>1564212.9324</amount>
+						<minamount>100 USDT</minamount>
+						<maxamount>1041.3087 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>CARDRUB</to>
+						<in>1</in>
+						<out>96.1297</out>
+						<amount>1564212.9324</amount>
+						<minamount>100 USDT</minamount>
+						<maxamount>1040.2612 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>ADVCRUB</to>
+						<in>1</in>
+						<out>97.81</out>
+						<amount>96916.2975</amount>
+						<minamount>10 USDT</minamount>
+						<maxamount>990.8629 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>TCSBRUB</to>
+						<in>1</in>
+						<out>97.2215</out>
+						<amount>1565233.4348</amount>
+						<minamount>100 USDT</minamount>
+						<maxamount>1028.5791 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>SBERRUB</to>
+						<in>1</in>
+						<out>97.3192</out>
+						<amount>1564212.9324</amount>
+						<minamount>100 USDT</minamount>
+						<maxamount>1027.5465 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>KSPBKZT</to>
+						<in>1</in>
+						<out>468</out>
+						<amount>4393153</amount>
+						<minamount>53.4188 USDT</minamount>
+						<maxamount>2500 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>FRTBKZT</to>
+						<in>1</in>
+						<out>468</out>
+						<amount>4393153</amount>
+						<minamount>53.4188 USDT</minamount>
+						<maxamount>2500 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>HLKBKZT</to>
+						<in>1</in>
+						<out>468</out>
+						<amount>2166067</amount>
+						<minamount>53.4188 USDT</minamount>
+						<maxamount>2500 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTBEP20</from>
+						<to>HLKBKZT</to>
+						<in>1</in>
+						<out>468</out>
+						<amount>2166067</amount>
+						<minamount>53.4188 USDT</minamount>
+						<maxamount>2500 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTBEP20</from>
+						<to>FRTBKZT</to>
+						<in>1</in>
+						<out>468</out>
+						<amount>4393153</amount>
+						<minamount>53.4188 USDT</minamount>
+						<maxamount>2500 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTBEP20</from>
+						<to>KSPBKZT</to>
+						<in>1</in>
+						<out>468</out>
+						<amount>4393153</amount>
+						<minamount>53.4188 USDT</minamount>
+						<maxamount>2500 USDT</maxamount>
+					</item>
+				<item>
+					<from>KSPBKZT</from>
+						<to>USDTTRC20</to>
+						<in>506.12</in>
+						<out>1</out>
+						<amount>8655.4237</amount>
+						<minamount>25000 KZT</minamount>
+						<maxamount>1012746.13 KZT</maxamount>
+					</item>
+				<item>
+					<from>HLKBKZT</from>
+						<to>USDTTRC20</to>
+						<in>506.12</in>
+						<out>1</out>
+						<amount>8655.4237</amount>
+						<minamount>25000 KZT</minamount>
+						<maxamount>1012240.01 KZT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>ACRUB</to>
+						<in>1</in>
+						<out>96.2685</out>
+						<amount>1570317.214</amount>
+						<minamount>20.7752 USDT</minamount>
+						<maxamount>1558.1421 USDT</maxamount>
+					</item>
+				<item>
+					<from>KSPBKZT</from>
+						<to>BTC</to>
+						<in>13788645.15</in>
+						<out>1</out>
+						<amount>0.59524</amount>
+						<minamount>10000 KZT</minamount>
+						<maxamount>2000000 KZT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>TBRUB</to>
+						<in>1</in>
+						<out>96.2685</out>
+						<amount>562949.659</amount>
+						<minamount>20.7752 USDT</minamount>
+						<maxamount>1558.1421 USDT</maxamount>
+					</item>
+				<item>
+					<from>CARDRUB</from>
+						<to>BTC</to>
+						<in>2807680.0406</in>
+						<out>1</out>
+						<amount>0.59524</amount>
+						<minamount>2000 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>CARDRUB</from>
+						<to>ADVCUSD</to>
+						<in>101.8982</in>
+						<out>1</out>
+						<amount>2915.3322</amount>
+						<minamount>1018.982 RUB</minamount>
+						<maxamount>101898.2004 RUB</maxamount>
+					</item>
+				<item>
+					<from>CARDRUB</from>
+						<to>ADVCRUB</to>
+						<in>1.0633</in>
+						<out>1</out>
+						<amount>96916.2975</amount>
+						<minamount>2000 RUB</minamount>
+						<maxamount>53165 RUB</maxamount>
+					</item>
+				<item>
+					<from>CARDRUB</from>
+						<to>USDTTRC20</to>
+						<in>103.0935</in>
+						<out>1</out>
+						<amount>8655.4237</amount>
+						<minamount>6000 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>CARDRUB</from>
+						<to>USDTBEP20</to>
+						<in>102.9921</in>
+						<out>1</out>
+						<amount>1600.0407</amount>
+						<minamount>6000 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>CARDRUB</from>
+						<to>BCH</to>
+						<in>24175.9987</in>
+						<out>1</out>
+						<amount>29.9965</amount>
+						<minamount>5000 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>SBERRUB</from>
+						<to>BCH</to>
+						<in>24223.7302</in>
+						<out>1</out>
+						<amount>29.9965</amount>
+						<minamount>5000 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>TCSBRUB</from>
+						<to>BCH</to>
+						<in>24175.9987</in>
+						<out>1</out>
+						<amount>29.9965</amount>
+						<minamount>5000 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>TCSBRUB</from>
+						<to>BTC</to>
+						<in>2791845.1935</in>
+						<out>1</out>
+						<amount>0.59524</amount>
+						<minamount>2000 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>OPNBRUB</from>
+						<to>BTC</to>
+						<in>2841897.8501</in>
+						<out>1</out>
+						<amount>0.59524</amount>
+						<minamount>3000 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>SBERRUB</from>
+						<to>LTC</to>
+						<in>6679.2241</in>
+						<out>1</out>
+						<amount>49.552498</amount>
+						<minamount>1000 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>SBERRUB</from>
+						<to>BTC</to>
+						<in>2792498.4608</in>
+						<out>1</out>
+						<amount>0.59524</amount>
+						<minamount>2000 RUB</minamount>
+						<maxamount>250000 RUB</maxamount>
+					</item>
+				<item>
+					<from>TBRUB</from>
+						<to>BTC</to>
+						<in>2792500.4608</in>
+						<out>1</out>
+						<amount>0.59524</amount>
+						<minamount>3000 RUB</minamount>
+						<maxamount>149000 RUB</maxamount>
+					</item>
+				<item>
+					<from>ACRUB</from>
+						<to>BTC</to>
+						<in>2782432.7879</in>
+						<out>1</out>
+						<amount>0.59524</amount>
+						<minamount>3000 RUB</minamount>
+						<maxamount>100000 RUB</maxamount>
+					</item>
+				<item>
+					<from>GPBRUB</from>
+						<to>BTC</to>
+						<in>2826417.4704</in>
+						<out>1</out>
+						<amount>0.59524</amount>
+						<minamount>3000 RUB</minamount>
+						<maxamount>149000 RUB</maxamount>
+					</item>
+				<item>
+					<from>TCSBRUB</from>
+						<to>LTC</to>
+						<in>6678.9684</in>
+						<out>1</out>
+						<amount>49.428614</amount>
+						<minamount>1000 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>ACRUB</from>
+						<to>LTC</to>
+						<in>6728.1817</in>
+						<out>1</out>
+						<amount>49.428614</amount>
+						<minamount>1000 RUB</minamount>
+						<maxamount>100000 RUB</maxamount>
+					</item>
+				<item>
+					<from>CARDRUB</from>
+						<to>LTC</to>
+						<in>6741.4963</in>
+						<out>1</out>
+						<amount>49.428614</amount>
+						<minamount>1000 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>TCSBRUB</from>
+						<to>SBERRUB</to>
+						<in>1.0473</in>
+						<out>1</out>
+						<amount>1564212.9324</amount>
+						<minamount>5236.5 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>POSTBRUB</from>
+						<to>BTC</to>
+						<in>2868551.4962</in>
+						<out>1</out>
+						<amount>0.59524</amount>
+						<minamount>3000 RUB</minamount>
+						<maxamount>149000 RUB</maxamount>
+					</item>
+				<item>
+					<from>YAMRUB</from>
+						<to>BTC</to>
+						<in>2808655.8346</in>
+						<out>1</out>
+						<amount>0.59524</amount>
+						<minamount>3000 RUB</minamount>
+						<maxamount>72000 RUB</maxamount>
+					</item>
+				<item>
+					<from>YAMRUB</from>
+						<to>USDTTRC20</to>
+						<in>103.195</in>
+						<out>1</out>
+						<amount>8655.4237</amount>
+						<minamount>6000 RUB</minamount>
+						<maxamount>72000 RUB</maxamount>
+					</item>
+				<item>
+					<from>SBERRUB</from>
+						<to>TCSBRUB</to>
+						<in>1.0431</in>
+						<out>1</out>
+						<amount>483962.593</amount>
+						<minamount>2086.2 RUB</minamount>
+						<maxamount>104310 RUB</maxamount>
+					</item>
+				<item>
+					<from>YAMRUB</from>
+						<to>USDTBEP20</to>
+						<in>104.5141</in>
+						<out>1</out>
+						<amount>1600.2407</amount>
+						<minamount>5000 RUB</minamount>
+						<maxamount>72000 RUB</maxamount>
+					</item>
+				<item>
+					<from>OPNBRUB</from>
+						<to>USDTTRC20</to>
+						<in>102.69</in>
+						<out>1</out>
+						<amount>8655.4237</amount>
+						<minamount>6000 RUB</minamount>
+						<maxamount>102690.0005 RUB</maxamount>
+					</item>
+				<item>
+					<from>OPNBRUB</from>
+						<to>USDTBEP20</to>
+						<in>103.4994</in>
+						<out>1</out>
+						<amount>1600.0407</amount>
+						<minamount>6000 RUB</minamount>
+						<maxamount>59000 RUB</maxamount>
+					</item>
+				<item>
+					<from>RFBRUB</from>
+						<to>USDTTRC20</to>
+						<in>103.4994</in>
+						<out>1</out>
+						<amount>8655.4237</amount>
+						<minamount>6000 RUB</minamount>
+						<maxamount>103499.3996 RUB</maxamount>
+					</item>
+				<item>
+					<from>GPBRUB</from>
+						<to>USDTTRC20</to>
+						<in>102.9921</in>
+						<out>1</out>
+						<amount>8655.4237</amount>
+						<minamount>6000 RUB</minamount>
+						<maxamount>102992.0997 RUB</maxamount>
+					</item>
+				<item>
+					<from>RNKBRUB</from>
+						<to>USDTTRC20</to>
+						<in>102.74</in>
+						<out>1</out>
+						<amount>8655.4237</amount>
+						<minamount>6000 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>SBERRUB</from>
+						<to>YAMRUB</to>
+						<in>1.1099</in>
+						<out>1</out>
+						<amount>193453.2672</amount>
+						<minamount>5549.5 RUB</minamount>
+						<maxamount>110990 RUB</maxamount>
+					</item>
+				<item>
+					<from>QWRUB</from>
+						<to>LTC</to>
+						<in>7697.753</in>
+						<out>1</out>
+						<amount>49.552498</amount>
+						<minamount>2000 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>PRRUB</from>
+						<to>LTC</to>
+						<in>6572.7715</in>
+						<out>1</out>
+						<amount>49.547498</amount>
+						<minamount>1000 RUB</minamount>
+						<maxamount>50000 RUB</maxamount>
+					</item>
+				<item>
+					<from>RFBRUB</from>
+						<to>BTC</to>
+						<in>2793850.1</in>
+						<out>1</out>
+						<amount>0.59524</amount>
+						<minamount>3000 RUB</minamount>
+						<maxamount>149000 RUB</maxamount>
+					</item>
+				<item>
+					<from>SBERRUB</from>
+						<to>USDTTRC20</to>
+						<in>102.6876</in>
+						<out>1</out>
+						<amount>8655.4237</amount>
+						<minamount>6000 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>SBERRUB</from>
+						<to>TRX</to>
+						<in>8.968</in>
+						<out>1</out>
+						<amount>11114.1718</amount>
+						<minamount>1345.2 RUB</minamount>
+						<maxamount>99671.8927 RUB</maxamount>
+					</item>
+				<item>
+					<from>TCSBRUB</from>
+						<to>TRX</to>
+						<in>8.9576</in>
+						<out>1</out>
+						<amount>11114.1718</amount>
+						<minamount>1343.64 RUB</minamount>
+						<maxamount>15000 RUB</maxamount>
+					</item>
+				<item>
+					<from>ACRUB</from>
+						<to>TRX</to>
+						<in>9.149</in>
+						<out>1</out>
+						<amount>11114.1718</amount>
+						<minamount>5000 RUB</minamount>
+						<maxamount>50000 RUB</maxamount>
+					</item>
+				<item>
+					<from>CARDRUB</from>
+						<to>TRX</to>
+						<in>9.1109</in>
+						<out>1</out>
+						<amount>11114.1718</amount>
+						<minamount>1366.635 RUB</minamount>
+						<maxamount>59000 RUB</maxamount>
+					</item>
+				<item>
+					<from>TCSBRUB</from>
+						<to>USDTTRC20</to>
+						<in>102.9921</in>
+						<out>1</out>
+						<amount>8655.4237</amount>
+						<minamount>6000 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>YAMRUB</from>
+						<to>LTC</to>
+						<in>6767.6512</in>
+						<out>1</out>
+						<amount>49.552498</amount>
+						<minamount>1000 RUB</minamount>
+						<maxamount>72000 RUB</maxamount>
+					</item>
+				<item>
+					<from>ACRUB</from>
+						<to>USDTTRC20</to>
+						<in>102.9921</in>
+						<out>1</out>
+						<amount>8655.4237</amount>
+						<minamount>6000 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>YAMRUB</from>
+						<to>TRX</to>
+						<in>9.1745</in>
+						<out>1</out>
+						<amount>11114.1718</amount>
+						<minamount>1376.175 RUB</minamount>
+						<maxamount>72000 RUB</maxamount>
+					</item>
+				<item>
+					<from>TBRUB</from>
+						<to>USDTTRC20</to>
+						<in>103.195</in>
+						<out>1</out>
+						<amount>8655.4237</amount>
+						<minamount>6000 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>SBERRUB</from>
+						<to>USDTBEP20</to>
+						<in>102.9921</in>
+						<out>1</out>
+						<amount>1600.0407</amount>
+						<minamount>6500 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>TCSBRUB</from>
+						<to>USDTBEP20</to>
+						<in>102.9921</in>
+						<out>1</out>
+						<amount>1600.0407</amount>
+						<minamount>6500 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>RNKBRUB</from>
+						<to>BTC</to>
+						<in>2859111.828</in>
+						<out>1</out>
+						<amount>0.59524</amount>
+						<minamount>3000 RUB</minamount>
+						<maxamount>149000 RUB</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>USDTTRC20</to>
+						<in>1.0236</in>
+						<out>1</out>
+						<amount>8654.4237</amount>
+						<minamount>100 USD</minamount>
+						<maxamount>1500 USD</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>BTC</to>
+						<in>27099.9581</in>
+						<out>1</out>
+						<amount>0.59524</amount>
+						<minamount>400 USDT</minamount>
+						<maxamount>1000 USDT</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>USDTTRC20</to>
+						<in>1.0408</in>
+						<out>1</out>
+						<amount>8655.4237</amount>
+						<minamount>200 USD</minamount>
+						<maxamount>1000 USD</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>XMR</to>
+						<in>146.686</in>
+						<out>1</out>
+						<amount>99.995</amount>
+						<minamount>100 USDT</minamount>
+						<maxamount>2000 USDT</maxamount>
+						<param>floating</param>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>TRX</to>
+						<in>0.0896</in>
+						<out>1</out>
+						<amount>49999</amount>
+						<minamount>10 USDT</minamount>
+						<maxamount>2000 USDT</maxamount>
+						<param>floating</param>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>ETH</to>
+						<in>1711.1721</in>
+						<out>1</out>
+						<amount>4.205</amount>
+						<minamount>100 USDT</minamount>
+						<maxamount>2000 USDT</maxamount>
+						<param>floating</param>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>BTC</to>
+						<in>28652.6554</in>
+						<out>1</out>
+						<amount>0.59524</amount>
+						<minamount>25 USD</minamount>
+						<maxamount>2000 USD</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>ADVCUSD</to>
+						<in>1.047</in>
+						<out>1</out>
+						<amount>2915.3322</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>1000 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>1</out>
+						<amount>5759.0998</amount>
+						<minamount>1 USD</minamount>
+						<maxamount>1000 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>PRUSD</to>
+						<in>1</in>
+						<out>0.991</out>
+						<amount>442.0944</amount>
+						<minamount>1 USD</minamount>
+						<maxamount>446.1094 USD</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>YAMRUB</to>
+						<in>1</in>
+						<out>88.4712</out>
+						<amount>193453.2672</amount>
+						<minamount>56.5156 USD</minamount>
+						<maxamount>1000 USD</maxamount>
+					</item>
+				<item>
+					<from>QWRUB</from>
+						<to>ADVCUSD</to>
+						<in>107.8191</in>
+						<out>1</out>
+						<amount>2915.3322</amount>
+						<minamount>3000 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>PRRUB</to>
+						<in>1</in>
+						<out>92.6231</out>
+						<amount>492209.8038</amount>
+						<minamount>1 USD</minamount>
+						<maxamount>539.8221 USD</maxamount>
+					</item>
+				<item>
+					<from>SBERRUB</from>
+						<to>ADVCRUB</to>
+						<in>1.075</in>
+						<out>1</out>
+						<amount>96916.2975</amount>
+						<minamount>1000 RUB</minamount>
+						<maxamount>104185.0198 RUB</maxamount>
+					</item>
+				<item>
+					<from>QWRUB</from>
+						<to>USDTTRC20</to>
+						<in>110.1227</in>
+						<out>1</out>
+						<amount>8655.4237</amount>
+						<minamount>10000 RUB</minamount>
+						<maxamount>70000 RUB</maxamount>
+					</item>
+				<item>
+					<from>TCSBRUB</from>
+						<to>ADVCRUB</to>
+						<in>1.0326</in>
+						<out>1</out>
+						<amount>96916.2975</amount>
+						<minamount>1000 RUB</minamount>
+						<maxamount>15000 RUB</maxamount>
+					</item>
+				<item>
+					<from>TCSBRUB</from>
+						<to>ADVCUSD</to>
+						<in>101.5</in>
+						<out>1</out>
+						<amount>2915.3322</amount>
+						<minamount>1000 RUB</minamount>
+						<maxamount>101500.0005 RUB</maxamount>
+					</item>
+				<item>
+					<from>SBERRUB</from>
+						<to>ADVCUSD</to>
+						<in>100.7727</in>
+						<out>1</out>
+						<amount>2915.3322</amount>
+						<minamount>1000 RUB</minamount>
+						<maxamount>100772.6999 RUB</maxamount>
+					</item>
+				<item>
+					<from>ADVCRUB</from>
+						<to>ADVCUSD</to>
+						<in>101.9285</in>
+						<out>1</out>
+						<amount>2915.3322</amount>
+						<minamount>250 RUB</minamount>
+						<maxamount>100000 RUB</maxamount>
+					</item>
+				<item>
+					<from>YAMRUB</from>
+						<to>ADVCUSD</to>
+						<in>103.1676</in>
+						<out>1</out>
+						<amount>2915.3322</amount>
+						<minamount>1031.676 RUB</minamount>
+						<maxamount>72000 RUB</maxamount>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>USDTBEP20</to>
+						<in>1</in>
+						<out>26531.76</out>
+						<amount>1600.0407</amount>
+						<minamount>0.007538 BTC</minamount>
+						<maxamount>0.060307 BTC</maxamount>
+						<param>floating</param>
+					</item>
+				<item>
+					<from>QWRUB</from>
+						<to>PRUSD</to>
+						<in>111.2038</in>
+						<out>1</out>
+						<amount>442.0944</amount>
+						<minamount>2000 RUB</minamount>
+						<maxamount>49162.577 RUB</maxamount>
+					</item>
+				<item>
+					<from>SBERRUB</from>
+						<to>PRRUB</to>
+						<in>1.029</in>
+						<out>1</out>
+						<amount>492458.3946</amount>
+						<minamount>1000 RUB</minamount>
+						<maxamount>51450 RUB</maxamount>
+					</item>
+				<item>
+					<from>QWRUB</from>
+						<to>PRRUB</to>
+						<in>1.1648</in>
+						<out>1</out>
+						<amount>492458.3946</amount>
+						<minamount>2000 RUB</minamount>
+						<maxamount>116480 RUB</maxamount>
+					</item>
+				<item>
+					<from>SBERRUB</from>
+						<to>PRUSD</to>
+						<in>99</in>
+						<out>1</out>
+						<amount>442.0944</amount>
+						<minamount>1000 RUB</minamount>
+						<maxamount>43767.3456 RUB</maxamount>
+					</item>
+				<item>
+					<from>TCSBRUB</from>
+						<to>PRUSD</to>
+						<in>100.3799</in>
+						<out>1</out>
+						<amount>442.0944</amount>
+						<minamount>1003.799 RUB</minamount>
+						<maxamount>44377.3916 RUB</maxamount>
+					</item>
+				<item>
+					<from>ACRUB</from>
+						<to>PRUSD</to>
+						<in>101.6295</in>
+						<out>1</out>
+						<amount>442.0944</amount>
+						<minamount>1016.295 RUB</minamount>
+						<maxamount>44929.8328 RUB</maxamount>
+					</item>
+				<item>
+					<from>CARDRUB</from>
+						<to>PRUSD</to>
+						<in>101.6324</in>
+						<out>1</out>
+						<amount>442.0944</amount>
+						<minamount>1016.324 RUB</minamount>
+						<maxamount>44931.115 RUB</maxamount>
+					</item>
+				<item>
+					<from>TCSBRUB</from>
+						<to>PRRUB</to>
+						<in>1.0384</in>
+						<out>1</out>
+						<amount>492458.3946</amount>
+						<minamount>1000 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>CARDRUB</from>
+						<to>PMUSD</to>
+						<in>100.2725</in>
+						<out>1</out>
+						<amount>5759.0998</amount>
+						<minamount>1002.725 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>YAMRUB</to>
+						<in>1</in>
+						<out>6159.787</out>
+						<amount>193453.2672</amount>
+						<minamount>0.811716 LTC</minamount>
+						<maxamount>16.234328 LTC</maxamount>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>PRRUB</to>
+						<in>1</in>
+						<out>6413.0888</out>
+						<amount>492209.8038</amount>
+						<minamount>0.155931 LTC</minamount>
+						<maxamount>9.044004 LTC</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>SBERRUB</to>
+						<in>1</in>
+						<out>95.5237</out>
+						<amount>1564212.9324</amount>
+						<minamount>50 USD</minamount>
+						<maxamount>1046.8606 USD</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>CARDRUB</to>
+						<in>1</in>
+						<out>93.9939</out>
+						<amount>1564212.9324</amount>
+						<minamount>50 USD</minamount>
+						<maxamount>1063.8988 USD</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>TCSBRUB</to>
+						<in>1</in>
+						<out>95.5221</out>
+						<amount>1565233.4348</amount>
+						<minamount>50 USD</minamount>
+						<maxamount>1046.8782 USD</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>YAMRUB</to>
+						<in>1</in>
+						<out>91.2145</out>
+						<amount>193453.2672</amount>
+						<minamount>54.8158 USD</minamount>
+						<maxamount>1000 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCRUB</from>
+						<to>PRRUB</to>
+						<in>1.01</in>
+						<out>1</out>
+						<amount>492209.8038</amount>
+						<minamount>101 RUB</minamount>
+						<maxamount>50000 RUB</maxamount>
+					</item>
+				<item>
+					<from>ADVCRUB</from>
+						<to>SBERRUB</to>
+						<in>1.0199</in>
+						<out>1</out>
+						<amount>1564212.9324</amount>
+						<minamount>4079.6 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>SBERRUB</to>
+						<in>1</in>
+						<out>95.4478</out>
+						<amount>1564212.9324</amount>
+						<minamount>41.9077 USD</minamount>
+						<maxamount>1571.5396 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCRUB</from>
+						<to>TCSBRUB</to>
+						<in>1.02</in>
+						<out>1</out>
+						<amount>1565233.4348</amount>
+						<minamount>4590 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>PRRUB</from>
+						<to>SBERRUB</to>
+						<in>1.026</in>
+						<out>1</out>
+						<amount>1564212.9324</amount>
+						<minamount>4104 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>TCSBRUB</to>
+						<in>1</in>
+						<out>94.6684</out>
+						<amount>1565233.4348</amount>
+						<minamount>47.5343 USD</minamount>
+						<maxamount>1584.478 USD</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>SBERRUB</to>
+						<in>1</in>
+						<out>93.4402</out>
+						<amount>1564212.9324</amount>
+						<minamount>42.8081 USD</minamount>
+						<maxamount>1605.3048 USD</maxamount>
+					</item>
+				<item>
+					<from>PRRUB</from>
+						<to>TCSBRUB</to>
+						<in>1.0258</in>
+						<out>1</out>
+						<amount>1565233.4348</amount>
+						<minamount>4616.1 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>CARDRUB</to>
+						<in>1</in>
+						<out>94.07</out>
+						<amount>1564212.9324</amount>
+						<minamount>53.1519 USD</minamount>
+						<maxamount>1594.5572 USD</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>TCSBRUB</to>
+						<in>1</in>
+						<out>93.5804</out>
+						<amount>1565233.4348</amount>
+						<minamount>42.744 USD</minamount>
+						<maxamount>1602.8998 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>TBRUB</to>
+						<in>1</in>
+						<out>93.82</out>
+						<amount>0</amount>
+						<maxamount>0 USD</maxamount>
+					</item>
+				<item>
+					<from>PRRUB</from>
+						<to>CARDRUB</to>
+						<in>1.0392</in>
+						<out>1</out>
+						<amount>1564212.9324</amount>
+						<minamount>5196 RUB</minamount>
+						<maxamount>150000 RUB</maxamount>
+					</item>
+				<item>
+					<from>ADVCRUB</from>
+						<to>YAMRUB</to>
+						<in>1.0499</in>
+						<out>1</out>
+						<amount>193453.2672</amount>
+						<minamount>5249.5 RUB</minamount>
+						<maxamount>100000 RUB</maxamount>
+					</item>
+				<item>
+					<from>ADVCRUB</from>
+						<to>LTC</to>
+						<in>6539.3616</in>
+						<out>1</out>
+						<amount>49.547498</amount>
+						<minamount>1000 RUB</minamount>
+						<maxamount>50000 RUB</maxamount>
+					</item>
+				<item>
+					<from>ADVCRUB</from>
+						<to>TRX</to>
+						<in>8.9194</in>
+						<out>1</out>
+						<amount>11114.1718</amount>
+						<minamount>1783.88 RUB</minamount>
+						<maxamount>99131.744 RUB</maxamount>
+					</item>
+			</rates>
+	

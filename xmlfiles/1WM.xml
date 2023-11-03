@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<rates>
+			<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.009879</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>WARS</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>0.964884</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>XXX</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.013878</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>VINN</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.015878</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>DNPR</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.013878</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>ZHYTO</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.013878</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>ZAP</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.015878</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>IVFR</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.015878</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>KIEV</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.015878</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>KRMN</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.015878</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>KRVR</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.013878</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>KROP</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.015878</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>LUTSK</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.015878</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>LVOV</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.013878</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>MYKL</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.015878</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>ODS</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.013878</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>POLT</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.013878</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>RIVNE</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.015878</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>SUMY</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.015878</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>TERNO</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.015878</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>UZHH</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.013878</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>HMLN</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.015878</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>HRK</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.015878</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>CHERK</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.015878</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>CHRN</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.015878</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>CHERN</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.005879</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>BLTS</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.005879</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>BRGV</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.005879</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>IRSHV</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.005879</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>KMPK</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.005879</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>RKHV</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.005879</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>TCHV</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.005879</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>UMN</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.005879</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>HST</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.005879</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>MKCH</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1</in>
+						<out>1.013878</out>
+						<amount>381900</amount>
+						<minamount>100012.00144 USDT</minamount>
+						<maxamount>381945.8335 USDT</maxamount>
+						<param>manual</param>
+						<city>KVL</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.945263</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>XXX</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.955584</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>WARS</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.924945</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>BLTS</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.924945</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>BRGV</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.934288</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>VINN</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.934288</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>DNPR</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.934288</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>ZHYTO</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.934288</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>ZAP</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.934288</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>IVFR</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.924945</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>IRSHV</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.924945</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>KMPK</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.934288</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>KIEV</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.924945</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>KVL</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.934288</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>KRMN</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.934288</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>KRVR</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.934288</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>KROP</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.934288</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>LUTSK</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.934288</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>LVOV</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.924945</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>MKCH</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.934288</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>MYKL</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.934288</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>ODS</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.934288</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>POLT</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.924945</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>RKHV</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.934288</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>RIVNE</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.934288</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>SUMY</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.934288</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>TERNO</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.924945</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>TCHV</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.934288</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>UZHH</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.934288</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>HMLN</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.924945</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>UMN</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.934288</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>HRK</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.924945</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>HST</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.934288</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>CHERK</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.934288</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>CHRN</city>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHEUR</to>
+						<in>1</in>
+						<out>0.934288</out>
+						<amount>939546</amount>
+						<minamount>105790.663551 USDT</minamount>
+						<maxamount>158685.995326 USDT</maxamount>
+						<param>manual</param>
+						<city>CHERN</city>
+					</item>
+			</rates>
+	

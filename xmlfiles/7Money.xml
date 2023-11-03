@@ -1,0 +1,2389 @@
+<rates>
+<item>
+<from>BTC</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>27197.3305</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>200000 USD</maxamount>
+<param></param>
+<city>WARS</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>26416.41705</out>
+<amount>450000</amount>
+<minamount>15000 USD</minamount>
+<maxamount>150000 USD</maxamount>
+<param></param>
+<city>SFA</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>26416.41705</out>
+<amount>450000</amount>
+<minamount>15000 USD</minamount>
+<maxamount>150000 USD</maxamount>
+<param></param>
+<city>VARN</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>26631.84145</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>150000 USD</maxamount>
+<param></param>
+<city>KISH</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>26766.4817</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>150000 USD</maxamount>
+<param></param>
+<city>STAM</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>26766.4817</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>150000 USD</maxamount>
+<param></param>
+<city>ANTL</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>26954.97805</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>200000 USD</maxamount>
+<param></param>
+<city>PRAG</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>27116.54635</out>
+<amount>450000</amount>
+<minamount>15000 USD</minamount>
+<maxamount>100000 USD</maxamount>
+<param></param>
+<city>NYC</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>27116.54635</out>
+<amount>450000</amount>
+<minamount>15000 USD</minamount>
+<maxamount>100000 USD</maxamount>
+<param></param>
+<city>LOSAN</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>27089.6183</out>
+<amount>450000</amount>
+<minamount>15000 USD</minamount>
+<maxamount>100000 USD</maxamount>
+<param></param>
+<city>MIAMI</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>27062.69025</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>150000 USD</maxamount>
+<param></param>
+<city>WRCL</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>27062.69025</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>150000 USD</maxamount>
+<param></param>
+<city>KRKW</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>26200.99265</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>100000 USD</maxamount>
+<param></param>
+<city>BALI</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>26120.2085</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>100000 USD</maxamount>
+<param></param>
+<city>PHUK</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>26577.98535</out>
+<amount>450000</amount>
+<minamount>15000 USD</minamount>
+<maxamount>200000 USD</maxamount>
+<param></param>
+<city>TLAV</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>1.01</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>150000 USD</maxamount>
+<param></param>
+<city>WARS</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>0.994</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>150000 USD</maxamount>
+<param></param>
+<city>STAM</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>0.994</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>150000 USD</maxamount>
+<param></param>
+<city>ANTL</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>0.992</out>
+<amount>450000</amount>
+<minamount>1000 USD</minamount>
+<maxamount>200000 USD</maxamount>
+<param></param>
+<city>BTM</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>0.9891</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>150000 USD</maxamount>
+<param></param>
+<city>KISH</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>0.981</out>
+<amount>450000</amount>
+<minamount>15000 USD</minamount>
+<maxamount>150000 USD</maxamount>
+<param></param>
+<city>SFA</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>0.981</out>
+<amount>450000</amount>
+<minamount>15000 USD</minamount>
+<maxamount>150000 USD</maxamount>
+<param></param>
+<city>VARN</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>1.001</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>200000 USD</maxamount>
+<param></param>
+<city>PRAG</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>1.007</out>
+<amount>450000</amount>
+<minamount>15000 USD</minamount>
+<maxamount>100000 USD</maxamount>
+<param></param>
+<city>NYC</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>1.00701</out>
+<amount>450000</amount>
+<minamount>15000 USD</minamount>
+<maxamount>100000 USD</maxamount>
+<param></param>
+<city>LOSAN</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>1.0063</out>
+<amount>450000</amount>
+<minamount>15000 USD</minamount>
+<maxamount>100000 USD</maxamount>
+<param></param>
+<city>MIAMI</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>1.005</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>150000 USD</maxamount>
+<param></param>
+<city>WRCL</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>1.005</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>150000 USD</maxamount>
+<param></param>
+<city>KRKW</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>0.973</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>100000 USD</maxamount>
+<param></param>
+<city>BALI</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>0.97</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>100000 USD</maxamount>
+<param></param>
+<city>PHUK</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>0.987</out>
+<amount>450000</amount>
+<minamount>15000 USD</minamount>
+<maxamount>200000 USD</maxamount>
+<param></param>
+<city>TLAV</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>0.969</out>
+<amount>450000</amount>
+<minamount>5000 USD</minamount>
+<maxamount>50000 USD</maxamount>
+<param></param>
+<city>BSAS</city>
+</item>
+<item>
+<from>CASHUSD</from>
+<to>USDTERC20</to>
+<in>1.000000</in>
+<out>0.973720</out>
+<amount>0</amount>
+<minamount>1000</minamount>
+<maxamount>0</maxamount>
+<param></param>
+<city>KIEV</city>
+</item>
+<item>
+<from>ADVCUSD</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>0.98</out>
+<amount>210000</amount>
+<minamount>1000 USD</minamount>
+<maxamount>30000 USD</maxamount>
+<param></param>
+<city>BTM</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>1689.0129</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>200000 USD</maxamount>
+<param></param>
+<city>WARS</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>1640.51649</out>
+<amount>450000</amount>
+<minamount>15000 USD</minamount>
+<maxamount>150000 USD</maxamount>
+<param></param>
+<city>SFA</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>1640.51649</out>
+<amount>450000</amount>
+<minamount>15000 USD</minamount>
+<maxamount>150000 USD</maxamount>
+<param></param>
+<city>VARN</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>1653.89481</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>150000 USD</maxamount>
+<param></param>
+<city>KISH</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>1662.25626</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>150000 USD</maxamount>
+<param></param>
+<city>STAM</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>1662.25626</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>150000 USD</maxamount>
+<param></param>
+<city>ANTL</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>1673.96229</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>200000 USD</maxamount>
+<param></param>
+<city>PRAG</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>1683.99603</out>
+<amount>450000</amount>
+<minamount>15000 USD</minamount>
+<maxamount>100000 USD</maxamount>
+<param></param>
+<city>NYC</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>1683.99603</out>
+<amount>450000</amount>
+<minamount>15000 USD</minamount>
+<maxamount>100000 USD</maxamount>
+<param></param>
+<city>LOSAN</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>1682.32374</out>
+<amount>450000</amount>
+<minamount>15000 USD</minamount>
+<maxamount>100000 USD</maxamount>
+<param></param>
+<city>MIAMI</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>1680.65145</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>150000 USD</maxamount>
+<param></param>
+<city>WRCL</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>1680.65145</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>150000 USD</maxamount>
+<param></param>
+<city>KRKW</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>1627.13817</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>100000 USD</maxamount>
+<param></param>
+<city>BALI</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>1622.1213</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>100000 USD</maxamount>
+<param></param>
+<city>PHUK</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>1650.55023</out>
+<amount>450000</amount>
+<minamount>15000 USD</minamount>
+<maxamount>200000 USD</maxamount>
+<param></param>
+<city>TLAV</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>1.01</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>100000 USD</maxamount>
+<param></param>
+<city>WARS</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>0.992</out>
+<amount>450000</amount>
+<minamount>1000 USD</minamount>
+<maxamount>200000 USD</maxamount>
+<param></param>
+<city>BTM</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>0.994</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>150000 USD</maxamount>
+<param></param>
+<city>STAM</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>0.994</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>150000 USD</maxamount>
+<param></param>
+<city>ANTL</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>0.9891</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>150000 USD</maxamount>
+<param></param>
+<city>KISH</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>0.981</out>
+<amount>450000</amount>
+<minamount>15000 USD</minamount>
+<maxamount>150000 USD</maxamount>
+<param></param>
+<city>SFA</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>0.981</out>
+<amount>450000</amount>
+<minamount>15000 USD</minamount>
+<maxamount>150000 USD</maxamount>
+<param></param>
+<city>VARN</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>1.001</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>200000 USD</maxamount>
+<param></param>
+<city>PRAG</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>1.007</out>
+<amount>450000</amount>
+<minamount>15000 USD</minamount>
+<maxamount>100000 USD</maxamount>
+<param></param>
+<city>NYC</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>1.00701</out>
+<amount>450000</amount>
+<minamount>15000 USD</minamount>
+<maxamount>100000 USD</maxamount>
+<param></param>
+<city>LOSAN</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>1.0063</out>
+<amount>450000</amount>
+<minamount>15000 USD</minamount>
+<maxamount>100000 USD</maxamount>
+<param></param>
+<city>MIAMI</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>1.005</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>150000 USD</maxamount>
+<param></param>
+<city>WRCL</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>1.005</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>150000 USD</maxamount>
+<param></param>
+<city>KRKW</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>0.973</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>100000 USD</maxamount>
+<param></param>
+<city>BALI</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>0.97</out>
+<amount>450000</amount>
+<minamount>10000 USD</minamount>
+<maxamount>100000 USD</maxamount>
+<param></param>
+<city>PHUK</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>0.987</out>
+<amount>450000</amount>
+<minamount>15000 USD</minamount>
+<maxamount>200000 USD</maxamount>
+<param></param>
+<city>TLAV</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHUSD</to>
+<in>1</in>
+<out>0.969</out>
+<amount>450000</amount>
+<minamount>5000 USD</minamount>
+<maxamount>50000 USD</maxamount>
+<param></param>
+<city>BSAS</city>
+</item>
+<item>
+<from>CASHUSD</from>
+<to>USDTTRC20</to>
+<in>1.000000</in>
+<out>0.973720</out>
+<amount>0</amount>
+<minamount>1000</minamount>
+<maxamount>0</maxamount>
+<param></param>
+<city>KIEV</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.04805855</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>VALEN</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.058645</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>NICE</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.058645</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>MON</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.05229313</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>LISB</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.05123449</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>BER</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.04805855</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>BARC</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.04805855</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>ALIC</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.05017584</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>WARS</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.058645</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>CANN</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.06923145</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>SFA</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.06923145</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>VARN</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.05546907</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>WIEN</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.058645</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>BUD</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.05017584</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>1000000 EUR</maxamount>
+<param></param>
+<city>MILAN</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.05017584</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>30000 EUR</minamount>
+<maxamount>1000000 EUR</maxamount>
+<param></param>
+<city>ROME</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.04805855</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>MADR</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.05441042</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>PRAG</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.05123449</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>FRAN</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.05123449</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>MUN</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.058645</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>BRUS</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.05123449</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>MLG</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.05123449</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>MRBL</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.058645</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>RIGA</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.06393823</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>20000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>VILN</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.05335178</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>WRCL</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.05335178</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>KRKW</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.05123449</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>DUSS</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.06393823</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>100000 EUR</maxamount>
+<param></param>
+<city>BHRT</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.08511113</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>30000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>LIMAS</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.06711416</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>GNV</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.06711416</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>ZRCH</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.06923145</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>5000 EUR</minamount>
+<maxamount>50000 EUR</maxamount>
+<param></param>
+<city>TNRF</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.05123449</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>AMST</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.058645</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>PARIS</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.05335178</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>BRAT</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHEUR</to>
+<in>1.06393823</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>100000 EUR</maxamount>
+<param></param>
+<city>ATH</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.04805855</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>VALEN</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.058645</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>NICE</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.058645</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>MON</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.05229313</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>LISB</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.05123449</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>BER</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.04805855</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>BARC</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.04805855</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>ALIC</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.05017584</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>WARS</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.058645</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>CANN</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.06923145</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>SFA</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.06923145</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>VARN</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.05546907</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>WIEN</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.058645</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>BUD</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.05017584</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>1000000 EUR</maxamount>
+<param></param>
+<city>MILAN</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.05017584</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>30000 EUR</minamount>
+<maxamount>1000000 EUR</maxamount>
+<param></param>
+<city>ROME</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.04805855</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>MADR</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.05441042</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>PRAG</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.05123449</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>FRAN</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.05123449</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>MUN</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.058645</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>BRUS</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.05123449</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>MLG</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.05123449</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>MRBL</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.058645</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>RIGA</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.06393823</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>20000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>VILN</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.05335178</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>WRCL</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.05335178</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>KRKW</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.05123449</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>DUSS</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.06393823</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>100000 EUR</maxamount>
+<param></param>
+<city>BHRT</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.08511113</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>30000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>LIMAS</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.06711416</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>GNV</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.06711416</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>ZRCH</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.06923145</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>5000 EUR</minamount>
+<maxamount>50000 EUR</maxamount>
+<param></param>
+<city>TNRF</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.05123449</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>AMST</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.058645</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>PARIS</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.05335178</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>BRAT</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHEUR</to>
+<in>1.06393823</in>
+<out>1</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>100000 EUR</maxamount>
+<param></param>
+<city>ATH</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25690.69943182</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>VALEN</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25690.69943182</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>ALIC</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25690.69943182</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>MADR</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25690.69943182</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>BARC</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25639.82675968</out>
+<amount>500000</amount>
+<minamount>30000 EUR</minamount>
+<maxamount>1000000 EUR</maxamount>
+<param></param>
+<city>ROME</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25639.82675968</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>1000000 EUR</maxamount>
+<param></param>
+<city>MILAN</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25436.33607111</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>NICE</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25436.33607111</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>CANN</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25436.33607111</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>MON</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25181.9727104</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>SFA</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25181.9727104</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>VARN</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25512.64507932</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>WIEN</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25588.95408754</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>LISB</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25614.39042361</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>BER</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25614.39042361</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>MUN</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25614.39042361</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>FRAN</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25436.33607111</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>BUD</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25436.33607111</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>BRUS</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25538.08141539</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>PRAG</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25639.82675968</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>WARS</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25614.39042361</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>MLG</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25614.39042361</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>MRBL</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25436.33607111</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>RIGA</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25309.15439075</out>
+<amount>500000</amount>
+<minamount>20000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>VILN</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25563.51775147</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>WRCL</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25563.51775147</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>KRKW</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25614.39042361</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>DUSS</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25309.15439075</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>100000 EUR</maxamount>
+<param></param>
+<city>BHRT</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>24800.42766933</out>
+<amount>500000</amount>
+<minamount>30000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>LIMAS</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25232.84538254</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>GNV</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25232.84538254</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>ZRCH</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25614.39042361</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>AMST</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25436.33607111</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>PARIS</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25563.51775147</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>BRAT</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>25309.15439075</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>100000 EUR</maxamount>
+<param></param>
+<city>ATH</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1595.44786024</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>VALEN</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1595.44786024</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>ALIC</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1595.44786024</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>MADR</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1595.44786024</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>BARC</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1592.28855754</out>
+<amount>500000</amount>
+<minamount>30000 EUR</minamount>
+<maxamount>1000000 EUR</maxamount>
+<param></param>
+<city>ROME</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1592.28855754</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>1000000 EUR</maxamount>
+<param></param>
+<city>MILAN</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1579.65134677</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>NICE</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1579.65134677</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>CANN</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1579.65134677</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>MON</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1563.8548333</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>SFA</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1563.8548333</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>VARN</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1584.39030081</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>WIEN</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1589.12925485</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>LISB</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1590.7089062</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>BER</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1590.7089062</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>MUN</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1590.7089062</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>FRAN</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1579.65134677</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>BUD</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1579.65134677</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>BRUS</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1585.96995216</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>PRAG</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1592.28855754</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>WARS</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1590.7089062</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>MLG</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1590.7089062</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>MRBL</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1579.65134677</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>RIGA</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1571.75309003</out>
+<amount>500000</amount>
+<minamount>20000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>VILN</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1589.12925485</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>WRCL</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1587.5496035</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>KRKW</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1590.7089062</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>150000 EUR</maxamount>
+<param></param>
+<city>DUSS</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1571.75309003</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>100000 EUR</maxamount>
+<param></param>
+<city>BHRT</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1540.1600631</out>
+<amount>500000</amount>
+<minamount>30000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>LIMAS</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1567.01413599</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>GNV</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1567.01413599</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>ZRCH</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1590.7089062</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>AMST</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1579.65134677</out>
+<amount>500000</amount>
+<minamount>10000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>PARIS</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1587.5496035</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>200000 EUR</maxamount>
+<param></param>
+<city>BRAT</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHEUR</to>
+<in>1</in>
+<out>1571.75309003</out>
+<amount>500000</amount>
+<minamount>15000 EUR</minamount>
+<maxamount>100000 EUR</maxamount>
+<param></param>
+<city>ATH</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHCAD</to>
+<in>0.75714643</in>
+<out>1</out>
+<amount>450000</amount>
+<minamount>20000 CAD</minamount>
+<maxamount>200000 CAD</maxamount>
+<param></param>
+<city>TRNT</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHCAD</to>
+<in>0.75714643</in>
+<out>1</out>
+<amount>450000</amount>
+<minamount>20000 CAD</minamount>
+<maxamount>200000 CAD</maxamount>
+<param></param>
+<city>TRNT</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHCAD</to>
+<in>1</in>
+<out>35388.88453238</out>
+<amount>450000</amount>
+<minamount>20000 CAD</minamount>
+<maxamount>200000 CAD</maxamount>
+<param></param>
+<city>TRNT</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHCAD</to>
+<in>1</in>
+<out>2197.726078</out>
+<amount>450000</amount>
+<minamount>20000 CAD</minamount>
+<maxamount>200000 CAD</maxamount>
+<param></param>
+<city>TRNT</city>
+</item>
+<item>
+<from>USDTERC20</from>
+<to>CASHGBP</to>
+<in>1.1806696</in>
+<out>1</out>
+<amount>450000</amount>
+<minamount>15000 GBP</minamount>
+<maxamount>150000 GBP</maxamount>
+<param></param>
+<city>LNDN</city>
+</item>
+<item>
+<from>USDTTRC20</from>
+<to>CASHGBP</to>
+<in>1.1806696</in>
+<out>1</out>
+<amount>450000</amount>
+<minamount>15000 GBP</minamount>
+<maxamount>150000 GBP</maxamount>
+<param></param>
+<city>LNDN</city>
+</item>
+<item>
+<from>BTC</from>
+<to>CASHGBP</to>
+<in>1</in>
+<out>22739.92908092</out>
+<amount>450000</amount>
+<minamount>15000 GBP</minamount>
+<maxamount>150000 GBP</maxamount>
+<param></param>
+<city>LNDN</city>
+</item>
+<item>
+<from>ETH</from>
+<to>CASHGBP</to>
+<in>1</in>
+<out>1412.19865541</out>
+<amount>450000</amount>
+<minamount>15000 GBP</minamount>
+<maxamount>150000 GBP</maxamount>
+<param></param>
+<city>LNDN</city>
+</item>
+</rates>

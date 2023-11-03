@@ -1,0 +1,3843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<rates>
+			<item>
+					<from>BTC</from>
+						<to>EPAYUSD</to>
+						<in>1.0526315789474</in>
+						<out>26933.28</out>
+						<amount>2011.88</amount>
+						<minamount>0.005 BTC</minamount>
+						<maxamount>0.07863017 BTC</maxamount>
+					</item>
+				<item>
+					<from>CASHUSD</from>
+						<to>WMZ</to>
+						<in>1</in>
+						<out>1</out>
+						<amount>1827.3816</amount>
+						<minamount>500 USD</minamount>
+						<maxamount>1827.3816 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHAMD</from>
+						<to>WMZ</to>
+						<in>405</in>
+						<out>1</out>
+						<amount>1827.3816</amount>
+						<minamount>200000 AMD</minamount>
+						<maxamount>740088.2898 AMD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>WMZ</from>
+						<to>ADVCUSD</to>
+						<in>1.5625</in>
+						<out>1</out>
+						<amount>872.58</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>259.2799 USD</maxamount>
+					</item>
+				<item>
+					<from>WMZ</from>
+						<to>PMUSD</to>
+						<in>1.5625</in>
+						<out>1</out>
+						<amount>124.938</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>195.2156 USD</maxamount>
+					</item>
+				<item>
+					<from>WMZ</from>
+						<to>PRUSD</to>
+						<in>1.5625</in>
+						<out>1</out>
+						<amount>1970.3079</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>259.2799 USD</maxamount>
+					</item>
+				<item>
+					<from>CASHUSD</from>
+						<to>USDTERC20</to>
+						<in>1.0204081632653</in>
+						<out>1</out>
+						<amount>30000</amount>
+						<minfee>50 USDT</minfee>
+						<minamount>500 USD</minamount>
+						<maxamount>30612.2449 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHAMD</from>
+						<to>USDTERC20</to>
+						<in>413.26530612245</in>
+						<out>1</out>
+						<amount>30000</amount>
+						<minfee>50 USDT</minfee>
+						<minamount>200000 AMD</minamount>
+						<maxamount>12397974.9974 AMD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>WMZ</from>
+						<to>TRX</to>
+						<in>0.138125</in>
+						<out>1</out>
+						<amount>59228.1419</amount>
+						<tofee>5 TRX</tofee>
+						<minamount>20 USD</minamount>
+						<maxamount>259.2799 USD</maxamount>
+					</item>
+				<item>
+					<from>CASHUSD</from>
+						<to>USDC</to>
+						<in>1.0204081632653</in>
+						<out>1</out>
+						<amount>1950.25</amount>
+						<minfee>50 USDC</minfee>
+						<minamount>500 USD</minamount>
+						<maxamount>1990.051 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHAMD</from>
+						<to>USDC</to>
+						<in>413.26530612245</in>
+						<out>1</out>
+						<amount>1950.25</amount>
+						<minfee>50 USDC</minfee>
+						<minamount>200000 AMD</minamount>
+						<maxamount>805971.6913 AMD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>PRUSD</to>
+						<in>1.0309278350515</in>
+						<out>26933.28</out>
+						<amount>1970.3079</amount>
+						<minamount>0.005 BTC</minamount>
+						<maxamount>0.07541767 BTC</maxamount>
+					</item>
+				<item>
+					<from>CASHUSD</from>
+						<to>PREUR</to>
+						<in>1.0776530612245</in>
+						<out>1</out>
+						<amount>1.3167</amount>
+						<minfee>50 EUR</minfee>
+						<maxamount>0 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHAMD</from>
+						<to>PREUR</to>
+						<in>435.71428571429</in>
+						<out>1</out>
+						<amount>1.3167</amount>
+						<minfee>50 EUR</minfee>
+						<maxamount>0 AMD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>WMZ</from>
+						<to>PREUR</to>
+						<in>1.65015625</in>
+						<out>1</out>
+						<amount>1.3167</amount>
+						<maxamount>0 USD</maxamount>
+					</item>
+				<item>
+					<from>WMZ</from>
+						<to>ADVCEUR</to>
+						<in>1.65015625</in>
+						<out>1</out>
+						<amount>47.92</amount>
+						<minamount>16.5016 USD</minamount>
+						<maxamount>79.0755 USD</maxamount>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>PREUR</to>
+						<in>1.010101010101</in>
+						<out>25502.49</out>
+						<amount>1.3167</amount>
+						<maxamount>0 BTC</maxamount>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>WMZ</to>
+						<in>1</in>
+						<out>26933.28</out>
+						<amount>1827.3816</amount>
+						<minamount>0.005 BTC</minamount>
+						<maxamount>0.06784846 BTC</maxamount>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>ADVCEUR</to>
+						<in>1.0230179028133</in>
+						<out>25502.49</out>
+						<amount>47.92</amount>
+						<maxamount>0 BTC</maxamount>
+					</item>
+				<item>
+					<from>WMZ</from>
+						<to>EPAYUSD</to>
+						<in>1.5625</in>
+						<out>1</out>
+						<amount>2011.88</amount>
+						<minamount>15.625 USD</minamount>
+						<maxamount>259.2799 USD</maxamount>
+					</item>
+				<item>
+					<from>WMZ</from>
+						<to>PRRUB</to>
+						<in>1.5625</in>
+						<out>97.7922</out>
+						<amount>2482.0092</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>39.6569 USD</maxamount>
+					</item>
+				<item>
+					<from>WMZ</from>
+						<to>USDTERC20</to>
+						<in>1.5625</in>
+						<out>1</out>
+						<amount>5746.5111</amount>
+						<tofee>10 USDT</tofee>
+						<minamount>100 USD</minamount>
+						<maxamount>259.2799 USD</maxamount>
+					</item>
+				<item>
+					<from>CASHUSD</from>
+						<to>PRUSD</to>
+						<in>1.0204081632653</in>
+						<out>1</out>
+						<amount>50000</amount>
+						<minfee>50 USD</minfee>
+						<minamount>500 USD</minamount>
+						<maxamount>51020.4082 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHUSD</from>
+						<to>PMUSD</to>
+						<in>1.0204081632653</in>
+						<out>1</out>
+						<amount>124.938</amount>
+						<minfee>50 USD</minfee>
+						<maxamount>0 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHAMD</from>
+						<to>CARDRUB</to>
+						<in>4.4086021505376</in>
+						<out>1</out>
+						<amount>188276.0518</amount>
+						<minfee>2500 RUB</minfee>
+						<minamount>200000 AMD</minamount>
+						<maxamount>330645.1588 AMD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHUSD</from>
+						<to>QWRUB</to>
+						<in>1.0526315789474</in>
+						<out>97.7922</out>
+						<amount>221967.1445</amount>
+						<minfee>4000 RUB</minfee>
+						<minamount>500 USD</minamount>
+						<maxamount>2389.246 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHAMD</from>
+						<to>QWRUB</to>
+						<in>4.3157894736842</in>
+						<out>1</out>
+						<amount>221967.1445</amount>
+						<minfee>4000 RUB</minfee>
+						<minamount>200000 AMD</minamount>
+						<maxamount>957963.4536 AMD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>EPAYEUR</to>
+						<in>1.0309278350515</in>
+						<out>25502.49</out>
+						<amount>5.57</amount>
+						<maxamount>0 BTC</maxamount>
+					</item>
+				<item>
+					<from>WMZ</from>
+						<to>EPAYEUR</to>
+						<in>1.65015625</in>
+						<out>1</out>
+						<amount>5.57</amount>
+						<maxamount>0 USD</maxamount>
+					</item>
+				<item>
+					<from>CASHUSD</from>
+						<to>USDTTRC20</to>
+						<in>1.0183299389002</in>
+						<out>1</out>
+						<amount>30000</amount>
+						<minfee>50 USDT</minfee>
+						<minamount>500 USD</minamount>
+						<maxamount>30549.8982 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHUSD</from>
+						<to>EPAYEUR</to>
+						<in>1.0776530612245</in>
+						<out>1</out>
+						<amount>5.57</amount>
+						<minfee>50 EUR</minfee>
+						<maxamount>0 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHAMD</from>
+						<to>EPAYEUR</to>
+						<in>435.71428571429</in>
+						<out>1</out>
+						<amount>5.57</amount>
+						<minfee>50 EUR</minfee>
+						<maxamount>0 AMD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHAMD</from>
+						<to>USDTTRC20</to>
+						<in>413.26530612245</in>
+						<out>1</out>
+						<amount>30000</amount>
+						<minfee>50 USDT</minfee>
+						<minamount>200000 AMD</minamount>
+						<maxamount>12397974.9974 AMD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHAMD</from>
+						<to>PRUSD</to>
+						<in>413.26530612245</in>
+						<out>1</out>
+						<amount>50000</amount>
+						<minfee>50 USD</minfee>
+						<minamount>200000 AMD</minamount>
+						<maxamount>20663291.6624 AMD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHAMD</from>
+						<to>PMUSD</to>
+						<in>413.26530612245</in>
+						<out>1</out>
+						<amount>124.938</amount>
+						<minfee>50 USD</minfee>
+						<maxamount>0 AMD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>CASHUSD</to>
+						<in>1.1111111111111</in>
+						<out>26933.28</out>
+						<amount>65406.2842</amount>
+						<minamount>0.0206271 BTC</minamount>
+						<maxamount>2.69828439 BTC</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>CASHAMD</to>
+						<in>1.1111111111111</in>
+						<out>10638645.6</out>
+						<amount>1756024.862</amount>
+						<minfee>40000 AMD</minfee>
+						<minamount>0.04177641 BTC</minamount>
+						<maxamount>0.18340105 BTC</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>26933.28</out>
+						<amount>124.938</amount>
+						<maxamount>0 BTC</maxamount>
+					</item>
+				<item>
+					<from>CASHUSD</from>
+						<to>USDCTRC20</to>
+						<in>1.0204081632653</in>
+						<out>1</out>
+						<amount>1953.25</amount>
+						<minfee>50 USDC</minfee>
+						<minamount>500 USD</minamount>
+						<maxamount>1993.1122 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHAMD</from>
+						<to>USDCTRC20</to>
+						<in>413.26530612245</in>
+						<out>1</out>
+						<amount>1953.25</amount>
+						<minfee>50 USDC</minfee>
+						<minamount>200000 AMD</minamount>
+						<maxamount>807211.4888 AMD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>ADVCUSD</to>
+						<in>1.0204081632653</in>
+						<out>26933.28</out>
+						<amount>872.58</amount>
+						<minamount>0.005 BTC</minamount>
+						<maxamount>0.03305902 BTC</maxamount>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>ADVCRUB</to>
+						<in>1.0309278350515</in>
+						<out>2633882.13</out>
+						<amount>1280</amount>
+						<maxamount>0 BTC</maxamount>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>ETH</to>
+						<in>0.0646875</in>
+						<out>1</out>
+						<amount>3.13589929</amount>
+						<tofee>0.003 ETH</tofee>
+						<minamount>0.005 BTC</minamount>
+						<maxamount>0.20285349 BTC</maxamount>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>PRRUB</to>
+						<in>1.0416666666667</in>
+						<out>2633882.13</out>
+						<amount>2482.0092</amount>
+						<minfee>75 RUB</minfee>
+						<maxamount>0 BTC</maxamount>
+					</item>
+				<item>
+					<from>CASHUSD</from>
+						<to>XRP</to>
+						<in>0.52612244897959</in>
+						<out>1</out>
+						<amount>10171.28994528</amount>
+						<minfee>100 XRP</minfee>
+						<minamount>526.1224 USD</minamount>
+						<maxamount>5351.344 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHAMD</from>
+						<to>XRP</to>
+						<in>215.27628865979</in>
+						<out>1</out>
+						<amount>10171.28994528</amount>
+						<minfee>100 XRP</minfee>
+						<minamount>215276.4472 AMD</minamount>
+						<maxamount>2189639.1634 AMD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHUSD</from>
+						<to>PRRUB</to>
+						<in>1.0309278350515</in>
+						<out>97.7922</out>
+						<amount>2482.0092</amount>
+						<minfee>2500 RUB</minfee>
+						<maxamount>0 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHAMD</from>
+						<to>PRRUB</to>
+						<in>4.3157894736842</in>
+						<out>1</out>
+						<amount>2482.0092</amount>
+						<minfee>2500 RUB</minfee>
+						<maxamount>0 AMD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHEUR</from>
+						<to>USDTTRC20</to>
+						<in>1.0204081632653</in>
+						<out>1.0561</out>
+						<amount>30000</amount>
+						<minfee>50 USDT</minfee>
+						<minamount>500 EUR</minamount>
+						<maxamount>28986.1234 EUR</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHEUR</from>
+						<to>USDC</to>
+						<in>1.0204081632653</in>
+						<out>1.0561</out>
+						<amount>1950.25</amount>
+						<minfee>50 USDC</minfee>
+						<minamount>500 EUR</minamount>
+						<maxamount>1884.3396 EUR</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHEUR</from>
+						<to>USDTERC20</to>
+						<in>1.0204081632653</in>
+						<out>1.0561</out>
+						<amount>30000</amount>
+						<minfee>50 USDT</minfee>
+						<minamount>500 EUR</minamount>
+						<maxamount>28986.1234 EUR</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHEUR</from>
+						<to>USDCTRC20</to>
+						<in>1.0204081632653</in>
+						<out>1.0561</out>
+						<amount>1953.25</amount>
+						<minfee>50 USDC</minfee>
+						<minamount>500 EUR</minamount>
+						<maxamount>1887.2382 EUR</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHUSD</from>
+						<to>LTC</to>
+						<in>66.897959183673</in>
+						<out>1</out>
+						<amount>79.97380378</amount>
+						<minfee>0.5 LTC</minfee>
+						<minamount>500 USD</minamount>
+						<maxamount>5350.0839 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHAMD</from>
+						<to>LTC</to>
+						<in>27372.989690722</in>
+						<out>1</out>
+						<amount>79.97380378</amount>
+						<minfee>0.5 LTC</minfee>
+						<minamount>200000 AMD</minamount>
+						<maxamount>2189263.7224 AMD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHEUR</from>
+						<to>TRX</to>
+						<in>0.08639175257732</in>
+						<out>1</out>
+						<amount>59228.1419</amount>
+						<minfee>600 TRX</minfee>
+						<minamount>500 EUR</minamount>
+						<maxamount>5116.823 EUR</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>EPCUSD</to>
+						<in>1</in>
+						<out>26933.28</out>
+						<amount>1095.1468</amount>
+						<minamount>0.005 BTC</minamount>
+						<maxamount>0.04066147 BTC</maxamount>
+					</item>
+				<item>
+					<from>WMZ</from>
+						<to>USDTBEP20</to>
+						<in>1.5625</in>
+						<out>1</out>
+						<amount>251.4981</amount>
+						<tofee>1.5 USDT</tofee>
+						<minamount>20 USD</minamount>
+						<maxamount>259.2799 USD</maxamount>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>LTC</to>
+						<in>0.0025354166666667</in>
+						<out>1</out>
+						<amount>79.97380378</amount>
+						<tofee>0.01 LTC</tofee>
+						<minamount>0.005 BTC</minamount>
+						<maxamount>0.20276691 BTC</maxamount>
+					</item>
+				<item>
+					<from>CASHUSD</from>
+						<to>CARDRUB</to>
+						<in>1.0752688172043</in>
+						<out>97.7922</out>
+						<amount>188276.0518</amount>
+						<minfee>2500 RUB</minfee>
+						<minamount>500 USD</minamount>
+						<maxamount>824.6584 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHEUR</from>
+						<to>ADVCUSD</to>
+						<in>1.0204081632653</in>
+						<out>1.0561</out>
+						<amount>50000</amount>
+						<minfee>50 USD</minfee>
+						<minamount>500 EUR</minamount>
+						<maxamount>48310.2056 EUR</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHEUR</from>
+						<to>PRUSD</to>
+						<in>1.0204081632653</in>
+						<out>1.0561</out>
+						<amount>50000</amount>
+						<minfee>50 USD</minfee>
+						<minamount>500 EUR</minamount>
+						<maxamount>48310.2056 EUR</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHEUR</from>
+						<to>EPAYUSD</to>
+						<in>1.0204081632653</in>
+						<out>1.0561</out>
+						<amount>50000</amount>
+						<minfee>50 USD</minfee>
+						<minamount>500 EUR</minamount>
+						<maxamount>48310.2056 EUR</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHUSD</from>
+						<to>ADVCUSD</to>
+						<in>1.0204081632653</in>
+						<out>1</out>
+						<amount>50000</amount>
+						<minfee>50 USD</minfee>
+						<minamount>500 USD</minamount>
+						<maxamount>51020.4082 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHAMD</from>
+						<to>ADVCUSD</to>
+						<in>413.26530612245</in>
+						<out>1</out>
+						<amount>50000</amount>
+						<minfee>50 USD</minfee>
+						<minamount>200000 AMD</minamount>
+						<maxamount>20663291.6624 AMD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHUSD</from>
+						<to>ADVCRUB</to>
+						<in>1.0526315789474</in>
+						<out>97.7922</out>
+						<amount>1280</amount>
+						<minfee>2500 RUB</minfee>
+						<maxamount>0 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHAMD</from>
+						<to>ADVCRUB</to>
+						<in>4.3157894736842</in>
+						<out>1</out>
+						<amount>1280</amount>
+						<minfee>2500 RUB</minfee>
+						<maxamount>0 AMD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHUSD</from>
+						<to>TRX</to>
+						<in>0.090204081632653</in>
+						<out>1</out>
+						<amount>59228.1419</amount>
+						<minfee>600 TRX</minfee>
+						<minamount>500 USD</minamount>
+						<maxamount>5342.6201 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHAMD</from>
+						<to>TRX</to>
+						<in>36.92175257732</in>
+						<out>1</out>
+						<amount>59228.1419</amount>
+						<minfee>600 TRX</minfee>
+						<minamount>200000 AMD</minamount>
+						<maxamount>2186807.1872 AMD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHUSD</from>
+						<to>EPAYUSD</to>
+						<in>1.0204081632653</in>
+						<out>1</out>
+						<amount>50000</amount>
+						<minfee>50 USD</minfee>
+						<minamount>510.2041 USD</minamount>
+						<maxamount>51020.4082 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHAMD</from>
+						<to>EPAYUSD</to>
+						<in>413.26530612245</in>
+						<out>1</out>
+						<amount>50000</amount>
+						<minfee>50 USD</minfee>
+						<minamount>200000 AMD</minamount>
+						<maxamount>20663291.6624 AMD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHUSD</from>
+						<to>ADVCEUR</to>
+						<in>1.0776530612245</in>
+						<out>1</out>
+						<amount>47.92</amount>
+						<minfee>50 EUR</minfee>
+						<maxamount>0 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHAMD</from>
+						<to>ADVCEUR</to>
+						<in>435.71428571429</in>
+						<out>1</out>
+						<amount>47.92</amount>
+						<minfee>50 EUR</minfee>
+						<maxamount>0 AMD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHEUR</from>
+						<to>PMUSD</to>
+						<in>1.0204081632653</in>
+						<out>1.0561</out>
+						<amount>124.938</amount>
+						<minfee>50 USD</minfee>
+						<maxamount>0 EUR</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHUSD</from>
+						<to>USDTBEP20</to>
+						<in>1.0204081632653</in>
+						<out>1</out>
+						<amount>30000</amount>
+						<minfee>50 USDT</minfee>
+						<minamount>500 USD</minamount>
+						<maxamount>30612.2449 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHEUR</from>
+						<to>USDTBEP20</to>
+						<in>1.0204081632653</in>
+						<out>1.0561</out>
+						<amount>30000</amount>
+						<minfee>50 USDT</minfee>
+						<minamount>500 EUR</minamount>
+						<maxamount>28986.1234 EUR</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHAMD</from>
+						<to>USDTBEP20</to>
+						<in>413.26530612245</in>
+						<out>1</out>
+						<amount>30000</amount>
+						<minfee>50 USDT</minfee>
+						<minamount>200000 AMD</minamount>
+						<maxamount>12397974.9974 AMD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>USDTTRC20</to>
+						<in>1.0309278350515</in>
+						<out>26933.28</out>
+						<amount>5824.7587</amount>
+						<tofee>1.5 USDT</tofee>
+						<minamount>0.005 BTC</minamount>
+						<maxamount>0.22295487 BTC</maxamount>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>CARDAMD</to>
+						<in>1.1111111111111</in>
+						<out>10638645.6</out>
+						<amount>256930.402</amount>
+						<minamount>0.005 BTC</minamount>
+						<maxamount>0.02683408 BTC</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>CARDUSD</to>
+						<in>1.0526315789474</in>
+						<out>26933.28</out>
+						<amount>0</amount>
+						<minfee>10 USD</minfee>
+						<maxamount>0 BTC</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>BTC</from>
+						<to>CARDEUR</to>
+						<in>1.0526315789474</in>
+						<out>25502.49</out>
+						<amount>0</amount>
+						<minfee>10 EUR</minfee>
+						<maxamount>0 BTC</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>WMZ</from>
+						<to>CARDAMD</to>
+						<in>1.5625</in>
+						<out>395</out>
+						<amount>256930.402</amount>
+						<minamount>39.557 USD</minamount>
+						<maxamount>259.2799 USD</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>WMZ</from>
+						<to>CARDUSD</to>
+						<in>1.5625</in>
+						<out>1</out>
+						<amount>0</amount>
+						<minfee>10 USD</minfee>
+						<maxamount>0 USD</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>XRP</from>
+						<to>CARDEUR</to>
+						<in>1.0752688172043</in>
+						<out>0.4884</out>
+						<amount>0</amount>
+						<minfee>10 EUR</minfee>
+						<maxamount>0 XRP</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>XRP</from>
+						<to>CARDUSD</to>
+						<in>1.0752688172043</in>
+						<out>0.5156</out>
+						<amount>0</amount>
+						<minfee>10 USD</minfee>
+						<maxamount>0 XRP</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>PRRUB</from>
+						<to>CARDUSD</to>
+						<in>109.75555555556</in>
+						<out>1</out>
+						<amount>0</amount>
+						<minfee>10 USD</minfee>
+						<maxamount>0 RUB</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>ADVCRUB</from>
+						<to>CARDUSD</to>
+						<in>109.75555555556</in>
+						<out>1</out>
+						<amount>0</amount>
+						<minfee>10 USD</minfee>
+						<maxamount>0 RUB</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>ADVCRUB</from>
+						<to>CARDEUR</to>
+						<in>118.54727272727</in>
+						<out>1</out>
+						<amount>0</amount>
+						<minfee>10 EUR</minfee>
+						<maxamount>0 RUB</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>WMZ</from>
+						<to>CARDEUR</to>
+						<in>1.65015625</in>
+						<out>1</out>
+						<amount>0</amount>
+						<minfee>10 EUR</minfee>
+						<maxamount>0 USD</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>WMZ</from>
+						<to>USDTTRC20</to>
+						<in>1.5625</in>
+						<out>1</out>
+						<amount>5824.7587</amount>
+						<tofee>1.5 USDT</tofee>
+						<minamount>20 USD</minamount>
+						<maxamount>259.2799 USD</maxamount>
+					</item>
+				<item>
+					<from>WMZ</from>
+						<to>LTC</to>
+						<in>102.4375</in>
+						<out>1</out>
+						<amount>79.97380378</amount>
+						<tofee>0.01 LTC</tofee>
+						<minamount>20 USD</minamount>
+						<maxamount>259.2799 USD</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>LTC</to>
+						<in>67.413881748072</in>
+						<out>1</out>
+						<amount>79.97380378</amount>
+						<tofee>0.01 LTC</tofee>
+						<minamount>20 USD</minamount>
+						<maxamount>5391.3446 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>LTC</to>
+						<in>66.727735368957</in>
+						<out>1</out>
+						<amount>79.97380378</amount>
+						<tofee>0.01 LTC</tofee>
+						<minamount>20 USD</minamount>
+						<maxamount>5336.4716 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCEUR</from>
+						<to>LTC</to>
+						<in>63.367346938776</in>
+						<out>1</out>
+						<amount>79.97380378</amount>
+						<tofee>0.01 LTC</tofee>
+						<minamount>20 EUR</minamount>
+						<maxamount>5067.7273 EUR</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>LTC</to>
+						<in>69.192612137203</in>
+						<out>1</out>
+						<amount>79.97380378</amount>
+						<tofee>0.01 LTC</tofee>
+						<minamount>20 USD</minamount>
+						<maxamount>2160.7222 USD</maxamount>
+					</item>
+				<item>
+					<from>EPAYUSD</from>
+						<to>LTC</to>
+						<in>70.875675675676</in>
+						<out>1</out>
+						<amount>79.97380378</amount>
+						<tofee>0.01 LTC</tofee>
+						<minamount>20 USD</minamount>
+						<maxamount>5668.1986 USD</maxamount>
+					</item>
+				<item>
+					<from>EPAYEUR</from>
+						<to>LTC</to>
+						<in>68.808864265928</in>
+						<out>1</out>
+						<amount>79.97380378</amount>
+						<tofee>0.01 LTC</tofee>
+						<minamount>20 EUR</minamount>
+						<maxamount>5502.9071 EUR</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>LTC</to>
+						<in>66.222222222222</in>
+						<out>1</out>
+						<amount>79.97380378</amount>
+						<tofee>0.01 LTC</tofee>
+						<minamount>20 USDT</minamount>
+						<maxamount>5296.0434 USDT</maxamount>
+					</item>
+				<item>
+					<from>WMZ</from>
+						<to>ETH</to>
+						<in>2613.703125</in>
+						<out>1</out>
+						<amount>3.13589929</amount>
+						<tofee>0.003 ETH</tofee>
+						<minamount>130.6848 USD</minamount>
+						<maxamount>259.2799 USD</maxamount>
+					</item>
+				<item>
+					<from>WMZ</from>
+						<to>XRP</to>
+						<in>0.805625</in>
+						<out>1</out>
+						<amount>10171.28994528</amount>
+						<tofee>1 XRP</tofee>
+						<minamount>20 USD</minamount>
+						<maxamount>259.2799 USD</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>XRP</from>
+						<to>PRRUB</to>
+						<in>1.0204081632653</in>
+						<out>50.4009</out>
+						<amount>2482.0092</amount>
+						<minfee>75 RUB</minfee>
+						<minamount>20.24583218 XRP</minamount>
+						<maxamount>50.25034174 XRP</maxamount>
+					</item>
+				<item>
+					<from>XRP</from>
+						<to>ADVCRUB</to>
+						<in>1.0526315789474</in>
+						<out>50.4009</out>
+						<amount>1280</amount>
+						<minamount>20 XRP</minamount>
+						<maxamount>26.73302304 XRP</maxamount>
+					</item>
+				<item>
+					<from>XRP</from>
+						<to>ADVCEUR</to>
+						<in>1.0204081632653</in>
+						<out>0.4884</out>
+						<amount>47.92</amount>
+						<minfee>1 EUR</minfee>
+						<minamount>20.89287804 XRP</minamount>
+						<maxamount>100.11867155 XRP</maxamount>
+					</item>
+				<item>
+					<from>XRP</from>
+						<to>ADVCUSD</to>
+						<in>1.0204081632653</in>
+						<out>0.5156</out>
+						<amount>872.58</amount>
+						<minfee>1 USD</minfee>
+						<minamount>20 XRP</minamount>
+						<maxamount>1726.89634426 XRP</maxamount>
+					</item>
+				<item>
+					<from>XRP</from>
+						<to>TRX</to>
+						<in>0.17512244897959</in>
+						<out>1</out>
+						<amount>59228.1419</amount>
+						<tofee>5 TRX</tofee>
+						<minamount>35.02448977 XRP</minamount>
+						<maxamount>10372.17725072 XRP</maxamount>
+					</item>
+				<item>
+					<from>XRP</from>
+						<to>WMZ</to>
+						<in>1</in>
+						<out>0.5156</out>
+						<amount>1827.3816</amount>
+						<minamount>20 XRP</minamount>
+						<maxamount>3544.18463926 XRP</maxamount>
+					</item>
+				<item>
+					<from>XRP</from>
+						<to>EPAYEUR</to>
+						<in>1.0309278350515</in>
+						<out>0.4884</out>
+						<amount>5.57</amount>
+						<minfee>1 EUR</minfee>
+						<maxamount>0 XRP</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>PRRUB</to>
+						<in>1</in>
+						<out>97.7922</out>
+						<amount>2482.0092</amount>
+						<minamount>20 USDT</minamount>
+						<maxamount>25.3804 USDT</maxamount>
+					</item>
+				<item>
+					<from>XRP</from>
+						<to>PREUR</to>
+						<in>1.0152284263959</in>
+						<out>0.4884</out>
+						<amount>1.3167</amount>
+						<minfee>1 EUR</minfee>
+						<maxamount>0 XRP</maxamount>
+					</item>
+				<item>
+					<from>XRP</from>
+						<to>EPCUSD</to>
+						<in>1</in>
+						<out>0.5156</out>
+						<amount>1095.1468</amount>
+						<minamount>20 XRP</minamount>
+						<maxamount>2124.02404965 XRP</maxamount>
+					</item>
+				<item>
+					<from>USDCTRC20</from>
+						<to>PRRUB</to>
+						<in>1.0095911155982</in>
+						<out>97.7922</out>
+						<amount>2482.0092</amount>
+						<minamount>25 USDC</minamount>
+						<maxamount>25.6239 USDC</maxamount>
+					</item>
+				<item>
+					<from>USDTBEP20</from>
+						<to>PRRUB</to>
+						<in>1.010101010101</in>
+						<out>97.7922</out>
+						<amount>2482.0092</amount>
+						<minamount>20 USDT</minamount>
+						<maxamount>25.6368 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>ADVCRUB</to>
+						<in>1.0869565217391</in>
+						<out>97.7922</out>
+						<amount>1280</amount>
+						<minfee>150 RUB</minfee>
+						<maxamount>0 USDT</maxamount>
+					</item>
+				<item>
+					<from>TRX</from>
+						<to>PRRUB</to>
+						<in>1.0178117048346</in>
+						<out>8.7351</out>
+						<amount>2482.0092</amount>
+						<minamount>100 TRX</minamount>
+						<maxamount>289.2031 TRX</maxamount>
+					</item>
+				<item>
+					<from>TRX</from>
+						<to>ADVCRUB</to>
+						<in>1.0309278350515</in>
+						<out>8.7351</out>
+						<amount>1280</amount>
+						<minfee>75 RUB</minfee>
+						<minamount>59.0106 TRX</minamount>
+						<maxamount>151.0673 TRX</maxamount>
+					</item>
+				<item>
+					<from>XRP</from>
+						<to>EPAYUSD</to>
+						<in>1.0526315789474</in>
+						<out>0.5156</out>
+						<amount>2011.88</amount>
+						<minfee>1 USD</minfee>
+						<minamount>20.4156629 XRP</minamount>
+						<maxamount>4107.38638684 XRP</maxamount>
+					</item>
+				<item>
+					<from>XRP</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>0.5208</out>
+						<amount>124.938</amount>
+						<minamount>20 XRP</minamount>
+						<maxamount>239.89631336 XRP</maxamount>
+					</item>
+				<item>
+					<from>XRP</from>
+						<to>PRUSD</to>
+						<in>1.0204081632653</in>
+						<out>0.5156</out>
+						<amount>1970.3079</amount>
+						<minfee>1 USD</minfee>
+						<minamount>20 XRP</minamount>
+						<maxamount>3899.37599943 XRP</maxamount>
+					</item>
+				<item>
+					<from>ADVCRUB</from>
+						<to>PRRUB</to>
+						<in>1.0183299389002</in>
+						<out>1</out>
+						<amount>2482.0092</amount>
+						<minamount>1000 RUB</minamount>
+						<maxamount>2527.5043 RUB</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>TRX</to>
+						<in>0.089292929292929</in>
+						<out>1</out>
+						<amount>59228.1419</amount>
+						<tofee>5 TRX</tofee>
+						<minamount>20 USDT</minamount>
+						<maxamount>5288.6543 USDT</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>EPAYUSD</to>
+						<in>1.0810810810811</in>
+						<out>1</out>
+						<amount>2011.88</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>2160.7222 USD</maxamount>
+					</item>
+				<item>
+					<from>PREUR</from>
+						<to>EPAYUSD</to>
+						<in>1.0752688172043</in>
+						<out>1.0561</out>
+						<amount>2011.88</amount>
+						<minfee>1 USD</minfee>
+						<minamount>10.1815 EUR</minamount>
+						<maxamount>2048.3968 EUR</maxamount>
+					</item>
+				<item>
+					<from>PRRUB</from>
+						<to>EPAYUSD</to>
+						<in>108.54945054945</in>
+						<out>1</out>
+						<amount>2011.88</amount>
+						<minfee>1 USD</minfee>
+						<minamount>1085.4946 RUB</minamount>
+						<maxamount>218388.4964 RUB</maxamount>
+					</item>
+				<item>
+					<from>EPAYUSD</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>1</out>
+						<amount>124.938</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>124.938 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>WMZ</to>
+						<in>1</in>
+						<out>1.01</out>
+						<amount>1827.3816</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>1809.2887 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCEUR</from>
+						<to>WMZ</to>
+						<in>1</in>
+						<out>1.0561</out>
+						<amount>1827.3816</amount>
+						<minamount>10 EUR</minamount>
+						<maxamount>1730.3111 EUR</maxamount>
+					</item>
+				<item>
+					<from>ADVCRUB</from>
+						<to>WMZ</to>
+						<in>98.2861</in>
+						<out>1</out>
+						<amount>1827.3816</amount>
+						<minamount>1000 RUB</minamount>
+						<maxamount>179606.1873 RUB</maxamount>
+					</item>
+				<item>
+					<from>USDTBEP20</from>
+						<to>TRX</to>
+						<in>0.089564336372847</in>
+						<out>1</out>
+						<amount>59228.1419</amount>
+						<tofee>5 TRX</tofee>
+						<minamount>20 USDT</minamount>
+						<maxamount>5304.7292 USDT</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>WMZ</to>
+						<in>1</in>
+						<out>1.01</out>
+						<amount>1827.3816</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>1809.2887 USD</maxamount>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>TRX</to>
+						<in>1.0204081632653</in>
+						<out>18910.7413</out>
+						<amount>59228.1419</amount>
+						<tofee>5 TRX</tofee>
+						<minamount>0.3 ETH</minamount>
+						<maxamount>3.19590219 ETH</maxamount>
+					</item>
+				<item>
+					<from>TRX</from>
+						<to>WMZ</to>
+						<in>1</in>
+						<out>0.0884</out>
+						<amount>1827.3816</amount>
+						<minamount>100 TRX</minamount>
+						<maxamount>20671.7376 TRX</maxamount>
+					</item>
+				<item>
+					<from>ADVCRUB</from>
+						<to>EPAYUSD</to>
+						<in>103.97894736842</in>
+						<out>1</out>
+						<amount>2011.88</amount>
+						<minfee>1 USD</minfee>
+						<minamount>1039.7896 RUB</minamount>
+						<maxamount>209193.196 RUB</maxamount>
+					</item>
+				<item>
+					<from>ADVCRUB</from>
+						<to>USDTBEP20</to>
+						<in>102.09819121447</in>
+						<out>1</out>
+						<amount>251.4981</amount>
+						<tofee>1.5 USDT</tofee>
+						<minamount>2041.9644 RUB</minamount>
+						<maxamount>25677.5085 RUB</maxamount>
+					</item>
+				<item>
+					<from>ADVCUAH</from>
+						<to>PMUSD</to>
+						<in>44.173140954495</in>
+						<out>1</out>
+						<amount>124.938</amount>
+						<minamount>500 UAH</minamount>
+						<maxamount>5518.9041 UAH</maxamount>
+					</item>
+				<item>
+					<from>TRX</from>
+						<to>ETH</to>
+						<in>19101.758888889</in>
+						<out>1</out>
+						<amount>3.13589929</amount>
+						<tofee>0.003 ETH</tofee>
+						<minamount>955.1098 TRX</minamount>
+						<maxamount>59902.5652 TRX</maxamount>
+					</item>
+				<item>
+					<from>ADVCUAH</from>
+						<to>WMZ</to>
+						<in>44.173140954495</in>
+						<out>1</out>
+						<amount>1827.3816</amount>
+						<minamount>500 UAH</minamount>
+						<maxamount>10000 UAH</maxamount>
+					</item>
+				<item>
+					<from>XRP</from>
+						<to>ETH</to>
+						<in>3310.8636056633</in>
+						<out>1</out>
+						<amount>3.13589929</amount>
+						<tofee>0.003 ETH</tofee>
+						<minamount>165.54098795 XRP</minamount>
+						<maxamount>10382.39733148 XRP</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>EPAYUSD</to>
+						<in>1.0204081632653</in>
+						<out>1</out>
+						<amount>2011.88</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>2052.9388 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCEUR</from>
+						<to>EPAYUSD</to>
+						<in>1.0416666666667</in>
+						<out>1.0561</out>
+						<amount>2011.88</amount>
+						<minfee>1 USD</minfee>
+						<minamount>10 EUR</minamount>
+						<maxamount>1984.3844 EUR</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>ADVCEUR</to>
+						<in>1.0915762273902</in>
+						<out>1</out>
+						<amount>47.92</amount>
+						<minfee>1 EUR</minfee>
+						<minamount>10.9158 USD</minamount>
+						<maxamount>52.3083 USD</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>ADVCRUB</to>
+						<in>1.1111111111111</in>
+						<out>97.7922</out>
+						<amount>1280</amount>
+						<maxamount>0 USD</maxamount>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>EPAYUSD</to>
+						<in>1.0416666666667</in>
+						<out>1672.77</out>
+						<amount>2011.88</amount>
+						<minamount>0.3 ETH</minamount>
+						<maxamount>1.25283711 ETH</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>ADVCUSD</to>
+						<in>1.025641025641</in>
+						<out>1</out>
+						<amount>872.58</amount>
+						<minamount>10.2564 USD</minamount>
+						<maxamount>894.9538 USD</maxamount>
+					</item>
+				<item>
+					<from>PRRUB</from>
+						<to>WMZ</to>
+						<in>98.2861</in>
+						<out>1</out>
+						<amount>1827.3816</amount>
+						<minamount>1000 RUB</minamount>
+						<maxamount>179606.1873 RUB</maxamount>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>CARDEUR</to>
+						<in>1.0869565217391</in>
+						<out>1584.15</out>
+						<amount>0</amount>
+						<minfee>10 EUR</minfee>
+						<maxamount>0 ETH</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>WMZ</to>
+						<in>1</in>
+						<out>1.01</out>
+						<amount>1827.3816</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>1809.2887 USD</maxamount>
+					</item>
+				<item>
+					<from>WMZ</from>
+						<to>CASHUSD</to>
+						<in>1.5625</in>
+						<out>1</out>
+						<amount>65406.2842</amount>
+						<maxamount>0 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>ADVCUAH</from>
+						<to>USDTBEP20</to>
+						<in>48.984615384615</in>
+						<out>1</out>
+						<amount>251.4981</amount>
+						<tofee>1.5 USDT</tofee>
+						<minamount>1000 UAH</minamount>
+						<maxamount>10000 UAH</maxamount>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>PREUR</to>
+						<in>1.0309278350515</in>
+						<out>1584.15</out>
+						<amount>1.3167</amount>
+						<maxamount>0 ETH</maxamount>
+					</item>
+				<item>
+					<from>EPAYEUR</from>
+						<to>ADVCEUR</to>
+						<in>1.0309278350515</in>
+						<out>1</out>
+						<amount>47.92</amount>
+						<minfee>1 EUR</minfee>
+						<minamount>10.3093 EUR</minamount>
+						<maxamount>49.4021 EUR</maxamount>
+					</item>
+				<item>
+					<from>EPAYEUR</from>
+						<to>PREUR</to>
+						<in>1.0309278350515</in>
+						<out>1</out>
+						<amount>1.3167</amount>
+						<minfee>1 EUR</minfee>
+						<maxamount>0 EUR</maxamount>
+					</item>
+				<item>
+					<from>EPAYEUR</from>
+						<to>ADVCUSD</to>
+						<in>1.0752688172043</in>
+						<out>1.0561</out>
+						<amount>872.58</amount>
+						<minfee>1 USD</minfee>
+						<minamount>10.1815 EUR</minamount>
+						<maxamount>888.4178 EUR</maxamount>
+					</item>
+				<item>
+					<from>EPAYEUR</from>
+						<to>PRUSD</to>
+						<in>1.0752688172043</in>
+						<out>1.0561</out>
+						<amount>1970.3079</amount>
+						<minfee>1 USD</minfee>
+						<minamount>10.1815 EUR</minamount>
+						<maxamount>2006.0701 EUR</maxamount>
+					</item>
+				<item>
+					<from>EPAYEUR</from>
+						<to>CARDEUR</to>
+						<in>1.0869565217391</in>
+						<out>1</out>
+						<amount>0</amount>
+						<minfee>10 EUR</minfee>
+						<maxamount>0 EUR</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>EPAYEUR</from>
+						<to>CARDUSD</to>
+						<in>1.1627906976744</in>
+						<out>1.0561</out>
+						<amount>0</amount>
+						<minfee>10 USD</minfee>
+						<maxamount>0 EUR</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>EPAYEUR</from>
+						<to>CARDAMD</to>
+						<in>1.1764705882353</in>
+						<out>417</out>
+						<amount>256930.402</amount>
+						<minamount>70.5318 EUR</minamount>
+						<maxamount>724.8707 EUR</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>EPAYEUR</from>
+						<to>TRX</to>
+						<in>0.092853185595568</in>
+						<out>1</out>
+						<amount>59228.1419</amount>
+						<tofee>5 TRX</tofee>
+						<minamount>20 EUR</minamount>
+						<maxamount>5499.5217 EUR</maxamount>
+					</item>
+				<item>
+					<from>EPAYEUR</from>
+						<to>ETH</to>
+						<in>1755.2908587258</in>
+						<out>1</out>
+						<amount>3.13589929</amount>
+						<tofee>0.003 ETH</tofee>
+						<minamount>87.764 EUR</minamount>
+						<maxamount>5504.3782 EUR</maxamount>
+					</item>
+				<item>
+					<from>EPAYEUR</from>
+						<to>WMZ</to>
+						<in>1</in>
+						<out>1.0561</out>
+						<amount>1827.3816</amount>
+						<minamount>10 EUR</minamount>
+						<maxamount>1730.3111 EUR</maxamount>
+					</item>
+				<item>
+					<from>EPAYEUR</from>
+						<to>PRRUB</to>
+						<in>1.0752688172043</in>
+						<out>103.2783</out>
+						<amount>2482.0092</amount>
+						<minamount>10.4114 EUR</minamount>
+						<maxamount>25.8411 EUR</maxamount>
+					</item>
+				<item>
+					<from>EPAYEUR</from>
+						<to>PMUSD</to>
+						<in>1.0309278350515</in>
+						<out>1.0561</out>
+						<amount>124.938</amount>
+						<minfee>1 USD</minfee>
+						<minamount>10 EUR</minamount>
+						<maxamount>121.9601 EUR</maxamount>
+					</item>
+				<item>
+					<from>EPAYEUR</from>
+						<to>USDTTRC20</to>
+						<in>1.1111111111111</in>
+						<out>1.0561</out>
+						<amount>5824.7587</amount>
+						<tofee>1.5 USDT</tofee>
+						<minamount>21.0418 EUR</minamount>
+						<maxamount>6128.1641 EUR</maxamount>
+					</item>
+				<item>
+					<from>WMZ</from>
+						<to>CASHAMD</to>
+						<in>1.5625</in>
+						<out>395</out>
+						<amount>1756024.862</amount>
+						<maxamount>0 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>EPAYEUR</to>
+						<in>1.0776530612245</in>
+						<out>1</out>
+						<amount>5.57</amount>
+						<minfee>1 EUR</minfee>
+						<maxamount>0 USD</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>CASHUSD</to>
+						<in>1.1363636363636</in>
+						<out>1</out>
+						<amount>65406.2842</amount>
+						<minamount>568.1818 USD</minamount>
+						<maxamount>2160.7222 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>ADVCEUR</from>
+						<to>EPAYEUR</to>
+						<in>1.0204081632653</in>
+						<out>1</out>
+						<amount>5.57</amount>
+						<minfee>1 EUR</minfee>
+						<maxamount>0 EUR</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHUSD</to>
+						<in>1.1111111111111</in>
+						<out>1</out>
+						<amount>65406.2842</amount>
+						<minamount>555.5556 USDT</minamount>
+						<maxamount>72673.6491 USDT</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>ADVCRUB</from>
+						<to>EPAYEUR</to>
+						<in>109.81221052632</in>
+						<out>1</out>
+						<amount>5.57</amount>
+						<minfee>1 EUR</minfee>
+						<maxamount>0 RUB</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CARDUSD</to>
+						<in>1.0416666666667</in>
+						<out>1</out>
+						<amount>0</amount>
+						<minfee>10 USD</minfee>
+						<maxamount>0 USDT</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>EPAYEUR</to>
+						<in>1.0526315789474</in>
+						<out>1584.15</out>
+						<amount>5.57</amount>
+						<maxamount>0 ETH</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CARDAMD</to>
+						<in>1.1111111111111</in>
+						<out>395</out>
+						<amount>256930.402</amount>
+						<minamount>70.3235 USDT</minamount>
+						<maxamount>722.7297 USDT</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>EPAYEUR</to>
+						<in>1.0667676767677</in>
+						<out>1</out>
+						<amount>5.57</amount>
+						<minfee>1 EUR</minfee>
+						<maxamount>0 USD</maxamount>
+					</item>
+				<item>
+					<from>PRRUB</from>
+						<to>EPAYEUR</to>
+						<in>114.63912087912</in>
+						<out>1</out>
+						<amount>5.57</amount>
+						<minfee>1 EUR</minfee>
+						<maxamount>0 RUB</maxamount>
+					</item>
+				<item>
+					<from>PREUR</from>
+						<to>EPAYEUR</to>
+						<in>1.0526315789474</in>
+						<out>1</out>
+						<amount>5.57</amount>
+						<minfee>1 EUR</minfee>
+						<maxamount>0 EUR</maxamount>
+					</item>
+				<item>
+					<from>USDTBEP20</from>
+						<to>CARDAMD</to>
+						<in>1.1111111111111</in>
+						<out>395</out>
+						<amount>256930.402</amount>
+						<minamount>70.3235 USDT</minamount>
+						<maxamount>722.7297 USDT</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>EPAYEUR</to>
+						<in>1.1175661375661</in>
+						<out>1</out>
+						<amount>5.57</amount>
+						<minfee>1 EUR</minfee>
+						<maxamount>0 USD</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>EPAYEUR</to>
+						<in>1.0776530612245</in>
+						<out>1</out>
+						<amount>5.57</amount>
+						<maxamount>0 USDT</maxamount>
+					</item>
+				<item>
+					<from>TRX</from>
+						<to>EPAYEUR</to>
+						<in>1.0309278350515</in>
+						<out>0.0838</out>
+						<amount>5.57</amount>
+						<minfee>1 EUR</minfee>
+						<maxamount>0 TRX</maxamount>
+					</item>
+				<item>
+					<from>USDTBEP20</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>1.01</out>
+						<amount>124.938</amount>
+						<minamount>20 USDT</minamount>
+						<maxamount>123.701 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>WMZ</to>
+						<in>1</in>
+						<out>1.01</out>
+						<amount>1827.3816</amount>
+						<minamount>20 USDT</minamount>
+						<maxamount>1809.2887 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTBEP20</from>
+						<to>ADVCUSD</to>
+						<in>1.0126582278481</in>
+						<out>1</out>
+						<amount>872.58</amount>
+						<minamount>20 USDT</minamount>
+						<maxamount>883.6253 USDT</maxamount>
+					</item>
+				<item>
+					<from>EPAYUSD</from>
+						<to>EPAYEUR</to>
+						<in>1.0831794871795</in>
+						<out>1</out>
+						<amount>5.57</amount>
+						<maxamount>0 USD</maxamount>
+					</item>
+				<item>
+					<from>EPAYEUR</from>
+						<to>EPAYUSD</to>
+						<in>1.0416666666667</in>
+						<out>1.0561</out>
+						<amount>2011.88</amount>
+						<minfee>1 USD</minfee>
+						<minamount>10 EUR</minamount>
+						<maxamount>1984.3844 EUR</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CARDEUR</to>
+						<in>1.1001041666667</in>
+						<out>1</out>
+						<amount>0</amount>
+						<minfee>10 EUR</minfee>
+						<maxamount>0 USDT</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>CASHAMD</to>
+						<in>1.1111111111111</in>
+						<out>395</out>
+						<amount>1756024.862</amount>
+						<minamount>562.5879 USDT</minamount>
+						<maxamount>4939.5917 USDT</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>CARDUSD</to>
+						<in>1.1111111111111</in>
+						<out>1</out>
+						<amount>0</amount>
+						<minfee>10 USD</minfee>
+						<maxamount>0 USD</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>CASHUSD</to>
+						<in>1.1111111111111</in>
+						<out>1</out>
+						<amount>65406.2842</amount>
+						<minamount>555.5556 USD</minamount>
+						<maxamount>72673.6491 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>EPAYEUR</from>
+						<to>CASHUSD</to>
+						<in>1.1111111111111</in>
+						<out>1.0561</out>
+						<amount>65406.2842</amount>
+						<minamount>526.0445 EUR</minamount>
+						<maxamount>68813.2271 EUR</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>EPAYEUR</from>
+						<to>CASHAMD</to>
+						<in>1.1111111111111</in>
+						<out>417</out>
+						<amount>1756024.862</amount>
+						<minamount>1332.2675 EUR</minamount>
+						<maxamount>4678.9898 EUR</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>ADVCEUR</from>
+						<to>CASHUSD</to>
+						<in>1.1111111111111</in>
+						<out>1.0561</out>
+						<amount>65406.2842</amount>
+						<minamount>526.0445 EUR</minamount>
+						<maxamount>68813.2271 EUR</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>USDTTRC20</to>
+						<in>1.0362694300518</in>
+						<out>1</out>
+						<amount>5824.7587</amount>
+						<tofee>1.5 USDT</tofee>
+						<minamount>20 USD</minamount>
+						<maxamount>2160.7222 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCRUB</from>
+						<to>CASHUSD</to>
+						<in>109.75555555556</in>
+						<out>1</out>
+						<amount>65406.2842</amount>
+						<minamount>54877.7543 RUB</minamount>
+						<maxamount>1000000 RUB</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>PRUSD</to>
+						<in>1.0309278350515</in>
+						<out>1</out>
+						<amount>1970.3079</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>2031.2453 USD</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>XRP</to>
+						<in>0.54273684210526</in>
+						<out>1</out>
+						<amount>10171.28994528</amount>
+						<tofee>1 XRP</tofee>
+						<minamount>20 USD</minamount>
+						<maxamount>2160.7222 USD</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>CARDAMD</to>
+						<in>1.1363636363636</in>
+						<out>395</out>
+						<amount>256930.402</amount>
+						<minamount>71.9217 USD</minamount>
+						<maxamount>739.1554 USD</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>1.015</out>
+						<amount>124.938</amount>
+						<minamount>20 USDT</minamount>
+						<maxamount>123.0916 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>PRUSD</to>
+						<in>1.0095911155982</in>
+						<out>1</out>
+						<amount>1970.3079</amount>
+						<minamount>20 USDT</minamount>
+						<maxamount>1989.2054 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>XRP</to>
+						<in>0.52080808080808</in>
+						<out>1</out>
+						<amount>10171.28994528</amount>
+						<tofee>1 XRP</tofee>
+						<minamount>20 USDT</minamount>
+						<maxamount>5208.0808 USDT</maxamount>
+					</item>
+				<item>
+					<from>PREUR</from>
+						<to>WMZ</to>
+						<in>1</in>
+						<out>1.0561</out>
+						<amount>1827.3816</amount>
+						<minamount>10 EUR</minamount>
+						<maxamount>1730.3111 EUR</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>USDTTRC20</to>
+						<in>1.025641025641</in>
+						<out>1</out>
+						<amount>5824.7587</amount>
+						<tofee>1.5 USDT</tofee>
+						<minamount>20.5128 USD</minamount>
+						<maxamount>5974.1115 USD</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>1</out>
+						<amount>124.938</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>124.938 USD</maxamount>
+					</item>
+				<item>
+					<from>USDC</from>
+						<to>CASHUSD</to>
+						<in>1.1111111111111</in>
+						<out>1</out>
+						<amount>65406.2842</amount>
+						<minamount>555.5556 USDC</minamount>
+						<maxamount>72673.6491 USDC</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>XRP</to>
+						<in>0.53430051813472</in>
+						<out>1</out>
+						<amount>10171.28994528</amount>
+						<tofee>1 XRP</tofee>
+						<minamount>20 USD</minamount>
+						<maxamount>5343.0052 USD</maxamount>
+					</item>
+				<item>
+					<from>USDC</from>
+						<to>CASHAMD</to>
+						<in>1.1111111111111</in>
+						<out>395</out>
+						<amount>1756024.862</amount>
+						<minfee>40000 AMD</minfee>
+						<minamount>1125.1758 USDC</minamount>
+						<maxamount>4939.5917 USDC</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>EPAYEUR</from>
+						<to>ADVCRUB</to>
+						<in>1.4285714285714</in>
+						<out>103.2783</out>
+						<amount>1280</amount>
+						<maxamount>0 EUR</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>CARDUSD</to>
+						<in>1.0752688172043</in>
+						<out>1</out>
+						<amount>0</amount>
+						<minfee>10 USD</minfee>
+						<maxamount>0 USD</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>CARDEUR</to>
+						<in>1.1442036836403</in>
+						<out>1</out>
+						<amount>0</amount>
+						<minfee>10 EUR</minfee>
+						<maxamount>0 USD</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>USDTBEP20</from>
+						<to>WMZ</to>
+						<in>1</in>
+						<out>1.01</out>
+						<amount>1827.3816</amount>
+						<minamount>20 USDT</minamount>
+						<maxamount>1809.2887 USDT</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>CARDAMD</to>
+						<in>1.1111111111111</in>
+						<out>395</out>
+						<amount>256930.402</amount>
+						<minamount>70.3235 USD</minamount>
+						<maxamount>722.7297 USD</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>ADVCUSD</to>
+						<in>1.0309278350515</in>
+						<out>1672.77</out>
+						<amount>872.58</amount>
+						<minamount>0.3 ETH</minamount>
+						<maxamount>0.53777089 ETH</maxamount>
+					</item>
+				<item>
+					<from>USDCTRC20</from>
+						<to>CASHUSD</to>
+						<in>1.1111111111111</in>
+						<out>1</out>
+						<amount>65406.2842</amount>
+						<minamount>555.5556 USDC</minamount>
+						<maxamount>72673.6491 USDC</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>USDCTRC20</from>
+						<to>CASHAMD</to>
+						<in>1.1111111111111</in>
+						<out>395</out>
+						<amount>1756024.862</amount>
+						<minfee>40000 AMD</minfee>
+						<minamount>1125.1758 USDC</minamount>
+						<maxamount>4939.5917 USDC</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>USDCTRC20</from>
+						<to>CARDAMD</to>
+						<in>1.1111111111111</in>
+						<out>395</out>
+						<amount>256930.402</amount>
+						<minamount>70.3235 USDC</minamount>
+						<maxamount>722.7297 USDC</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>CASHUSD</to>
+						<in>1.1111111111111</in>
+						<out>1</out>
+						<amount>65406.2842</amount>
+						<minamount>555.5556 USD</minamount>
+						<maxamount>72673.6491 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>USDCTRC20</from>
+						<to>CARDUSD</to>
+						<in>1.063829787234</in>
+						<out>1</out>
+						<amount>0</amount>
+						<minfee>10 USD</minfee>
+						<maxamount>0 USDC</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>CASHUSD</to>
+						<in>1.1111111111111</in>
+						<out>1672.77</out>
+						<amount>65406.2842</amount>
+						<minamount>0.33211712 ETH</minamount>
+						<maxamount>43.44509353 ETH</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>CASHAMD</to>
+						<in>1.1111111111111</in>
+						<out>660744.15</out>
+						<amount>1756024.862</amount>
+						<minfee>40000 AMD</minfee>
+						<minamount>0.67264227 ETH</minamount>
+						<maxamount>2.95294137 ETH</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>ADVCEUR</to>
+						<in>1.0309278350515</in>
+						<out>1584.15</out>
+						<amount>47.92</amount>
+						<maxamount>0 ETH</maxamount>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>1672.77</out>
+						<amount>124.938</amount>
+						<maxamount>0 ETH</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>PRRUB</to>
+						<in>1.0582010582011</in>
+						<out>97.7922</out>
+						<amount>2482.0092</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>26.8576 USD</maxamount>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>PRUSD</to>
+						<in>1.0309278350515</in>
+						<out>1672.77</out>
+						<amount>1970.3079</amount>
+						<minamount>0.3 ETH</minamount>
+						<maxamount>1.21430039 ETH</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>PRRUB</to>
+						<in>1.0335917312661</in>
+						<out>97.7922</out>
+						<amount>2482.0092</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>26.233 USD</maxamount>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>PRRUB</to>
+						<in>1.0309278350515</in>
+						<out>163410.687</out>
+						<amount>2482.0092</amount>
+						<minfee>75 RUB</minfee>
+						<maxamount>0 ETH</maxamount>
+					</item>
+				<item>
+					<from>PRRUB</from>
+						<to>PMUSD</to>
+						<in>101.31282051282</in>
+						<out>1</out>
+						<amount>124.938</amount>
+						<minamount>1000 RUB</minamount>
+						<maxamount>12657.82 RUB</maxamount>
+					</item>
+				<item>
+					<from>PRRUB</from>
+						<to>USDTTRC20</to>
+						<in>101.83505154639</in>
+						<out>1</out>
+						<amount>5824.7587</amount>
+						<tofee>1.5 USDT</tofee>
+						<minamount>2036.7014 RUB</minamount>
+						<maxamount>500000 RUB</maxamount>
+					</item>
+				<item>
+					<from>PREUR</from>
+						<to>ADVCRUB</to>
+						<in>1.1111111111111</in>
+						<out>103.2783</out>
+						<amount>1280</amount>
+						<maxamount>0 EUR</maxamount>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>ADVCRUB</to>
+						<in>1.4285714285714</in>
+						<out>163410.687</out>
+						<amount>1280</amount>
+						<fromfee>0.006 ETH</fromfee>
+						<maxamount>0 ETH</maxamount>
+					</item>
+				<item>
+					<from>PREUR</from>
+						<to>ADVCUSD</to>
+						<in>1.0526315789474</in>
+						<out>1.0561</out>
+						<amount>872.58</amount>
+						<minfee>1 USD</minfee>
+						<minamount>10 EUR</minamount>
+						<maxamount>869.7143 EUR</maxamount>
+					</item>
+				<item>
+					<from>PRRUB</from>
+						<to>CARDAMD</to>
+						<in>1.1111111111111</in>
+						<out>4</out>
+						<amount>256930.402</amount>
+						<minamount>6944.4444 RUB</minamount>
+						<maxamount>71369.5561 RUB</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>PRRUB</from>
+						<to>XRP</to>
+						<in>53.589473684211</in>
+						<out>1</out>
+						<amount>10171.28994528</amount>
+						<tofee>1 XRP</tofee>
+						<minamount>2000 RUB</minamount>
+						<maxamount>500000 RUB</maxamount>
+					</item>
+				<item>
+					<from>TRX</from>
+						<to>PREUR</to>
+						<in>1.010101010101</in>
+						<out>0.0838</out>
+						<amount>1.3167</amount>
+						<minfee>1 EUR</minfee>
+						<maxamount>0 TRX</maxamount>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>CASHUSD</to>
+						<in>1.1111111111111</in>
+						<out>1</out>
+						<amount>65406.2842</amount>
+						<minamount>555.5556 USDT</minamount>
+						<maxamount>72673.6491 USDT</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>PRRUB</from>
+						<to>CASHUSD</to>
+						<in>109.75555555556</in>
+						<out>1</out>
+						<amount>65406.2842</amount>
+						<minamount>54877.7543 RUB</minamount>
+						<maxamount>7178699.9899 RUB</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>USDTERC20</from>
+						<to>CASHAMD</to>
+						<in>1.1111111111111</in>
+						<out>395</out>
+						<amount>1756024.862</amount>
+						<minamount>562.5879 USDT</minamount>
+						<maxamount>4939.5917 USDT</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>USDCTRC20</from>
+						<to>ADVCEUR</to>
+						<in>1.0887628865979</in>
+						<out>1</out>
+						<amount>47.92</amount>
+						<minfee>1 EUR</minfee>
+						<minamount>25 USDC</minamount>
+						<maxamount>52.1735 USDC</maxamount>
+					</item>
+				<item>
+					<from>PRRUB</from>
+						<to>PRUSD</to>
+						<in>106.21505376344</in>
+						<out>1</out>
+						<amount>1970.3079</amount>
+						<minamount>1000 RUB</minamount>
+						<maxamount>209276.3886 RUB</maxamount>
+					</item>
+				<item>
+					<from>USDCTRC20</from>
+						<to>PREUR</to>
+						<in>1.0887628865979</in>
+						<out>1</out>
+						<amount>1.3167</amount>
+						<minfee>1 EUR</minfee>
+						<maxamount>0 USDC</maxamount>
+					</item>
+				<item>
+					<from>XRP</from>
+						<to>CARDAMD</to>
+						<in>1.1111111111111</in>
+						<out>203.662</out>
+						<amount>256930.402</amount>
+						<minamount>136.39155944 XRP</minamount>
+						<maxamount>1401.72552781 XRP</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>USDCTRC20</from>
+						<to>EPAYEUR</to>
+						<in>1.0887628865979</in>
+						<out>1</out>
+						<amount>5.57</amount>
+						<minfee>1 EUR</minfee>
+						<maxamount>0 USDC</maxamount>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>USDTTRC20</to>
+						<in>1.0204081632653</in>
+						<out>1672.77</out>
+						<amount>5824.7587</amount>
+						<tofee>1.5 USDT</tofee>
+						<minamount>0.3 ETH</minamount>
+						<maxamount>3.5531671 ETH</maxamount>
+					</item>
+				<item>
+					<from>USDCTRC20</from>
+						<to>WMZ</to>
+						<in>1</in>
+						<out>1.01</out>
+						<amount>1827.3816</amount>
+						<minamount>20 USDC</minamount>
+						<maxamount>1809.2887 USDC</maxamount>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>CARDAMD</to>
+						<in>1.1111111111111</in>
+						<out>660744.15</out>
+						<amount>256930.402</amount>
+						<minamount>0.3 ETH</minamount>
+						<maxamount>0.43205562 ETH</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>EPCUSD</to>
+						<in>1</in>
+						<out>1</out>
+						<amount>1095.1468</amount>
+						<minfee>1 USD</minfee>
+						<minamount>25 USDT</minamount>
+						<maxamount>1095.1468 USDT</maxamount>
+					</item>
+				<item>
+					<from>PREUR</from>
+						<to>XRP</to>
+						<in>0.51957446808511</in>
+						<out>1</out>
+						<amount>10171.28994528</amount>
+						<tofee>1 XRP</tofee>
+						<minamount>20 EUR</minamount>
+						<maxamount>5284.7426 EUR</maxamount>
+					</item>
+				<item>
+					<from>XRP</from>
+						<to>CASHUSD</to>
+						<in>1.1111111111111</in>
+						<out>0.5156</out>
+						<amount>65406.2842</amount>
+						<minamount>1077.49331954 XRP</minamount>
+						<maxamount>140949.66856305 XRP</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>TRX</from>
+						<to>EPCUSD</to>
+						<in>1</in>
+						<out>0.0884</out>
+						<amount>1095.1468</amount>
+						<minamount>100 TRX</minamount>
+						<maxamount>12388.5385 TRX</maxamount>
+					</item>
+				<item>
+					<from>PREUR</from>
+						<to>USDTTRC20</to>
+						<in>1.0695187165775</in>
+						<out>1.0561</out>
+						<amount>5824.7587</amount>
+						<tofee>1.5 USDT</tofee>
+						<minamount>20.2541 EUR</minamount>
+						<maxamount>5898.7676 EUR</maxamount>
+					</item>
+				<item>
+					<from>XRP</from>
+						<to>CASHAMD</to>
+						<in>1.1111111111111</in>
+						<out>203.662</out>
+						<amount>1756024.862</amount>
+						<minfee>40000 AMD</minfee>
+						<minamount>2182.26495097 XRP</minamount>
+						<maxamount>9580.27877344 XRP</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>EPCUSD</to>
+						<in>1</in>
+						<out>1</out>
+						<amount>1095.1468</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>1095.1468 USD</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>EPCUSD</to>
+						<in>1</in>
+						<out>1</out>
+						<amount>1095.1468</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>1095.1468 USD</maxamount>
+					</item>
+				<item>
+					<from>EPAYUSD</from>
+						<to>EPCUSD</to>
+						<in>1</in>
+						<out>1</out>
+						<amount>1095.1468</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>1095.1468 USD</maxamount>
+					</item>
+				<item>
+					<from>PREUR</from>
+						<to>CARDUSD</to>
+						<in>1.1627906976744</in>
+						<out>1.0561</out>
+						<amount>0</amount>
+						<minfee>10 USD</minfee>
+						<maxamount>0 EUR</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>EPAYEUR</from>
+						<to>EPCUSD</to>
+						<in>1</in>
+						<out>1.0561</out>
+						<amount>1095.1468</amount>
+						<minfee>1 USD</minfee>
+						<minamount>10 EUR</minamount>
+						<maxamount>1036.9726 EUR</maxamount>
+					</item>
+				<item>
+					<from>PREUR</from>
+						<to>ADVCEUR</to>
+						<in>1.0526315789474</in>
+						<out>1</out>
+						<amount>47.92</amount>
+						<minfee>1 EUR</minfee>
+						<minamount>10.5263 EUR</minamount>
+						<maxamount>50.4421 EUR</maxamount>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>ADVCEUR</to>
+						<in>1.0230179028133</in>
+						<out>62.1</out>
+						<amount>47.92</amount>
+						<minfee>1 EUR</minfee>
+						<minamount>0.16473718 LTC</minamount>
+						<maxamount>0.78942058 LTC</maxamount>
+					</item>
+				<item>
+					<from>PREUR</from>
+						<to>PRUSD</to>
+						<in>1.0520778537612</in>
+						<out>1.0561</out>
+						<amount>1970.3079</amount>
+						<minfee>1 USD</minfee>
+						<minamount>10 EUR</minamount>
+						<maxamount>1962.804 EUR</maxamount>
+					</item>
+				<item>
+					<from>EPAYUSD</from>
+						<to>CASHUSD</to>
+						<in>1.1111111111111</in>
+						<out>1</out>
+						<amount>65406.2842</amount>
+						<minamount>555.5556 USD</minamount>
+						<maxamount>72673.6491 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>PREUR</to>
+						<in>1</in>
+						<out>62.1</out>
+						<amount>1.3167</amount>
+						<maxamount>0 LTC</maxamount>
+					</item>
+				<item>
+					<from>PREUR</from>
+						<to>PRRUB</to>
+						<in>1.0582010582011</in>
+						<out>103.2783</out>
+						<amount>2482.0092</amount>
+						<minamount>10 EUR</minamount>
+						<maxamount>25.4309 EUR</maxamount>
+					</item>
+				<item>
+					<from>EPAYUSD</from>
+						<to>CASHAMD</to>
+						<in>1.1111111111111</in>
+						<out>395</out>
+						<amount>1756024.862</amount>
+						<minfee>40000 AMD</minfee>
+						<minamount>1125.1758 USD</minamount>
+						<maxamount>4939.5917 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>EPAYEUR</to>
+						<in>1.0309278350515</in>
+						<out>62.1</out>
+						<amount>5.57</amount>
+						<minfee>1 EUR</minfee>
+						<maxamount>0 LTC</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>ETH</to>
+						<in>1760.8105263158</in>
+						<out>1</out>
+						<amount>3.13589929</amount>
+						<tofee>0.003 ETH</tofee>
+						<minamount>88.0406 USD</minamount>
+						<maxamount>2160.7222 USD</maxamount>
+					</item>
+				<item>
+					<from>EPAYUSD</from>
+						<to>ADVCUSD</to>
+						<in>1.0204081632653</in>
+						<out>1</out>
+						<amount>872.58</amount>
+						<minamount>10.2041 USD</minamount>
+						<maxamount>890.3878 USD</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>ETH</to>
+						<in>1728.9612403101</in>
+						<out>1</out>
+						<amount>3.13589929</amount>
+						<tofee>0.003 ETH</tofee>
+						<minamount>86.4484 USD</minamount>
+						<maxamount>5421.8667 USD</maxamount>
+					</item>
+				<item>
+					<from>EPAYUSD</from>
+						<to>ADVCEUR</to>
+						<in>1.1001041666667</in>
+						<out>1</out>
+						<amount>47.92</amount>
+						<minamount>11.001 USD</minamount>
+						<maxamount>52.717 USD</maxamount>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>CARDAMD</to>
+						<in>1.1111111111111</in>
+						<out>25896.2</out>
+						<amount>256930.402</amount>
+						<minamount>1.07265845 LTC</minamount>
+						<maxamount>11.02394268 LTC</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>PREUR</from>
+						<to>ETH</to>
+						<in>1676.3492063492</in>
+						<out>1</out>
+						<amount>3.13589929</amount>
+						<tofee>0.003 ETH</tofee>
+						<minamount>83.8181 EUR</minamount>
+						<maxamount>5256.9012 EUR</maxamount>
+					</item>
+				<item>
+					<from>EPAYUSD</from>
+						<to>ADVCRUB</to>
+						<in>1.063829787234</in>
+						<out>97.7922</out>
+						<amount>1280</amount>
+						<maxamount>0 USD</maxamount>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>WMZ</to>
+						<in>1</in>
+						<out>65.56</out>
+						<amount>1827.3816</amount>
+						<minamount>0.15253203 LTC</minamount>
+						<maxamount>27.87342282 LTC</maxamount>
+					</item>
+				<item>
+					<from>PRRUB</from>
+						<to>ETH</to>
+						<in>171047.97927461</in>
+						<out>1</out>
+						<amount>3.13589929</amount>
+						<tofee>0.003 ETH</tofee>
+						<minamount>8547.0085 RUB</minamount>
+						<maxamount>500000 RUB</maxamount>
+					</item>
+				<item>
+					<from>EPAYUSD</from>
+						<to>PRUSD</to>
+						<in>1.010101010101</in>
+						<out>1</out>
+						<amount>1970.3079</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>1990.21 USD</maxamount>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>66.2156</out>
+						<amount>124.938</amount>
+						<minamount>0.15102181 LTC</minamount>
+						<maxamount>1.88683633 LTC</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>ETH</to>
+						<in>1689.6666666667</in>
+						<out>1</out>
+						<amount>3.13589929</amount>
+						<tofee>0.003 ETH</tofee>
+						<minamount>84.4837 USDT</minamount>
+						<maxamount>5298.6488 USDT</maxamount>
+					</item>
+				<item>
+					<from>EPAYUSD</from>
+						<to>PREUR</to>
+						<in>1.0776530612245</in>
+						<out>1</out>
+						<amount>1.3167</amount>
+						<maxamount>0 USD</maxamount>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>CASHUSD</to>
+						<in>1.1111111111111</in>
+						<out>65.56</out>
+						<amount>65406.2842</amount>
+						<minamount>8.47400176 LTC</minamount>
+						<maxamount>1000 LTC</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHUSD</from>
+						<to>ETH</to>
+						<in>1715.6615384615</in>
+						<out>1</out>
+						<amount>3.13589929</amount>
+						<minfee>0.03 ETH</minfee>
+						<minamount>514.6945 USD</minamount>
+						<maxamount>5380.1007 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>EPAYUSD</from>
+						<to>PRRUB</to>
+						<in>1.0204081632653</in>
+						<out>97.7922</out>
+						<amount>2482.0092</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>25.8984 USD</maxamount>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>CASHAMD</to>
+						<in>1.1111111111111</in>
+						<out>25896.2</out>
+						<amount>1756024.862</amount>
+						<minfee>40000 AMD</minfee>
+						<minamount>17.16253522 LTC</minamount>
+						<maxamount>75.34459633 LTC</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHAMD</from>
+						<to>ETH</to>
+						<in>698424.58762887</in>
+						<out>1</out>
+						<amount>3.13589929</amount>
+						<minfee>0.03 ETH</minfee>
+						<minamount>209790.2098 AMD</minamount>
+						<maxamount>2192936.5664 AMD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>EPAYUSD</from>
+						<to>USDTTRC20</to>
+						<in>1.0752688172043</in>
+						<out>1</out>
+						<amount>5824.7587</amount>
+						<tofee>1.5 USDT</tofee>
+						<minamount>20 USD</minamount>
+						<maxamount>6263.1814 USD</maxamount>
+					</item>
+				<item>
+					<from>PREUR</from>
+						<to>CASHUSD</to>
+						<in>1.1111111111111</in>
+						<out>1.0561</out>
+						<amount>65406.2842</amount>
+						<minamount>526.0445 EUR</minamount>
+						<maxamount>68813.2271 EUR</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>EPAYUSD</from>
+						<to>CARDUSD</to>
+						<in>1.0869565217391</in>
+						<out>1</out>
+						<amount>0</amount>
+						<minfee>10 USD</minfee>
+						<maxamount>0 USD</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>EPAYUSD</from>
+						<to>CARDAMD</to>
+						<in>1.1111111111111</in>
+						<out>395</out>
+						<amount>256930.402</amount>
+						<minamount>70.3235 USD</minamount>
+						<maxamount>722.7297 USD</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>PREUR</from>
+						<to>PMUSD</to>
+						<in>1.025641025641</in>
+						<out>1.0561</out>
+						<amount>124.938</amount>
+						<minamount>10 EUR</minamount>
+						<maxamount>121.3347 EUR</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>CARDUSD</to>
+						<in>1.0604453870626</in>
+						<out>1</out>
+						<amount>0</amount>
+						<minfee>10 USD</minfee>
+						<maxamount>0 USD</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>CARDEUR</to>
+						<in>1.1355913978495</in>
+						<out>1</out>
+						<amount>0</amount>
+						<minfee>10 EUR</minfee>
+						<maxamount>0 USD</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>EPCUSD</to>
+						<in>1</in>
+						<out>65.56</out>
+						<amount>1095.1468</amount>
+						<minfee>1 USD</minfee>
+						<minamount>0.15253203 LTC</minamount>
+						<maxamount>16.70449664 LTC</maxamount>
+					</item>
+				<item>
+					<from>ADVCEUR</from>
+						<to>CARDEUR</to>
+						<in>1.0869565217391</in>
+						<out>1</out>
+						<amount>0</amount>
+						<minfee>10 EUR</minfee>
+						<maxamount>0 EUR</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>EPAYUSD</from>
+						<to>ETH</to>
+						<in>1798.2278</in>
+						<out>1</out>
+						<amount>3.13589929</amount>
+						<tofee>0.003 ETH</tofee>
+						<minamount>89.9119 USD</minamount>
+						<maxamount>5639.0924 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCEUR</from>
+						<to>CARDUSD</to>
+						<in>1.1111111111111</in>
+						<out>1.0561</out>
+						<amount>0</amount>
+						<minfee>10 USD</minfee>
+						<maxamount>0 EUR</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>EPAYUSD</from>
+						<to>USDTERC20</to>
+						<in>1.0752688172043</in>
+						<out>1</out>
+						<amount>5746.5111</amount>
+						<tofee>10 USDT</tofee>
+						<minamount>100 USD</minamount>
+						<maxamount>6179.0442 USD</maxamount>
+					</item>
+				<item>
+					<from>CASHEUR</from>
+						<to>ETH</to>
+						<in>1633.1443298969</in>
+						<out>1</out>
+						<amount>3.13589929</amount>
+						<minfee>0.03 ETH</minfee>
+						<minamount>500 EUR</minamount>
+						<maxamount>5121.3406 EUR</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHEUR</from>
+						<to>BTC</to>
+						<in>26291.226804124</in>
+						<out>1</out>
+						<amount>0.00492517</amount>
+						<minfee>0.002 BTC</minfee>
+						<maxamount>0 EUR</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>EPAYUSD</from>
+						<to>WMZ</to>
+						<in>1</in>
+						<out>1.01</out>
+						<amount>1827.3816</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>1809.2887 USD</maxamount>
+					</item>
+				<item>
+					<from>EPAYUSD</from>
+						<to>XRP</to>
+						<in>0.55740540540541</in>
+						<out>1</out>
+						<amount>10171.28994528</amount>
+						<tofee>1 XRP</tofee>
+						<minamount>20 USD</minamount>
+						<maxamount>5574.054 USD</maxamount>
+					</item>
+				<item>
+					<from>USDCTRC20</from>
+						<to>EPCUSD</to>
+						<in>1</in>
+						<out>1</out>
+						<amount>1095.1468</amount>
+						<minfee>1 USD</minfee>
+						<minamount>20 USDC</minamount>
+						<maxamount>1095.1468 USDC</maxamount>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>CARDUSD</to>
+						<in>1.0869565217391</in>
+						<out>1672.77</out>
+						<amount>0</amount>
+						<minfee>10 USD</minfee>
+						<maxamount>0 ETH</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>WMZ</to>
+						<in>1</in>
+						<out>1672.77</out>
+						<amount>1827.3816</amount>
+						<minamount>0.3 ETH</minamount>
+						<maxamount>1.09242849 ETH</maxamount>
+					</item>
+				<item>
+					<from>USDCTRC20</from>
+						<to>EPAYUSD</to>
+						<in>1.0204081632653</in>
+						<out>1</out>
+						<amount>2011.88</amount>
+						<minfee>1 USD</minfee>
+						<minamount>20 USDC</minamount>
+						<maxamount>2052.9388 USDC</maxamount>
+					</item>
+				<item>
+					<from>USDCTRC20</from>
+						<to>ADVCUSD</to>
+						<in>1.0309278350515</in>
+						<out>1</out>
+						<amount>872.58</amount>
+						<minfee>1 USD</minfee>
+						<minamount>25 USDC</minamount>
+						<maxamount>899.567 USDC</maxamount>
+					</item>
+				<item>
+					<from>USDCTRC20</from>
+						<to>PRUSD</to>
+						<in>1.0309278350515</in>
+						<out>1</out>
+						<amount>1970.3079</amount>
+						<minfee>1 USD</minfee>
+						<minamount>25 USDC</minamount>
+						<maxamount>2031.2453 USDC</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>PREUR</to>
+						<in>1.0776530612245</in>
+						<out>1</out>
+						<amount>1.3167</amount>
+						<minfee>1 EUR</minfee>
+						<maxamount>0 USD</maxamount>
+					</item>
+				<item>
+					<from>ETH</from>
+						<to>EPCUSD</to>
+						<in>1</in>
+						<out>1672.77</out>
+						<amount>1095.1468</amount>
+						<minamount>0.3 ETH</minamount>
+						<maxamount>0.6546906 ETH</maxamount>
+					</item>
+				<item>
+					<from>ADVCEUR</from>
+						<to>PREUR</to>
+						<in>1.0204081632653</in>
+						<out>1</out>
+						<amount>1.3167</amount>
+						<maxamount>0 EUR</maxamount>
+					</item>
+				<item>
+					<from>ADVCRUB</from>
+						<to>PREUR</to>
+						<in>109.81221052632</in>
+						<out>1</out>
+						<amount>1.3167</amount>
+						<maxamount>0 RUB</maxamount>
+					</item>
+				<item>
+					<from>PREUR</from>
+						<to>CARDAMD</to>
+						<in>1.1627906976744</in>
+						<out>417</out>
+						<amount>256930.402</amount>
+						<minamount>69.7117 EUR</minamount>
+						<maxamount>716.4419 EUR</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>PREUR</to>
+						<in>1.1175661375661</in>
+						<out>1</out>
+						<amount>1.3167</amount>
+						<minfee>1 EUR</minfee>
+						<maxamount>0 USD</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>USDTERC20</to>
+						<in>1.010101010101</in>
+						<out>1</out>
+						<amount>5746.5111</amount>
+						<tofee>10 USDT</tofee>
+						<minamount>101.0101 USDT</minamount>
+						<maxamount>5804.5567 USDT</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>XRP</to>
+						<in>0.52478371501272</in>
+						<out>1</out>
+						<amount>10171.28994528</amount>
+						<tofee>1 XRP</tofee>
+						<minamount>20 USD</minamount>
+						<maxamount>5247.8371 USD</maxamount>
+					</item>
+				<item>
+					<from>EPAYUSD</from>
+						<to>CARDEUR</to>
+						<in>1.1479347826087</in>
+						<out>1</out>
+						<amount>0</amount>
+						<minfee>10 EUR</minfee>
+						<maxamount>0 USD</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>ADVCUSD</to>
+						<in>1.0152284263959</in>
+						<out>65.56</out>
+						<amount>872.58</amount>
+						<minfee>1 USD</minfee>
+						<minamount>0.15485485 LTC</minamount>
+						<maxamount>13.5123249 LTC</maxamount>
+					</item>
+				<item>
+					<from>ADVCRUB</from>
+						<to>XRP</to>
+						<in>53.589473684211</in>
+						<out>1</out>
+						<amount>10171.28994528</amount>
+						<tofee>1 XRP</tofee>
+						<minamount>2000 RUB</minamount>
+						<maxamount>500000 RUB</maxamount>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>PRUSD</to>
+						<in>1.010101010101</in>
+						<out>65.56</out>
+						<amount>1970.3079</amount>
+						<minfee>1 USD</minfee>
+						<minamount>0.15407276 LTC</minamount>
+						<maxamount>30.35707749 LTC</maxamount>
+					</item>
+				<item>
+					<from>ADVCEUR</from>
+						<to>XRP</to>
+						<in>0.50350515463918</in>
+						<out>1</out>
+						<amount>10171.28994528</amount>
+						<tofee>1 XRP</tofee>
+						<minamount>20 EUR</minamount>
+						<maxamount>5035.0515 EUR</maxamount>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>EPAYUSD</to>
+						<in>1.0416666666667</in>
+						<out>65.56</out>
+						<amount>2011.88</amount>
+						<minamount>0.15888753 LTC</minamount>
+						<maxamount>31.966265 LTC</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>CARDAMD</to>
+						<in>1.1111111111111</in>
+						<out>395</out>
+						<amount>256930.402</amount>
+						<minamount>70.3235 USD</minamount>
+						<maxamount>722.7297 USD</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>ADVCRUB</from>
+						<to>CARDAMD</to>
+						<in>1.1111111111111</in>
+						<out>4</out>
+						<amount>256930.402</amount>
+						<minamount>6944.4444 RUB</minamount>
+						<maxamount>71369.5561 RUB</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>ADVCEUR</from>
+						<to>CARDAMD</to>
+						<in>1.123595505618</in>
+						<out>417</out>
+						<amount>256930.402</amount>
+						<minamount>67.3618 EUR</minamount>
+						<maxamount>692.2922 EUR</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>ETH</to>
+						<in>1702.5648854962</in>
+						<out>1</out>
+						<amount>3.13589929</amount>
+						<tofee>0.003 ETH</tofee>
+						<minamount>85.1281 USD</minamount>
+						<maxamount>5339.0641 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCRUB</from>
+						<to>ETH</to>
+						<in>171047.97927461</in>
+						<out>1</out>
+						<amount>3.13589929</amount>
+						<tofee>0.003 ETH</tofee>
+						<minamount>8547.0085 RUB</minamount>
+						<maxamount>500000 RUB</maxamount>
+					</item>
+				<item>
+					<from>ADVCEUR</from>
+						<to>ETH</to>
+						<in>1626.4373716632</in>
+						<out>1</out>
+						<amount>3.13589929</amount>
+						<tofee>0.003 ETH</tofee>
+						<minamount>81.322 EUR</minamount>
+						<maxamount>5100.3502 EUR</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>PRUSD</to>
+						<in>1.010101010101</in>
+						<out>1</out>
+						<amount>1970.3079</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>1990.21 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCRUB</from>
+						<to>LTC</to>
+						<in>6674.3298969072</in>
+						<out>1</out>
+						<amount>79.97380378</amount>
+						<tofee>0.01 LTC</tofee>
+						<minamount>2000 RUB</minamount>
+						<maxamount>500000 RUB</maxamount>
+					</item>
+				<item>
+					<from>ADVCRUB</from>
+						<to>PRUSD</to>
+						<in>106.21505376344</in>
+						<out>1</out>
+						<amount>1970.3079</amount>
+						<minfee>1 USD</minfee>
+						<minamount>1062.1507 RUB</minamount>
+						<maxamount>209276.3886 RUB</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>PREUR</to>
+						<in>1.0662291771832</in>
+						<out>1</out>
+						<amount>1.3167</amount>
+						<minfee>1 EUR</minfee>
+						<maxamount>0 USDT</maxamount>
+					</item>
+				<item>
+					<from>PRRUB</from>
+						<to>LTC</to>
+						<in>6674.3298969072</in>
+						<out>1</out>
+						<amount>79.97380378</amount>
+						<tofee>0.01 LTC</tofee>
+						<minamount>2000 RUB</minamount>
+						<maxamount>500000 RUB</maxamount>
+					</item>
+				<item>
+					<from>ADVCEUR</from>
+						<to>PRUSD</to>
+						<in>1.0204081632653</in>
+						<out>1.0561</out>
+						<amount>1970.3079</amount>
+						<minfee>1 USD</minfee>
+						<minamount>10 EUR</minamount>
+						<maxamount>1903.7196 EUR</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>1.01</out>
+						<amount>124.938</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>123.701 USD</maxamount>
+					</item>
+				<item>
+					<from>PREUR</from>
+						<to>LTC</to>
+						<in>66.063829787234</in>
+						<out>1</out>
+						<amount>79.97380378</amount>
+						<tofee>0.01 LTC</tofee>
+						<minamount>20 EUR</minamount>
+						<maxamount>5283.3744 EUR</maxamount>
+					</item>
+				<item>
+					<from>ADVCRUB</from>
+						<to>PMUSD</to>
+						<in>98.78</in>
+						<out>1</out>
+						<amount>124.938</amount>
+						<minamount>1000 RUB</minamount>
+						<maxamount>12341.3717 RUB</maxamount>
+					</item>
+				<item>
+					<from>ADVCEUR</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>1.0561</out>
+						<amount>124.938</amount>
+						<minamount>10 EUR</minamount>
+						<maxamount>118.3013 EUR</maxamount>
+					</item>
+				<item>
+					<from>PREUR</from>
+						<to>USDTBEP20</to>
+						<in>1.0723860589812</in>
+						<out>1.0561</out>
+						<amount>251.4981</amount>
+						<tofee>1.5 USDT</tofee>
+						<minamount>20 EUR</minamount>
+						<maxamount>255.3764 EUR</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>USDTBEP20</to>
+						<in>1.0282776349614</in>
+						<out>1</out>
+						<amount>251.4981</amount>
+						<tofee>1.5 USDT</tofee>
+						<minamount>20 USD</minamount>
+						<maxamount>258.6099 USD</maxamount>
+					</item>
+				<item>
+					<from>USDCTRC20</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>1.01</out>
+						<amount>124.938</amount>
+						<minfee>1 USD</minfee>
+						<minamount>25 USDC</minamount>
+						<maxamount>123.701 USDC</maxamount>
+					</item>
+				<item>
+					<from>PRRUB</from>
+						<to>USDTBEP20</to>
+						<in>102.09819121447</in>
+						<out>1</out>
+						<amount>251.4981</amount>
+						<tofee>1.5 USDT</tofee>
+						<minamount>2000 RUB</minamount>
+						<maxamount>25677.5085 RUB</maxamount>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>PRRUB</to>
+						<in>1.0204081632653</in>
+						<out>6409.359</out>
+						<amount>2482.0092</amount>
+						<minfee>75 RUB</minfee>
+						<minamount>0.15920596 LTC</minamount>
+						<maxamount>0.39515066 LTC</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>ADVCUSD</to>
+						<in>1.010101010101</in>
+						<out>1</out>
+						<amount>872.58</amount>
+						<minamount>20 USDT</minamount>
+						<maxamount>881.3939 USDT</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>ADVCEUR</to>
+						<in>1.0743641912513</in>
+						<out>1</out>
+						<amount>47.92</amount>
+						<minfee>1 EUR</minfee>
+						<minamount>20 USDT</minamount>
+						<maxamount>51.4835 USDT</maxamount>
+					</item>
+				<item>
+					<from>PRRUB</from>
+						<to>ADVCRUB</to>
+						<in>1.010101010101</in>
+						<out>1</out>
+						<amount>1280</amount>
+						<minamount>1000 RUB</minamount>
+						<maxamount>1292.9293 RUB</maxamount>
+					</item>
+				<item>
+					<from>TRX</from>
+						<to>CARDUSD</to>
+						<in>1.0526315789474</in>
+						<out>0.0884</out>
+						<amount>0</amount>
+						<minfee>10 USD</minfee>
+						<maxamount>0 TRX</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>CARDUSD</to>
+						<in>1.0752688172043</in>
+						<out>65.56</out>
+						<amount>0</amount>
+						<minfee>10 USD</minfee>
+						<maxamount>0 LTC</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>PRRUB</from>
+						<to>ADVCUSD</to>
+						<in>106.21505376344</in>
+						<out>1</out>
+						<amount>872.58</amount>
+						<minfee>1 USD</minfee>
+						<minamount>1062.1507 RUB</minamount>
+						<maxamount>92681.1445 RUB</maxamount>
+					</item>
+				<item>
+					<from>PRRUB</from>
+						<to>ADVCEUR</to>
+						<in>108.66833333333</in>
+						<out>1</out>
+						<amount>47.92</amount>
+						<minfee>1 EUR</minfee>
+						<minamount>1086.6837 RUB</minamount>
+						<maxamount>5207.3881 RUB</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>ADVCUSD</to>
+						<in>1.0471204188482</in>
+						<out>1</out>
+						<amount>872.58</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>913.6963 USD</maxamount>
+					</item>
+				<item>
+					<from>TRX</from>
+						<to>CARDEUR</to>
+						<in>1.0526315789474</in>
+						<out>0.0838</out>
+						<amount>0</amount>
+						<minfee>10 EUR</minfee>
+						<maxamount>0 TRX</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>LTC</from>
+						<to>CARDEUR</to>
+						<in>1.0526315789474</in>
+						<out>62.1</out>
+						<amount>0</amount>
+						<minfee>10 EUR</minfee>
+						<maxamount>0 LTC</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>ADVCEUR</to>
+						<in>1.1175661375661</in>
+						<out>1</out>
+						<amount>47.92</amount>
+						<minfee>1 EUR</minfee>
+						<minamount>11.1757 USD</minamount>
+						<maxamount>53.5538 USD</maxamount>
+					</item>
+				<item>
+					<from>TRX</from>
+						<to>CARDAMD</to>
+						<in>1.1111111111111</in>
+						<out>34.9299</out>
+						<amount>256930.402</amount>
+						<minamount>795.2436 TRX</minamount>
+						<maxamount>8172.8898 TRX</maxamount>
+						<param>juridical</param>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>ADVCRUB</to>
+						<in>1.0582010582011</in>
+						<out>97.7922</out>
+						<amount>1280</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>13.8508 USD</maxamount>
+					</item>
+				<item>
+					<from>TRX</from>
+						<to>CASHUSD</to>
+						<in>1.1111111111111</in>
+						<out>0.0884</out>
+						<amount>65406.2842</amount>
+						<minamount>6284.5651 TRX</minamount>
+						<maxamount>822100.1031 TRX</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>TRX</from>
+						<to>CASHAMD</to>
+						<in>1.1111111111111</in>
+						<out>34.9299</out>
+						<amount>1756024.862</amount>
+						<minfee>40000 AMD</minfee>
+						<minamount>12723.8968 TRX</minamount>
+						<maxamount>55858.698 TRX</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>TRX</from>
+						<to>ADVCUSD</to>
+						<in>1.010101010101</in>
+						<out>0.0884</out>
+						<amount>872.58</amount>
+						<minfee>1 USD</minfee>
+						<minamount>114.2648 TRX</minamount>
+						<maxamount>9970.5197 TRX</maxamount>
+					</item>
+				<item>
+					<from>CASHUSD</from>
+						<to>BTC</to>
+						<in>27766.268041237</in>
+						<out>1</out>
+						<amount>0.00492517</amount>
+						<minfee>0.002 BTC</minfee>
+						<maxamount>0 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>CASHAMD</from>
+						<to>BTC</to>
+						<in>11245338.556701</in>
+						<out>1</out>
+						<amount>0.00492517</amount>
+						<minfee>0.002 BTC</minfee>
+						<maxamount>0 AMD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>TRX</from>
+						<to>ADVCEUR</to>
+						<in>1.010101010101</in>
+						<out>0.0838</out>
+						<amount>47.92</amount>
+						<minfee>1 EUR</minfee>
+						<minamount>120.5371 TRX</minamount>
+						<maxamount>577.6138 TRX</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>EPAYUSD</to>
+						<in>1.0204081632653</in>
+						<out>1</out>
+						<amount>2011.88</amount>
+						<minamount>20 USDT</minamount>
+						<maxamount>2052.9388 USDT</maxamount>
+					</item>
+				<item>
+					<from>TRX</from>
+						<to>EPAYUSD</to>
+						<in>1.0526315789474</in>
+						<out>0.0884</out>
+						<amount>2011.88</amount>
+						<minfee>1 USD</minfee>
+						<minamount>119.076 TRX</minamount>
+						<maxamount>23956.6563 TRX</maxamount>
+					</item>
+				<item>
+					<from>TRX</from>
+						<to>PMUSD</to>
+						<in>1</in>
+						<out>0.0893</out>
+						<amount>124.938</amount>
+						<minamount>100 TRX</minamount>
+						<maxamount>1399.0817 TRX</maxamount>
+					</item>
+				<item>
+					<from>TRX</from>
+						<to>PRUSD</to>
+						<in>1.0204081632653</in>
+						<out>0.0884</out>
+						<amount>1970.3079</amount>
+						<minfee>1 USD</minfee>
+						<minamount>115.4308 TRX</minamount>
+						<maxamount>22743.4193 TRX</maxamount>
+					</item>
+				<item>
+					<from>ADVCEUR</from>
+						<to>ADVCRUB</to>
+						<in>1.1764705882353</in>
+						<out>103.2783</out>
+						<amount>1280</amount>
+						<maxamount>0 EUR</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>EPCUSD</to>
+						<in>1</in>
+						<out>1</out>
+						<amount>1095.1468</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>1095.1468 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCEUR</from>
+						<to>ADVCUSD</to>
+						<in>1.0309278350515</in>
+						<out>1.0561</out>
+						<amount>872.58</amount>
+						<minfee>1 USD</minfee>
+						<minamount>10 EUR</minamount>
+						<maxamount>851.782 EUR</maxamount>
+					</item>
+				<item>
+					<from>EPAYUSD</from>
+						<to>USDTBEP20</to>
+						<in>1.0752688172043</in>
+						<out>1</out>
+						<amount>251.4981</amount>
+						<tofee>1.5 USDT</tofee>
+						<minamount>20 USD</minamount>
+						<maxamount>270.4281 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCEUR</from>
+						<to>USDTBEP20</to>
+						<in>1.0309278350515</in>
+						<out>1.0561</out>
+						<amount>251.4981</amount>
+						<tofee>1.5 USDT</tofee>
+						<minamount>19.5233 EUR</minamount>
+						<maxamount>245.5036 EUR</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>ADVCEUR</to>
+						<in>1.0887628865979</in>
+						<out>1</out>
+						<amount>47.92</amount>
+						<minfee>1 EUR</minfee>
+						<minamount>10.8876 USD</minamount>
+						<maxamount>52.1735 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>USDTBEP20</to>
+						<in>1.0126582278481</in>
+						<out>1</out>
+						<amount>251.4981</amount>
+						<tofee>1.5 USDT</tofee>
+						<minamount>20 USD</minamount>
+						<maxamount>254.6816 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>ADVCRUB</to>
+						<in>1.1111111111111</in>
+						<out>97.7922</out>
+						<amount>1280</amount>
+						<maxamount>0 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCRUB</from>
+						<to>ADVCUSD</to>
+						<in>106.21505376344</in>
+						<out>1</out>
+						<amount>872.58</amount>
+						<minfee>1 USD</minfee>
+						<minamount>1062.1507 RUB</minamount>
+						<maxamount>92681.1445 RUB</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>EPAYUSD</to>
+						<in>1.0362694300518</in>
+						<out>1</out>
+						<amount>2011.88</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>2084.8497 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCRUB</from>
+						<to>ADVCEUR</to>
+						<in>109.81221052632</in>
+						<out>1</out>
+						<amount>47.92</amount>
+						<minfee>1 EUR</minfee>
+						<minamount>1098.1216 RUB</minamount>
+						<maxamount>5262.1985 RUB</maxamount>
+					</item>
+				<item>
+					<from>ADVCUAH</from>
+						<to>EPCUSD</to>
+						<in>44.173140954495</in>
+						<out>1</out>
+						<amount>1095.1468</amount>
+						<minamount>500 UAH</minamount>
+						<maxamount>10000 UAH</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>TRX</to>
+						<in>0.089974554707379</in>
+						<out>1</out>
+						<amount>59228.1419</amount>
+						<tofee>5 TRX</tofee>
+						<minamount>20 USD</minamount>
+						<maxamount>5329.0257 USD</maxamount>
+					</item>
+				<item>
+					<from>USDTTRC20</from>
+						<to>USDTBEP20</to>
+						<in>1.0025062656642</in>
+						<out>1</out>
+						<amount>251.4981</amount>
+						<tofee>1.5 USDT</tofee>
+						<minamount>20 USDT</minamount>
+						<maxamount>252.1284 USDT</maxamount>
+					</item>
+				<item>
+					<from>ADVCEUR</from>
+						<to>TRX</to>
+						<in>0.085948717948718</in>
+						<out>1</out>
+						<amount>59228.1419</amount>
+						<tofee>5 TRX</tofee>
+						<minamount>20 EUR</minamount>
+						<maxamount>5090.5829 EUR</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>USDTBEP20</to>
+						<in>1.0416666666667</in>
+						<out>1</out>
+						<amount>251.4981</amount>
+						<tofee>1.5 USDT</tofee>
+						<minamount>20 USD</minamount>
+						<maxamount>261.9772 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCEUR</from>
+						<to>USDTTRC20</to>
+						<in>1.0282776349614</in>
+						<out>1.0561</out>
+						<amount>5824.7587</amount>
+						<tofee>1.5 USDT</tofee>
+						<minamount>19.4731 EUR</minamount>
+						<maxamount>5671.3087 EUR</maxamount>
+					</item>
+				<item>
+					<from>ADVCRUB</from>
+						<to>TRX</to>
+						<in>9.0052577319588</in>
+						<out>1</out>
+						<amount>59228.1419</amount>
+						<tofee>5 TRX</tofee>
+						<minamount>2000 RUB</minamount>
+						<maxamount>500000 RUB</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>USDTTRC20</to>
+						<in>1.007556675063</in>
+						<out>1</out>
+						<amount>5824.7587</amount>
+						<tofee>1.5 USDT</tofee>
+						<minamount>20.1511 USD</minamount>
+						<maxamount>5868.7745 USD</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>TRX</to>
+						<in>0.091134020618557</in>
+						<out>1</out>
+						<amount>59228.1419</amount>
+						<tofee>5 TRX</tofee>
+						<minamount>20 USD</minamount>
+						<maxamount>5397.6987 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCRUB</from>
+						<to>USDTTRC20</to>
+						<in>101.83505154639</in>
+						<out>1</out>
+						<amount>5824.7587</amount>
+						<tofee>1.5 USDT</tofee>
+						<minamount>2036.7014 RUB</minamount>
+						<maxamount>500000 RUB</maxamount>
+					</item>
+				<item>
+					<from>PREUR</from>
+						<to>TRX</to>
+						<in>0.089148936170213</in>
+						<out>1</out>
+						<amount>59228.1419</amount>
+						<tofee>5 TRX</tofee>
+						<minamount>20 EUR</minamount>
+						<maxamount>5280.1258 EUR</maxamount>
+					</item>
+				<item>
+					<from>PREUR</from>
+						<to>CASHAMD</to>
+						<in>1.1111111111111</in>
+						<out>417</out>
+						<amount>1756024.862</amount>
+						<minfee>40000 AMD</minfee>
+						<minamount>1065.814 EUR</minamount>
+						<maxamount>4678.9898 EUR</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>PRRUB</from>
+						<to>TRX</to>
+						<in>9.0052577319588</in>
+						<out>1</out>
+						<amount>59228.1419</amount>
+						<tofee>5 TRX</tofee>
+						<minamount>2000 RUB</minamount>
+						<maxamount>500000 RUB</maxamount>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>PREUR</to>
+						<in>1.0831794871795</in>
+						<out>1</out>
+						<amount>1.3167</amount>
+						<minfee>1 EUR</minfee>
+						<maxamount>0 USD</maxamount>
+					</item>
+				<item>
+					<from>PRRUB</from>
+						<to>PREUR</to>
+						<in>112.17376344086</in>
+						<out>1</out>
+						<amount>1.3167</amount>
+						<minfee>1 EUR</minfee>
+						<maxamount>0 RUB</maxamount>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>PRRUB</to>
+						<in>1.0178117048346</in>
+						<out>97.7922</out>
+						<amount>2482.0092</amount>
+						<minamount>10 USD</minamount>
+						<maxamount>25.8325 USD</maxamount>
+					</item>
+				<item>
+					<from>EPAYUSD</from>
+						<to>TRX</to>
+						<in>0.094798927613941</in>
+						<out>1</out>
+						<amount>59228.1419</amount>
+						<tofee>5 TRX</tofee>
+						<minamount>20 USD</minamount>
+						<maxamount>5614.7643 USD</maxamount>
+					</item>
+				<item>
+					<from>ADVCEUR</from>
+						<to>PRRUB</to>
+						<in>1.0204081632653</in>
+						<out>103.2783</out>
+						<amount>2482.0092</amount>
+						<minamount>10 EUR</minamount>
+						<maxamount>24.5227 EUR</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>TRX</to>
+						<in>0.093052631578947</in>
+						<out>1</out>
+						<amount>59228.1419</amount>
+						<tofee>5 TRX</tofee>
+						<minamount>20 USD</minamount>
+						<maxamount>2160.7222 USD</maxamount>
+					</item>
+				<item>
+					<from>PMUSD</from>
+						<to>CASHAMD</to>
+						<in>1.1363636363636</in>
+						<out>395</out>
+						<amount>1756024.862</amount>
+						<minfee>40000 AMD</minfee>
+						<minamount>1150.748 USD</minamount>
+						<maxamount>2160.7222 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>ADVCUSD</from>
+						<to>CASHAMD</to>
+						<in>1.1111111111111</in>
+						<out>395</out>
+						<amount>1756024.862</amount>
+						<minfee>40000 AMD</minfee>
+						<minamount>1125.1758 USD</minamount>
+						<maxamount>4939.5917 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>ADVCEUR</from>
+						<to>CASHAMD</to>
+						<in>1.1111111111111</in>
+						<out>417</out>
+						<amount>1756024.862</amount>
+						<minfee>40000 AMD</minfee>
+						<minamount>1065.814 EUR</minamount>
+						<maxamount>4678.9898 EUR</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>ADVCRUB</from>
+						<to>CASHAMD</to>
+						<in>1.1111111111111</in>
+						<out>4</out>
+						<amount>1756024.862</amount>
+						<minfee>40000 AMD</minfee>
+						<minamount>111111.1111 RUB</minamount>
+						<maxamount>487784.6839 RUB</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>PRUSD</from>
+						<to>CASHAMD</to>
+						<in>1.1111111111111</in>
+						<out>395</out>
+						<amount>1756024.862</amount>
+						<minfee>40000 AMD</minfee>
+						<minamount>1125.1758 USD</minamount>
+						<maxamount>4939.5917 USD</maxamount>
+						<city>ERVN</city>
+					</item>
+				<item>
+					<from>PRRUB</from>
+						<to>CASHAMD</to>
+						<in>1.1111111111111</in>
+						<out>4</out>
+						<amount>1756024.862</amount>
+						<minfee>40000 AMD</minfee>
+						<minamount>111111.1111 RUB</minamount>
+						<maxamount>487784.6839 RUB</maxamount>
+						<city>ERVN</city>
+					</item>
+			</rates>
+	
